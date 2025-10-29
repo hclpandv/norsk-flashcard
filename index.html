@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flashcard App</title>
-  <!-- Bootstrap CSS -->
+  <title>Norsk Flashcards</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -63,7 +62,7 @@
 </head>
 <body>
 
-  <h2 class="mb-4 text-center">Flashcard App</h2>
+  <h2 class="mb-4 text-center">Norsk Flashcards</h2>
 
   <div class="card" id="flashcard">
     <div class="card-inner">
@@ -77,10 +76,10 @@
     <button class="btn btn-secondary" id="shuffleBtn">Shuffle</button>
   </div>
 
-  <!-- js-yaml -->
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
-
   <script>
+    const githubYAML = 'https://raw.githubusercontent.com/hclpandv/norsk-flashcard/main/flashcards.yaml';
+
     let flashcards = [];
     let currentIndex = 0;
     let showingAnswer = false;
@@ -93,7 +92,7 @@
 
     async function loadFlashcards() {
       try {
-        const response = await fetch('flashcards.yaml');
+        const response = await fetch(githubYAML);
         const yamlText = await response.text();
         flashcards = jsyaml.load(yamlText);
         showCard();
@@ -126,7 +125,7 @@
       showCard();
     });
 
-    // Load YAML flashcards on page load
+    // Load flashcards from GitHub on page load
     loadFlashcards();
   </script>
 
