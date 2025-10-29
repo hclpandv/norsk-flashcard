@@ -8,11 +8,12 @@
 <style>
 body { background-color: #f8f9fa; display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:100vh; padding:20px;}
 .card { width:350px; height:200px; display:flex; align-items:center; justify-content:center; font-size:20px; text-align:center; cursor:pointer; transition:transform 0.5s; perspective:1000px; margin-bottom:20px;}
-.card-inner { position:relative; width:100%; height:100%; border-radius:10px; background-color:#fff; box-shadow:0 8px 16px rgba(0,0,0,0.2); display:flex; align-items:center; justify-content:center; backface-visibility:hidden; transform-style:preserve-3d; padding:20px;}
+.card-inner { position:relative; width:100%; height:100%; border-radius:10px; background-color:#fff; box-shadow:0 8px 16px rgba(0,0,0,0.2); display:flex; align-items:center; justify-content:center; backface-visibility:hidden; transform-style: preserve-3d; padding:20px;}
 .card.flipped .card-inner { transform: rotateY(180deg); }
 .card-front,.card-back { position:absolute; width:100%; height:100%; display:flex; align-items:center; justify-content:center; backface-visibility:hidden; }
 .card-back { transform: rotateY(180deg); background-color:#e9ecef; }
 .progress-container { width:350px; margin-bottom:15px; }
+footer { font-size:0.85rem; color:#6c757d; margin-top:20px; }
 </style>
 </head>
 <body>
@@ -53,6 +54,12 @@ body { background-color: #f8f9fa; display:flex; flex-direction:column; align-ite
   <button class="btn btn-danger" id="unknownBtn">Mark Unknown ❌</button>
 </div>
 
+<!-- Footer with credit -->
+<footer class="text-center">
+  Content courtesy of <a href="https://grammatikk.com/" target="_blank">grammatikk.com</a>. 
+  This app and its flashcards are free to use for any purpose.
+</footer>
+
 <!-- JS libraries -->
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script>
@@ -70,12 +77,12 @@ const progressBar = document.getElementById('progressBar');
 let flashcards = [];
 let currentIndex = 0;
 let showingAnswer = false;
-let progress = {}; // tracks known/unknown
+let progress = {};
 
 // Load flashcards from GitHub
 async function loadFlashcards(fileName) {
   try {
-    const url = `${baseURL}${fileName}?${new Date().getTime()}`; // cache-busting
+    const url = `${baseURL}${fileName}?${new Date().getTime()}`;
     const response = await fetch(url);
     const yamlText = await response.text();
     flashcards = jsyaml.load(yamlText);
@@ -89,14 +96,14 @@ async function loadFlashcards(fileName) {
   }
 }
 
-// Load progress from localStorage for this set
+// Load progress
 function loadProgress(fileName) {
   const saved = localStorage.getItem('progress-' + fileName);
   progress = saved ? JSON.parse(saved) : {};
   updateProgressBar();
 }
 
-// Save progress to localStorage
+// Save progress
 function saveProgress(fileName) {
   localStorage.setItem('progress-' + fileName, JSON.stringify(progress));
 }
@@ -109,6 +116,7 @@ function showCard() {
   const cardData = flashcards[currentIndex];
   cardFront.textContent = cardData.question;
   cardBack.textContent = cardData.answer;
+  updateProgressBar();
 }
 
 // Update progress bar
@@ -154,7 +162,7 @@ unknownBtn.addEventListener('click', () => {
 selector.addEventListener('change', () => {
   const selectedFile = selector.value;
   loadFlashcards(selectedFile);
-  localStorage.setItem('lastSet', selectedFile); // remember selection
+  localStorage.setItem('lastSet', selectedFile);
 });
 
 // Load last used set
