@@ -1,0 +1,191 @@
+- question: "å være (to be)"
+  answer: "er - var - har vært"
+  related:
+    adjective: "værende (existing)"
+    noun: "væren (being)"
+- question: "å bli (to become)"
+  answer: "blir - ble - har blitt"
+  related:
+    adjective: "blivende (becoming)"
+- question: "å be (to pray, to ask)"
+  answer: "ber - bad - har bedt"
+  related:
+    noun: "bønn (prayer)"
+- question: "å begynne (to begin)"
+  answer: "begynner - begynte - har begynt"
+  related:
+    noun: "begynnelse (beginning)"
+- question: "å bestille (to order food etc.)"
+  answer: "bestiller - bestilte - har bestilt"
+  related:
+    noun: "bestilling (order)"
+- question: "å burde (ought to)"
+  answer: "bør - burde - har burdet"
+- question: "å bære (to carry)"
+  answer: "bærer - bar - har båret"
+  related:
+    noun: "bærer (carrier)"
+- question: "å dra (to go, move, leave; pull)"
+  answer: "drar - dro - har dratt"
+- question: "å drikke (to drink)"
+  answer: "drikker - drakk - har drukket"
+  related:
+    noun: "drikk (drink, beverage)"
+- question: "å finne (to find)"
+  answer: "finner - fant - har funnet"
+  related:
+    noun: "funn (finding, discovery)"
+- question: "å finnes (to exist)"
+  answer: "finnes - fantes - har funnes"
+- question: "å foretrekke (to prefer)"
+  answer: "foretrekker - foretrakk - har foretrukket"
+- question: "å forstå (to understand)"
+  answer: "forstår - forstod/forsto - har forstått"
+  related:
+    noun: "forståelse (understanding)"
+    adjective: "forståelig (understandable)"
+- question: "å fortelle (to tell)"
+  answer: "forteller - fortalte - har fortalt"
+  related:
+    noun: "fortelling (story, tale)"
+- question: "å få (to get, receive)"
+  answer: "får - fikk - har fått"
+- question: "å gi (to give)"
+  answer: "gir - ga - har gitt"
+  related:
+    noun: "gave (gift)"
+- question: "å gjelde (to concern)"
+  answer: "gjelder - gjaldt - har gjeldt"
+- question: "å gjøre (to do)"
+  answer: "gjør - gjorde - har gjort"
+  related:
+    noun: "gjøremål (task)"
+    adjective: "gjørbar (doable)"
+- question: "å glede seg (to look forward to)"
+  answer: "gleder seg - gledet seg - har gledet seg"
+  related:
+    noun: "glede (joy)"
+- question: "å gråte (to cry, weep)"
+  answer: "gråter - gråt - har grått"
+  related:
+    noun: "gråt (crying)"
+- question: "å gå (to walk)"
+  answer: "går - gikk - har gått"
+  related:
+    noun: "gang (walk, hallway)"
+- question: "å ha (to have)"
+  answer: "har - hadde - har hatt"
+- question: "å hete (to be called)"
+  answer: "heter - het - har hett"
+- question: "å hjelpe (to help)"
+  answer: "hjelper - hjalp - har hjulpet"
+  related:
+    noun: "hjelp (help)"
+    adjective: "hjelper (helper)"
+- question: "å kjenne (to know (person, place); feel)"
+  answer: "kjenner - kjente - har kjent"
+  related:
+    noun: "kjennskap (acquaintance)"
+- question: "å komme (to come)"
+  answer: "kommer - kom - har kommet"
+  related:
+    noun: "ankomst (arrival)"
+- question: "å kunne (can)"
+  answer: "kan - kunne - har kunnet"
+  related:
+    noun: "evne (ability)"
+- question: "å legge (to put, lay down, refl.: go to bed)"
+  answer: "legger - la - har lagt"
+- question: "å lete (to look for)"
+  answer: "leter - lette - har lett"
+  related:
+    noun: "leting (searching)"
+- question: "å ligge (to lie down, be situated)"
+  answer: "ligger - lå - har ligget"
+- question: "å møte (to meet)"
+  answer: "møter - møtte - har møtt"
+  related:
+    noun: "møte (meeting)"
+- question: "å se (to see)"
+  answer: "ser - så - har sett"
+  related:
+    noun: "syn (sight, vision)"
+- question: "å selge (to sell)"
+  answer: "selger - solgte - har solgt"
+  related:
+    noun: "salg (sale)"
+    noun: "selger (seller)"
+- question: "å sende (to send)"
+  answer: "sender - sendte - har sendt"
+  related:
+    noun: "sending (broadcast, transmission)"
+- question: "å sette (to put, refl.: sit down)"
+  answer: "setter - satte - har satt"
+- question: "å si (to say)"
+  answer: "sier - sa - har sagt"
+  related:
+    noun: "utsagn (statement)"
+- question: "å skrive (to write)"
+  answer: "skriver - skrev - har skrevet"
+  related:
+    noun: "skrift (writing)"
+- question: "å skulle (shall, will)"
+  answer: "skal - skulle - har skullet"
+- question: "å skyldes (to cause)"
+  answer: "skyldes - skyldtes - har skyldtes"
+  related:
+    noun: "skyld (guilt, fault)"
+- question: "å sove (to sleep)"
+  answer: "sover - sov - har sovet"
+  related:
+    noun: "søvn (sleep)"
+- question: "å spille (to play [games, sports])"
+  answer: "spiller - spilte - har spilt"
+  related:
+    noun: "spill (game)"
+    noun: "spiller (player)"
+- question: "å spørre (to ask)"
+  answer: "spør - spurte - har spurt"
+  related:
+    noun: "spørsmål (question)"
+- question: "å stå (to stand)"
+  answer: "står - sto/stod - har stått"
+  related:
+    noun: "stilling (position, job)"
+- question: "å synes (to think, mean, seem)"
+  answer: "synes - syntes - har syntes"
+- question: "å ta (to take)"
+  answer: "tar - tok - har tatt"
+- question: "å tenke (to think)"
+  answer: "tenker - tenkte - har tenkt"
+  related:
+    noun: "tanke (thought)"
+- question: "å treffe (to meet)"
+  answer: "treffer - traff - har truffet"
+  related:
+    noun: "treff (hit, meeting)"
+- question: "å trives (to feel fine, enjoy a situation)"
+  answer: "trives - trivdes - har trivdes"
+- question: "å velge (to choose)"
+  answer: "velger - valgte - har valgt"
+  related:
+    noun: "valg (choice, election)"
+- question: "å ville (want to, will)"
+  answer: "vil - ville - har villet"
+- question: "å vite (to know [knowledge])"
+  answer: "vet - visste - har visst"
+  related:
+    noun: "viten (knowledge)"
+- question: "å bestemme (to decide)"
+  answer: "bestemmer - bestemte - har bestemt"
+  related:
+    noun: "bestemmelse (decision)"
+- question: "å fly (to fly)"
+  answer: "flyr - fløy - har flydd/har fløyet"
+  related:
+    noun: "fly (plane)"
+- question: "å vinne (to win)"
+  answer: "vinner - vant - har vunnet"
+  related:
+    noun: "vinner (winner)"
+    noun: "seier (victory)"
