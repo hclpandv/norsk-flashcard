@@ -117,7 +117,7 @@ function showCard() {
   card.classList.remove('flipped');
   const cardData = flashcards[currentIndex];
   cardFront.textContent = cardData.question;
-  cardBack.textContent = cardData.answer;
+  cardBack.innerHTML = cardData.answer.replace(/\n/g, '<br>');
   updateProgressBar();
 }
 
