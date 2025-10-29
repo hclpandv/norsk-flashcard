@@ -62,46 +62,56 @@
 </head>
 <body>
 
-  <h2 class="mb-4 text-center">Norsk Flashcards</h2>
+  <h2 class="mb-3 text-center">🇳🇴 Norsk Flashcards</h2>
 
+  <!-- Dropdown for selecting flashcard set -->
+  <select id="setSelector" class="form-select mb-4" style="width: 350px;">
+    <option value="flashcards-basics.yaml">Basics</option>
+    <option value="flashcards-verbs.yaml">Verbs</option>
+    <option value="flashcards-phrases.yaml">Phrases</option>
+  </select>
+
+  <!-- Flashcard -->
   <div class="card" id="flashcard">
     <div class="card-inner">
-      <div class="card-front"></div>
+      <div class="card-front">Loading...</div>
       <div class="card-back"></div>
     </div>
   </div>
 
+  <!-- Controls -->
   <div class="d-flex gap-2">
     <button class="btn btn-primary" id="nextBtn">Next Card</button>
     <button class="btn btn-secondary" id="shuffleBtn">Shuffle</button>
   </div>
 
+  <!-- JS libraries -->
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script>
-    // Raw GitHub YAML with cache-busting
-    const githubYAML = 'https://raw.githubusercontent.com/hclpandv/norsk-flashcard/main/flashcards.yaml';
-
-    let flashcards = [];
-    let currentIndex = 0;
-    let showingAnswer = false;
-
+    const baseURL = 'https://raw.githubusercontent.com/hclpandv/norsk-flashcard/main/';
+    const selector = document.getElementById('setSelector');
     const card = document.getElementById('flashcard');
     const cardFront = card.querySelector('.card-front');
     const cardBack = card.querySelector('.card-back');
     const nextBtn = document.getElementById('nextBtn');
     const shuffleBtn = document.getElementById('shuffleBtn');
 
-    async function loadFlashcards() {
+    let flashcards = [];
+    let currentIndex = 0;
+    let showingAnswer = false;
+
+    async function loadFlashcards(fileName) {
       try {
-        // Append timestamp to URL for cache-busting
-        const urlWithCacheBuster = githubYAML + '?' + new Date().getTime();
-        const response = await fetch(urlWithCacheBuster);
+        const url = `${baseURL}${fileName}?${new Date().getTime()}`; // cache-busting
+        const response = await fetch(url);
         const yamlText = await response.text();
         flashcards = jsyaml.load(yamlText);
+        currentIndex = 0;
         showCard();
       } catch (err) {
         console.error("Error loading flashcards:", err);
         cardFront.textContent = "Failed to load flashcards.";
+        cardBack.textContent = "";
       }
     }
 
@@ -109,28 +119,42 @@
       if (!flashcards.length) return;
       showingAnswer = false;
       card.classList.remove('flipped');
-      cardFront.textContent = flashcards[currentIndex].question;
-      cardBack.textContent = flashcards[currentIndex].answer;
+      const cardData = flashcards[currentIndex];
+      cardFront.textContent = cardData.question;
+      cardBack.textContent = cardData.answer;
     }
 
+    // Flip card
     card.addEventListener('click', () => {
       showingAnswer = !showingAnswer;
       card.classList.toggle('flipped');
     });
 
+    // Next button
     nextBtn.addEventListener('click', () => {
+      if (!flashcards.length) return;
       currentIndex = (currentIndex + 1) % flashcards.length;
       showCard();
     });
 
+    // Shuffle button
     shuffleBtn.addEventListener('click', () => {
+      if (!flashcards.length) return;
       currentIndex = Math.floor(Math.random() * flashcards.length);
       showCard();
     });
 
-    // Load flashcards from GitHub on page load
-    loadFlashcards();
-  </script>
+    // Handle set selection
+    selector.addEventListener('change', () => {
+      const selectedFile = selector.value;
+      loadFlashcards(selectedFile);
+      localStorage.setItem('lastSet', selectedFile); // remember selection
+    });
 
+    // Load last used set on startup
+    const lastSet = localStorage.getItem('lastSet') || 'flashcards-basics.yaml';
+    selector.value = lastSet;
+    loadFlashcards(lastSet);
+  </script>
 </body>
 </html>
