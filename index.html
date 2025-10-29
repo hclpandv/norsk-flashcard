@@ -78,6 +78,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script>
+    // Raw GitHub YAML with cache-busting
     const githubYAML = 'https://raw.githubusercontent.com/hclpandv/norsk-flashcard/main/flashcards.yaml';
 
     let flashcards = [];
@@ -92,7 +93,9 @@
 
     async function loadFlashcards() {
       try {
-        const response = await fetch(githubYAML);
+        // Append timestamp to URL for cache-busting
+        const urlWithCacheBuster = githubYAML + '?' + new Date().getTime();
+        const response = await fetch(urlWithCacheBuster);
         const yamlText = await response.text();
         flashcards = jsyaml.load(yamlText);
         showCard();
