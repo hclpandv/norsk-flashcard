@@ -27,26 +27,28 @@
 
 - question: "redd"
   answer: |
-    afraid; redd for = afraid of (Han er redd for å fly.)
+    afraid; redd for=afraid of 
+    Han er redd for å fly
     redningsmann = saviour
 
-- question: "Å redde"
+- question: "å redde"
   answer: |
-    to save / rescue (Brannmannen reddet mange mennesker.)
+    to save / rescue
+    Brannmannen reddet mange mennesker
 
-- question: "Å beskytte"
+- question: "å beskytte"
   answer: |
-    to protect (Askeladden prøver å beskytte kongeriket.)
+    to protect (Askeladden prøver å beskytte kongeriket)
 
-- question: "Å skyte"
+- question: "å skyte"
   answer: |
-    to shoot (å skyte fart, å skyte seg selv i foten)
+    to shoot (å skyte seg selv i foten)
     En profesjonell skytter → a professional shooter
     Norsk Skytterforbund → The Norwegian Shooting Association
 
 - question: "skikkelig"
   answer: |
-    really / truly (Det er skikkelig bra!)
+    really/truly (Det er skikkelig bra!)
 
 - question: "enda"
   answer: |
