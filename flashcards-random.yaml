@@ -88,3 +88,18 @@
      Han foreslår at vi drar tidlig. 
      et forslag=a suggestion / a proposal
      Jeg har et forslag
+
+- question: "ei løgn"
+  answer: |
+     lie (en løgn-løgner-løgnene)
+     Det var en løgn. → That was a lie.
+     Han forteller løgner hele tiden
+
+- question: "heldigvis"
+  answer: |
+     fortunately
+
+- question: "dessverre"
+  answer: |
+     unfortunately
+
