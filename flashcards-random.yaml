@@ -157,3 +157,15 @@
   answer: |
       occasion
 
+- question: "trygg"
+  answer: |
+      safe / secure / confident (trygg-trygt-trygge)
+      Jeg føler meg trygg her. → I feel safe here.
+      Barna er trygge i skolen
+      Dette er et trygt sted å bo
+
+- question: "Knask eller knep"
+  answer: |
+      Knask = candy / treats
+      Knep = trick / prank
+
