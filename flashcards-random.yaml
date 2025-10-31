@@ -124,3 +124,12 @@
      ikke lyv → dont lie
      Vi kan ikke bare fortsette å lyve for ham.
 
+- question: "nok"
+  answer: |
+     enough
+     MFA er ikke alltid nok for informasjonssikkerhet.
+
+- question: "en angriper"
+  answer: |
+     an attacker
+     Angriperene har blitt smartere → The attackers have become smarter
