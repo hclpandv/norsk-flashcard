@@ -183,3 +183,12 @@
       Jeg jakter på elg → I hunt elk
       Politiet jakter på tyven → The police are chasing the thief
 
+- question: "å spore opp"
+  answer: |
+      track down/trace (sporer opp-sporet opp-har sporet opp)
+      Politiet sporet opp tyven → The police tracked down the thief
+
+- question: "å fange"
+  answer: |
+      catch/capture (fanger-fanget-har fanget)
+      De fanget fisken i elva → They caught the fish in the river
