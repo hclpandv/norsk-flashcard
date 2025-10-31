@@ -47,7 +47,8 @@ footer { font-size:0.85rem; color:#6c757d; margin-top:20px; }
 
 <!-- Controls -->
 <div class="d-flex gap-2 mb-3">
-  <button class="btn btn-primary" id="nextBtn">Next Card</button>
+  <button class="btn btn-outline-primary" id="prevBtn">Previous</button>
+  <button class="btn btn-primary" id="nextBtn">Next</button>
   <button class="btn btn-secondary" id="shuffleBtn">Shuffle</button>
 </div>
 
@@ -72,6 +73,7 @@ const card = document.getElementById('flashcard');
 const cardFront = card.querySelector('.card-front');
 const cardBack = card.querySelector('.card-back');
 const nextBtn = document.getElementById('nextBtn');
+const prevBtn = document.getElementById('prevBtn');
 const shuffleBtn = document.getElementById('shuffleBtn');
 const knownBtn = document.getElementById('knownBtn');
 const unknownBtn = document.getElementById('unknownBtn');
@@ -139,6 +141,11 @@ card.addEventListener('click', () => {
 
 nextBtn.addEventListener('click', () => {
   currentIndex = (currentIndex + 1) % flashcards.length;
+  showCard();
+});
+
+prevBtn.addEventListener('click', () => {
+  currentIndex = (currentIndex - 1 + flashcards.length) % flashcards.length;
   showCard();
 });
 
