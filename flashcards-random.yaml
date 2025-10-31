@@ -159,13 +159,27 @@
 
 - question: "trygg"
   answer: |
-      safe / secure / confident (trygg-trygt-trygge)
+      safe/secure/ confident (trygg-trygt-trygge)
       Jeg føler meg trygg her. → I feel safe here.
       Barna er trygge i skolen
       Dette er et trygt sted å bo
 
+- question: "å trykke"
+  answer: |
+      press/push/click (trykker-trykket-har trykket)
+      Trykk på knappen → Press the button
+      
+
 - question: "Knask eller knep"
   answer: |
+      trick or treat
       Knask = candy / treats
       Knep = trick / prank
+
+
+- question: "å jakte"
+  answer: |
+      hunt/chase (jakter-jaktet-har jaktet)
+      Jeg jakter på elg → I hunt elk
+      Politiet jakter på tyven → The police are chasing the thief
 
