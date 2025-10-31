@@ -6,3 +6,5 @@ The app is free to use and open source.
 
 App is hosted as GH page: https://hclpandv.github.io/norsk-flashcard/
 
+
+https://toppnorsk.com/2021/04/04/bytte/
