@@ -153,6 +153,10 @@
      Den første verdenskrigen startet i 1914.
      Den andre verdenskrigen sluttet i 1945.
 
+- question: "felleskap"
+  answer: |
+      community
+
 - question: "anledning"
   answer: |
       occasion
@@ -209,3 +213,36 @@
 - question: "tilfeldig"
   answer: |
       random
+
+- question: "tilbringer"
+  answer: |
+      spending time
+
+- question: "høytider"
+  answer: |
+      holidays
+
+- question: "avgjørelser"
+  answer: |
+      decisions
+
+- question: "lidenskap"
+  answer: |
+      passion
+
+- question: "nødvendighet"
+  answer: |
+      necessity
+
+- question: "En beskjed"
+  answer: |
+       a message
+       Gi meg beskjed om det passer → let me know if it suits you.”
+
+- question: "En ulykke"
+  answer: |
+       an accident
+
+- question: "En samling"
+  answer: |
+       a gathering
