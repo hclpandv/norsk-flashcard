@@ -24,13 +24,7 @@ footer { font-size:0.85rem; color:#6c757d; margin-top:20px; }
 <h2 class="mb-3 text-center">🇳🇴 Norsk Flashcards</h2>
 
 <!-- Set Selector -->
-<select id="setSelector" class="form-select mb-2" style="width:350px;">
-  <option value="flashcards-irregular-verbs.yaml">Irregulære verb</option>
-  <option value="flashcards-random.yaml">Random</option>
-  <option value="flashcards-adjectives.yaml">Adjectives</option>
-  <option value="flashcards-prepositions.yaml">Preposisjoner</option>
-  <option value="flashcards-uttrykk.yaml">Uttrykk/Expressions</option>  
-</select>
+<select id="category" class="form-select mb-3" style="width: 350px;"></select>
 
 <!-- Progress -->
 <div class="progress-container">
@@ -71,7 +65,7 @@ footer { font-size:0.85rem; color:#6c757d; margin-top:20px; }
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script>
 const baseURL = 'https://raw.githubusercontent.com/hclpandv/norsk-flashcard/main/';
-const selector = document.getElementById('setSelector');
+const selector = document.getElementById('category');
 const card = document.getElementById('flashcard');
 const cardFront = card.querySelector('.card-front');
 const cardBack = card.querySelector('.card-back');
@@ -87,6 +81,30 @@ let flashcards = [];
 let currentIndex = 0;
 let showingAnswer = false;
 let progress = {};
+
+// Populate dropdown
+async function populateDropdown() {
+  const response = await fetch('https://api.github.com/repos/hclpandv/norsk-flashcard/contents/');
+  const files = await response.json();
+
+  const yamlFiles = files.filter(f => f.name.endsWith('.yaml'));
+  selector.innerHTML = ''; // clear
+
+  yamlFiles.forEach(file => {
+    const option = document.createElement('option');
+    option.value = file.name;
+    option.textContent = file.name.replace('flashcards-', '').replace('.yaml', '');
+    selector.appendChild(option);
+  });
+
+  const lastSet = localStorage.getItem('lastSet') || yamlFiles[0]?.name;
+  if (lastSet) {
+    selector.value = lastSet;
+    loadFlashcards(lastSet);
+  }
+}
+
+populateDropdown();
 
 // Load flashcards from GitHub
 async function loadFlashcards(fileName) {
