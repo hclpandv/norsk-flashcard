@@ -68,15 +68,16 @@
     to last / to continue 
     Hvor lenge varer den? = How long does it last?
 
-- question: "å sprekke "
+- question: "å sprekke"
   answer: |
     to crack / to pop 
     Ja, ballonger som sprekker
 
 - question: "å bestå"
   answer: |
-    to pass (exam) ()
-    Besto du første gangen? → did you pass it in first attempt
+    to pass(exam)/to consist of (bestå-bestod-har bestått)
+    Bestå du første gangen? → did you pass it in first attempt
+    Kurset består av fem deler. → The course consists of five parts.
 
 - question: "å krangle"
   answer: |
