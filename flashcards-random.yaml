@@ -65,187 +65,187 @@
 
 - question: "å vare"
   answer: |
-     to last / to continue 
-     Hvor lenge varer den? = How long does it last?
+    to last / to continue 
+    Hvor lenge varer den? = How long does it last?
 
 - question: "å sprekke "
   answer: |
-     to crack / to pop 
-     Ja, ballonger som sprekker
+    to crack / to pop 
+    Ja, ballonger som sprekker
 
 - question: "å bestå"
   answer: |
-     to pass (exam / test)
-     Besto du første gangen? → did you pass it in first attempt
+    to pass (exam / test)
+    Besto du første gangen? → did you pass it in first attempt
 
 - question: "å krangle"
   answer: |
-     to fight
+    to fight
 
 - question: "å foreslå"
   answer: |
-     to suggest / to propose / to recommend
-     Han foreslår at vi drar tidlig. 
-     et forslag=a suggestion / a proposal
-     Jeg har et forslag
+    to suggest / to propose / to recommend
+    Han foreslår at vi drar tidlig. 
+    et forslag=a suggestion / a proposal
+    Jeg har et forslag
 
 - question: "ei løgn"
   answer: |
-     lie (en løgn-løgner-løgnene)
-     Det var en løgn. → That was a lie.
-     Han forteller løgner hele tiden
+    lie (en løgn-løgner-løgnene)
+    Det var en løgn. → That was a lie.
+    Han forteller løgner hele tiden
 
 - question: "heldigvis"
   answer: |
-     fortunately
+    fortunately
 
 - question: "dessverre"
   answer: |
-     unfortunately
+    unfortunately
 
 - question: "lei av"
   answer: |
-     tired of
-     Hun er lei av å jobbe hele tiden. → She is tired of working all the time.
+    tired of
+    Hun er lei av å jobbe hele tiden. → She is tired of working all the time.
 
 - question: "ei måke"
   answer: |
-     seagull (ei måke-måker-måkene)
-     Den måka dreit på huet ditt → That seagull pooped on your head
+    seagull (ei måke-måker-måkene)
+    Den måka dreit på huet ditt → That seagull pooped on your head
 
 - question: "en drit"
   answer: |
-     poop/crap (en drit-driter-dritene)
-     å drite → Han driter=He poops.
+    poop/crap (en drit-driter-dritene)
+    å drite → Han driter=He poops.
 
 - question: "å lyve"
   answer: |
-     to lie (lyver-løy-har løyet)
-     ikke lyv → dont lie
-     Vi kan ikke bare fortsette å lyve for ham.
+    to lie (lyver-løy-har løyet)
+    ikke lyv → dont lie
+    Vi kan ikke bare fortsette å lyve for ham.
 
 - question: "nok"
   answer: |
-     enough
-     MFA er ikke alltid nok for informasjonssikkerhet.
+    enough
+    MFA er ikke alltid nok for informasjonssikkerhet.
 
 - question: "en angriper"
   answer: |
-     an attacker
-     Angriperene har blitt smartere → The attackers have become smarter
+    an attacker
+    Angriperene har blitt smartere → The attackers have become smarter
 
 - question: "forferdelig"
   answer: |
-     terrible
+    terrible
 
 - question: "nøyaktig"
   answer: |
-     exact
-     et nøyaktig tall → an exact number
+    exact
+    et nøyaktig tall → an exact number
 
 - question: "skummelt"
   answer: |
-     scary 
+    scary 
 
 - question: "verdenskrig"
   answer: |
-     world war (krig=war)
-     Den første verdenskrigen startet i 1914.
-     Den andre verdenskrigen sluttet i 1945.
+    world war (krig=war)
+    Den første verdenskrigen startet i 1914.
+    Den andre verdenskrigen sluttet i 1945.
 
 - question: "felleskap"
   answer: |
-      community
+    community
 
 - question: "anledning"
   answer: |
-      occasion
+    occasion
 
 - question: "trygg"
   answer: |
-      safe/secure/ confident (trygg-trygt-trygge)
-      Jeg føler meg trygg her. → I feel safe here.
-      Barna er trygge i skolen
-      Dette er et trygt sted å bo
+    safe/secure/ confident (trygg-trygt-trygge)
+    Jeg føler meg trygg her. → I feel safe here.
+    Barna er trygge i skolen
+    Dette er et trygt sted å bo
 
 - question: "å trykke"
   answer: |
-      press/push/click (trykker-trykket-har trykket)
-      Trykk på knappen → Press the button
+    press/push/click (trykker-trykket-har trykket)
+    Trykk på knappen → Press the button
       
 
 - question: "Knask eller knep"
   answer: |
-      trick or treat
-      Knask = candy / treats
-      Knep = trick / prank
+    trick or treat
+    Knask = candy / treats
+    Knep = trick / prank
 
 
 - question: "å jakte"
   answer: |
-      hunt/chase (jakter-jaktet-har jaktet)
-      Jeg jakter på elg → I hunt elk
-      Politiet jakter på tyven → The police are chasing the thief
+    hunt/chase (jakter-jaktet-har jaktet)
+    Jeg jakter på elg → I hunt elk
+    Politiet jakter på tyven → The police are chasing the thief
 
 - question: "å spore opp"
   answer: |
-      track down/trace (sporer opp-sporet opp-har sporet opp)
-      Politiet sporet opp tyven → The police tracked down the thief
+    track down/trace (sporer opp-sporet opp-har sporet opp)
+    Politiet sporet opp tyven → The police tracked down the thief
 
 - question: "å fange"
   answer: |
-      catch/capture (fanger-fanget-har fanget)
-      De fanget fisken i elva → They caught the fish in the river
+    catch/capture (fanger-fanget-har fanget)
+    De fanget fisken i elva → They caught the fish in the river
 
 - question: "å forsvinne"
   answer: |
-      to disappear (forsvinner-forsvant-har forsvunnet)
-      Han forsvant plutselig → He disappeared suddenly
-      Alle andre er forsvunnet → Everyone else has disappeared
+    to disappear (forsvinner-forsvant-har forsvunnet)
+    Han forsvant plutselig → He disappeared suddenly
+    Alle andre er forsvunnet → Everyone else has disappeared
 
 - question: "verdensrommet"
   answer: |
-      the universe/outer space 🚀
-      Astronauter reiser ut i verdensrommet → .. travel into space
-      Det finnes mange planeter i verdensrommet
-      en stjerne=star; et solsystem;en galakse; universet
+    the universe/outer space 🚀
+    Astronauter reiser ut i verdensrommet → .. travel into space
+    Det finnes mange planeter i verdensrommet
+    en stjerne=star; et solsystem;en galakse; universet
 
 - question: "tilfeldig"
   answer: |
-      random
+    random
 
 - question: "tilbringer"
   answer: |
-      spending time
+    spending time
 
 - question: "høytider"
   answer: |
-      holidays
+    holidays
 
 - question: "avgjørelser"
   answer: |
-      decisions
+    decisions
 
 - question: "lidenskap"
   answer: |
-      passion
+    passion
 
 - question: "nødvendighet"
   answer: |
-      necessity
+    necessity
 
 - question: "En beskjed"
   answer: |
-       a message
-       Gi meg beskjed om det passer → let me know if it suits you.”
+    a message
+    Gi meg beskjed om det passer → let me know if it suits you.”
 
 - question: "En ulykke"
   answer: |
-       an accident
+    an accident
 
 - question: "En samling"
   answer: |
-       a gathering
+    a gathering
 
 - question: "rar"
   answer: |
