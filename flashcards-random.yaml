@@ -75,7 +75,7 @@
 
 - question: "å bestå"
   answer: |
-    to pass (exam / test)
+    to pass (exam) ()
     Besto du første gangen? → did you pass it in first attempt
 
 - question: "å krangle"
@@ -84,10 +84,18 @@
 
 - question: "å foreslå"
   answer: |
-    to suggest / to propose / to recommend
+    to suggest/propose (foreslår-foreslo-har foreslått)
+    et forslag=a suggestion/a proposal
     Han foreslår at vi drar tidlig. 
-    et forslag=a suggestion / a proposal
+    Jeg foreslår noe annet → I suggest something else
     Jeg har et forslag
+
+- question: "å anbefale"
+  answer: |
+    to recommend (anbefaler-anbefalte-har anbefalt)
+    Jeg anbefaler denne filmen. → I recommend this movie
+    Hun har anbefalt den restauranten. → She has recommended that restaurant
+    Jeg anbefaler på det sterkeste → I strongly recommend
 
 - question: "ei løgn"
   answer: |
@@ -265,4 +273,3 @@
   answer: |
     The truth
     (related: ikke sant)
-
