@@ -1,0 +1,265 @@
+# både/begge
+- question: "Hvor er Tom og Lise? ___ er her. (både/begge?)"
+  answer: "Hvor er Tom og Lise? Begge er her."
+
+- question: "Jeg vil gjerne ha ___ bøkene. (både/begge?)"
+  answer: "Jeg vil gjerne ha begge bøkene."
+
+- question: "Jeg har ___ en bror og ei søster. (både/begge?)"
+  answer: "Jeg har både en bror og ei søster."
+
+- question: "___ Erik og Jens bor i Bergen. (både/begge?)"
+  answer: "Både Erik og Jens bor i Bergen."
+
+- question: "Hvilken vil du ha? Jeg vil ha ___. (både/begge?)"
+  answer: "Hvilken vil du ha? Jeg vil ha begge."
+
+- question: "Han driver ___ med dans og tennis. (både/begge?)"
+  answer: "Han driver både med dans og tennis."
+
+- question: "___ Ola og Kari leser ___ bøkene. (både/begge?)"
+  answer: "Både Ola og Kari leser begge bøkene."
+
+# Litt eller lite
+- question: "Jeg har ___ tid til å hjelpe deg. (Litt/lite?)"
+  answer: "Jeg har litt tid til å hjelpe deg."
+
+- question: "De kjøpte et ___ hus på landet. (Litt/lite?)"
+  answer: "De kjøpte et lite hus på landet."
+
+- question: "Vi har ganske ___ penger nå. (Litt/lite?)"
+  answer: "Vi har ganske lite penger nå."
+
+- question: "Hvor mye vil du ha? Bare ___. (Litt/lite?)"
+  answer: "Hvor mye vil du ha? Bare litt."
+
+- question: "Læreren kom ___ for sent i dag. (Litt/lite?)"
+  answer: "Læreren kom litt for sent i dag."
+
+- question: "Barna spiste for ___ til frokost. (Litt/lite?)"
+  answer: "Barna spiste for lite til frokost."
+
+- question: "Synes du at bordet er ___? (Litt/lite?)"
+  answer: "Synes du at bordet er lite?"
+
+- question: "Jeg må sove ___ før jeg skal reise. (Litt/lite?)"
+  answer: "Jeg må sove litt før jeg skal reise."
+
+# Synes eller tror
+- question: "Jeg ___ at han kommer fra Brasil. (tror/synes?)"
+  answer: "Jeg tror at han kommer fra Brasil."
+
+- question: "___ du det er kaldt her? (tror/synes?)"
+  answer: "Synes du det er kaldt her?"
+
+- question: "Den kjolen er fin, ___ jeg. (tror/synes?)"
+  answer: "Den kjolen er fin, synes jeg."
+
+- question: "Hvor gammel er jeg, ___ du? (tror/synes?)"
+  answer: "Hvor gammel er jeg, tror du?"
+
+- question: "Jeg ___ at filmen i går var bra. (tror/synes?)"
+  answer: "Jeg synes at filmen i går var bra."
+
+- question: "Jeg har ikke lest boka, men jeg ___ den er bra. (tror/synes?)"
+  answer: "Jeg har ikke lest boka, men jeg tror den er bra."
+
+- question: "___ du at jeg ___ filmen var bra? (tror/synes?)"
+  answer: "Tror du at jeg synes filmen var bra?"
+
+- question: "Jeg ___ denne oppgaven var lett! (tror/synes?)"
+  answer: "Jeg synes denne oppgaven var lett!"
+
+# Ja, jo eller nei?
+- question: "Kommer du fra Belgia? (Ja/Jo/Nei?)"
+  answer: "Ja, jeg kommer fra Belgia."
+
+- question: "Snakker du ikke fransk? (Jo/Nei?)"
+  answer: "Jo, jeg snakker fransk."
+
+- question: "Er han ikke gift? (Jo/Nei?)"
+  answer: "Jo, han er gift."
+
+- question: "Er du ikke enig? (Ja/Jo/Nei?)"
+  answer: "Nei, det er jeg ikke."
+
+- question: "Er du ikke enig? (Ja/Jo/Nei?)"
+  answer: "Jo, det er jeg."
+
+- question: "Kan du ikke komme i morgen? (Jo/Nei?)"
+  answer: "Jo, men ikke før klokka to."
+
+- question: "Liker du ham ikke? (Ja/Jo/Nei?)"
+  answer: "Nei, han er dum."
+
+- question: "Liker du ham? (Ja/Jo/Nei?)"
+  answer: "Ja, han er ganske hyggelig."
+
+# mix all
+- question: "___ du det er kaldt her? (Tro/synes?)"
+  answer: "Synes du det er kaldt her?"
+
+- question: "- Er du ikke enig?\n- ___, det er jeg. (Ja/jo?)"
+  answer: "Jo, det er jeg."
+
+- question: "Hvilken vil du ha? Jeg vil ha ___. (Både/begge?)"
+  answer: "Jeg vil ha begge."
+
+- question: "Else og John ___ hverandre godt. (Vite/kjenne?)"
+  answer: "Else og John kjenner hverandre godt."
+
+- question: "Denne er rød, men den er ___. (Forskjellig/annerledes?)"
+  answer: "Denne er rød, men den er annerledes."
+
+- question: "Han driver ___ med dans og tennis. (Både/begge?)"
+  answer: "Han driver både med dans og tennis."
+
+- question: "Hvor mye vil du ha? Bare ___. (Litt/lite?)"
+  answer: "Bare litt."
+
+- question: "___ du hva klokka er? (Vite/kjenne?)"
+  answer: "Vet du hva klokka er?"
+
+- question: "De må jobbe ___ i helga. (Mange/mye?)"
+  answer: "De må jobbe mye i helga."
+
+- question: "Hun har to veldig ___ venner. (Forskjellig/annerledes?)"
+  answer: "Hun har to veldig forskjellige venner."
+
+- question: "Jeg ___ at filmen i går var bra. (Tro/synes?)"
+  answer: "Jeg synes at filmen i går var bra."
+
+- question: "Synes du at bordet er ___? (Litt/lite?)"
+  answer: "Synes du at bordet er lite?"
+
+- question: "Har du ___ plass i huset? (Mange/mye?)"
+  answer: "Har du mye plass i huset?"
+
+- question: "___ Erik og Jens bor i Bergen. (Både/begge?)"
+  answer: "Både Erik og Jens bor i Bergen."
+
+- question: "- Kommer du fra Belgia?\n- ___, jeg kommer fra Belgia. (Ja/jo?)"
+  answer: "Ja, jeg kommer fra Belgia."
+
+- question: "Nei, jeg ___ ham ikke. (Vite/kjenne?)"
+  answer: "Nei, jeg kjenner ham ikke."
+
+- question: "Bilen din er ___ enn bilen min. (Forskjellig/annerledes?)"
+  answer: "Bilen din er annerledes enn bilen min."
+
+- question: "Jeg må sove ___ før jeg skal reise. (Litt/lite?)"
+  answer: "Jeg må sove litt før jeg skal reise."
+
+- question: "- Kan du ikke komme i morgen?\n- ___, men ikke før klokka to. (Jo/nei?)"
+  answer: "Jo, men ikke før klokka to."
+
+- question: "Hun har ___ venner i Bergen. (Mange/mye?)"
+  answer: "Hun har mange venner i Bergen."
+
+- question: "Hvor gammel er jeg, ___ du? (Tro/synes?)"
+  answer: "Hvor gammel er jeg, tror du?"
+
+- question: "Jeg vil gjerne ha ___ bøkene. (Både/begge?)"
+  answer: "Jeg vil gjerne ha begge bøkene."
+
+- question: "Vi har ganske ___ penger nå. (Litt/lite?)"
+  answer: "Vi har ganske lite penger nå."
+
+- question: "Hun ___ ikke hva gata heter. (Vite/kjenne?)"
+  answer: "Hun vet ikke hva gata heter."
+
+- question: "- Er du ikke enig?\n- ___, det er jeg ikke. (Ja/jo/nei?)"
+  answer: "Nei, det er jeg ikke."
+
+- question: "Bilen din er ___ fra bilen min. (Forskjellig/annerledes?)"
+  answer: "Bilen din er forskjellig fra bilen min."
+
+- question: "Jeg ___ at han kommer fra Brasil. (Tro/synes?)"
+  answer: "Jeg tror at han kommer fra Brasil."
+
+- question: "Jeg drakk ___ kopper kaffe i går. (Mange/mye?)"
+  answer: "Jeg drakk mange kopper kaffe i går."
+
+- question: "Jeg har ___ tid til å hjelpe deg. (Litt/lite?)"
+  answer: "Jeg har litt tid til å hjelpe deg."
+
+- question: "___ brødrene hans er studenter. (Både/begge?)"
+  answer: "Begge brødrene hans er studenter."
+
+- question: "___ du denne byen? (Vite/kjenne?)"
+  answer: "Kjenner du denne byen?"
+
+- question: "Det er ___ å bo her. (Forskjellig/annerledes?)"
+  answer: "Det er annerledes å bo her."
+
+- question: "- Er han ikke gift?\n- ___, han er gift. (Ja/jo?)"
+  answer: "Jo, han er gift."
+
+- question: "De kjøpte et ___ hus på landet. (Litt/lite?)"
+  answer: "De kjøpte et lite hus på landet."
+
+- question: "Fikk du __ fisker i Storelva? (Mange/mye?)"
+  answer: "Fikk du mange fisker i Storelva?"
+
+- question: "Jeg vil gjøre det ___ i morgen. (Forskjellig/annerledes?)"
+  answer: "Jeg vil gjøre det annerledes i morgen."
+
+- question: "Jeg ___ ham, men ___ hvor han bor. (Vite/kjenne?)"
+  answer: "Jeg kjenner ham, men vet ikke hvor han bor."
+
+- question: "Den kjolen er fin, ___ jeg. (Tro/synes?)"
+  answer: "Den kjolen er fin, synes jeg."
+
+- question: "- Liker du ham ikke?\n- ___, han er dum. (Jo/nei?)"
+  answer: "Nei, han er dum."
+
+- question: "Jeg har ___ en bror og ei søster. (Både/begge?)"
+  answer: "Jeg har både en bror og ei søster."
+
+- question: "Spiser du ___ fisk? (Mange/mye?)"
+  answer: "Spiser du mye fisk?"
+
+- question: "Disse genserne er ganske ___. (Forskjellig/annerledes?)"
+  answer: "Disse genserne er ganske forskjellige."
+
+- question: "Læreren kom ___ for sent i dag. (Litt/lite?)"
+  answer: "Læreren kom litt for sent i dag."
+
+- question: "___ du at jeg ___ filmen var bra? (Tro/synes?)"
+  answer: "Tror du at jeg synes filmen var bra?"
+
+- question: "- Liker du ham?\n- ___, han er ganske hyggelig. (Ja/jo?)"
+  answer: "Ja, han er ganske hyggelig."
+
+- question: "Nei, jeg ___ ikke hvem han er. (Vite/kjenne?)"
+  answer: "Nei, jeg vet ikke hvem han er."
+
+- question: "Hvor ___ kaffe drakk du i går? (Mange/mye?)"
+  answer: "Hvor mye kaffe drakk du i går?"
+
+- question: "Hvor er Tom og Lise? ___ er her. (Både/begge?)"
+  answer: "Begge er her."
+
+- question: "Jeg har ikke lest boka, men jeg ___ den er bra. (Tro/synes?)"
+  answer: "Jeg tror den er bra."
+
+- question: "Det er en ___ kultur i Kina. (Forskjellig/annerledes?)"
+  answer: "Det er en annerledes kultur i Kina."
+
+- question: "___ av barna spiste ikke så ___. (Mange/mye?)"
+  answer: "Mange av barna spiste ikke så mye."
+
+- question: "Hun har bodd i Italia og ___ landet. (Vite/kjenne?)"
+  answer: "Hun kjenner landet."
+
+- question: "Barna spiste for ___ til frokost. (Litt/lite?)"
+  answer: "Barna spiste for lite til frokost."
+
+- question: "- Snakker du ikke fransk?\n- ___, jeg snakker fransk. (Ja/jo?)"
+  answer: "Jo, jeg snakker fransk."
+
+- question: "___ Ola og Kari leser ___ bøkene. (Både/begge?)"
+  answer: "Både Ola og Kari leser begge bøkene."
+
+- question: "Jeg ___ denne oppgaven var lett! (Tro/synes?)"
+  answer: "Jeg synes denne oppgaven var lett!"
