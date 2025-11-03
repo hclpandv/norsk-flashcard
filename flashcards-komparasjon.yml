@@ -1,0 +1,104 @@
+- question: "aktiv (active)"
+  answer: "mer aktiv - mest aktiv"
+
+- question: "billig (cheap)"
+  answer: "billigere - billigst"
+
+- question: "bra, god (good)"
+  answer: "bedre - best"
+
+- question: "dum (silly, stupid)"
+  answer: "dummere - dummest"
+
+- question: "dårlig (bad)"
+  answer: "dårligere - dårligst"
+
+- question: "enkel (easy, simple)"
+  answer: "enklere - enklest"
+
+- question: "fin (nice, pretty)"
+  answer: "finere - finest"
+
+- question: "få (few)"
+  answer: "færre - færrest"
+
+- question: "gammel (old)"
+  answer: "eldre - eldst"
+
+- question: "høy (high, tall)"
+  answer: "høyere - høyest"
+
+- question: "ille (bad)"
+  answer: "verre - verst"
+
+- question: "interessant (interesting)"
+  answer: "mer interessant - mest interessant"
+
+- question: "kreativ (creative)"
+  answer: "mer kreativ - mest kreativ"
+
+- question: "lang (long)"
+  answer: "lengre - lengst"
+
+- question: "lenge (for a long time)"
+  answer: "lenger - lengst"
+
+- question: "lett (easy)"
+  answer: "lettere - lettest"
+
+- question: "lite, litt (little, not much)"
+  answer: "mindre - minst"
+
+- question: "liten (small, little)"
+  answer: "mindre - minst"
+
+- question: "mange (many)"
+  answer: "flere - flest"
+
+- question: "moderne (modern)"
+  answer: "mer moderne - mest moderne"
+
+- question: "morsom (funny)"
+  answer: "morsommere - morsomst"
+
+- question: "mye (much)"
+  answer: "mer - mest"
+
+- question: "pen (nice, pretty)"
+  answer: "penere - penest"
+
+- question: "praktisk (practical)"
+  answer: "mer praktisk - mest praktisk"
+
+- question: "rask (quick)"
+  answer: "raskere - raskest"
+
+- question: "sikker (sure)"
+  answer: "sikrere - sikrest"
+
+- question: "sjelden (seldom)"
+  answer: "sjeldenere - sjeldnest"
+
+- question: "stor (big)"
+  answer: "større - størst"
+
+- question: "sulten (hungry)"
+  answer: "sultnere - sultnest"
+
+- question: "sympatisk (sympathetic)"
+  answer: "mer sympatisk - mest sympatisk"
+
+- question: "tung (heavy)"
+  answer: "tyngre - tyngst"
+
+- question: "ung (young)"
+  answer: "yngre - yngst"
+
+- question: "vakker (beautiful)"
+  answer: "vakrere - vakrest"
+
+- question: "vanlig (usual)"
+  answer: "vanligere - vanligst"
+
+- question: "vanskelig (difficult)"
+  answer: "vanskeligere - vanskeligst"
