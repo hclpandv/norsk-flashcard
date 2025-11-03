@@ -22,3 +22,10 @@
   answer: "For det meste lager jeg mat hjemme"
 - question: "at least"
   answer: "I det minste prøvde jeg"
+- question: "As fast as (any adjective)"
+  answer: |
+    Han er så rask som broren sin
+    Filmen var så interessant som boka
+    Huset er så stort som jeg trodde
+    Hun løper så fort som hun kan (kunne)
+    Barna leker så stille som de kan

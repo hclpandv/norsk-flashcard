@@ -278,7 +278,7 @@
 
 - question: "fort"
   answer: |
-    fast/quickly (Always an adverb)
+    fast/quickly (adverb..Ikke brukt som adjective)
     Han løp fort til butikken. → He ran quickly to the store.  
     Tiden går fort. → Time goes by fast. 
     "Han er fort" ❌ = Han er rask ✅
@@ -288,3 +288,10 @@
     fast/quick/rapid (rask-raskere-raskest)
     Dette er den raskeste bilen. → This is the fastest car.  
     Jeg må lære raskt (raskt used as adverb here)
+
+- question: "sakt"
+  answer: |
+    slow/gently (adverb..Ikke brukt som adjective)
+    kjør saktere, barn leker  
+    Gå sakt! → Walk slowly!  
+    
