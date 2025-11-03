@@ -223,10 +223,11 @@
   answer: |
     random
 
-- question: "tilbringer"
+- question: "å tilbringe"
   answer: |
-    spending time
-
+    to spend time (tilbringe-tilbrakte-har tilbrakt)
+    Jeg liker å tilbringe tid med familien min.
+    
 - question: "høytider"
   answer: |
     holidays
@@ -274,3 +275,16 @@
   answer: |
     The truth
     (related: ikke sant)
+
+- question: "fort"
+  answer: |
+    fast/quickly (Always an adverb)
+    Han løp fort til butikken. → He ran quickly to the store.  
+    Tiden går fort. → Time goes by fast. 
+    "Han er fort" ❌ = Han er rask ✅
+
+- question: "rask"
+  answer: |
+    fast/quick/rapid (rask-raskere-raskest)
+    Dette er den raskeste bilen. → This is the fastest car.  
+    Jeg må lære raskt (raskt used as adverb here)
