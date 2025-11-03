@@ -2,7 +2,7 @@
 - question: "___ du det er kaldt her? (Tro/synes?)"
   answer: "Synes du det er kaldt her?"
 
-- question: "- Er du ikke enig?\n- ___, det er jeg. (Ja/jo?)"
+- question: "Er du ikke enig? ___, det er jeg. (Ja/jo?)"
   answer: "Jo, det er jeg."
 
 - question: "Hvilken vil du ha? Jeg vil ha ___. (Både/begge?)"
@@ -41,7 +41,7 @@
 - question: "___ Erik og Jens bor i Bergen. (Både/begge?)"
   answer: "Både Erik og Jens bor i Bergen."
 
-- question: "- Kommer du fra Belgia?\n- ___, jeg kommer fra Belgia. (Ja/jo?)"
+- question: "Kommer du fra Belgia?___, jeg kommer fra Belgia. (Ja/jo?)"
   answer: "Ja, jeg kommer fra Belgia."
 
 - question: "Nei, jeg ___ ham ikke. (Vite/kjenne?)"
@@ -53,7 +53,7 @@
 - question: "Jeg må sove ___ før jeg skal reise. (Litt/lite?)"
   answer: "Jeg må sove litt før jeg skal reise."
 
-- question: "- Kan du ikke komme i morgen?\n- ___, men ikke før klokka to. (Jo/nei?)"
+- question: "Kan du ikke komme i morgen? ___, men ikke før klokka to. (Jo/nei?)"
   answer: "Jo, men ikke før klokka to."
 
 - question: "Hun har ___ venner i Bergen. (Mange/mye?)"
@@ -68,7 +68,7 @@
 - question: "Hun ___ ikke hva gata heter. (Vite/kjenne?)"
   answer: "Hun vet ikke hva gata heter."
 
-- question: "- Er du ikke enig?\n- ___, det er jeg ikke. (Ja/jo/nei?)"
+- question: "Er du ikke enig? ___, det er jeg ikke. (Ja/jo/nei?)"
   answer: "Nei, det er jeg ikke."
 
 - question: "Bilen din er ___ fra bilen min. (Forskjellig/annerledes?)"
@@ -107,7 +107,7 @@
 - question: "Den kjolen er fin, ___ jeg. (Tro/synes?)"
   answer: "Den kjolen er fin, synes jeg."
 
-- question: "- Liker du ham ikke?\n- ___, han er dum. (Jo/nei?)"
+- question: "Liker du ham ikke? ___, han er dum. (Jo/nei?)"
   answer: "Nei, han er dum."
 
 - question: "Jeg har ___ en bror og ei søster. (Både/begge?)"
@@ -125,7 +125,7 @@
 - question: "___ du at jeg ___ filmen var bra? (Tro/synes?)"
   answer: "Tror du at jeg synes filmen var bra?"
 
-- question: "- Liker du ham?\n- ___, han er ganske hyggelig. (Ja/jo?)"
+- question: "Liker du ham? ___, han er ganske hyggelig. (Ja/jo?)"
   answer: "Ja, han er ganske hyggelig."
 
 - question: "Nei, jeg ___ ikke hvem han er. (Vite/kjenne?)"
@@ -152,7 +152,7 @@
 - question: "Barna spiste for ___ til frokost. (Litt/lite?)"
   answer: "Barna spiste for lite til frokost."
 
-- question: "- Snakker du ikke fransk?\n- ___, jeg snakker fransk. (Ja/jo?)"
+- question: "Snakker du ikke fransk? ___, jeg snakker fransk. (Ja/jo?)"
   answer: "Jo, jeg snakker fransk."
 
 - question: "___ Ola og Kari leser ___ bøkene. (Både/begge?)"
