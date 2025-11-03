@@ -31,3 +31,9 @@
     Barna leker så stille som de kan
 - question: "Do you want another one?"
   answer: "Vil du ha en til?"
+- question: "both A and B"
+  answer: "både A og B"
+- question: "either A or B"
+  answer: "enten A eller B"
+- question: "neither A nor B" 
+  answer: "verken A eller B"

@@ -265,11 +265,10 @@
 
 - question: "imot"
   answer: |
-    against/opposed to/toward
+    against/opposed to/toward (preposition)
     Jeg er imot krig. → I am against war.
     Han løp imot meg. → He ran toward me.
     Jeg har ingenting imot deg. → I have nothing against you.
-    NOTR: It is a preposition
 
 - question: "sannheten"
   answer: |
@@ -295,3 +294,17 @@
     kjør saktere, barn leker  
     Gå sakt! → Walk slowly!  
     
+- question: "annen/annet/andre"
+  answer: |
+    other/another (annen-annet-andre)
+    en annen dag → another day
+    et annet sted → another place
+    det andre huset → the other house
+    De andre er allerede her → The others are already here
+
+- question: "gjennom"
+  answer: |
+    through (preposition)
+    Vi kjørte gjennom tunnelen → We drove through the tunnel  
+    Han gikk gjennom hele boka → He went through the whole book  
+    Hun kom seg gjennom en vanskelig tid → She got through a difficult time
