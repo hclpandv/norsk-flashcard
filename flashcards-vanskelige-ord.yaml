@@ -1,25 +1,3 @@
-# både/begge
-- question: "Hvor er Tom og Lise? ___ er her. (både/begge?)"
-  answer: "Hvor er Tom og Lise? Begge er her."
-
-- question: "Jeg vil gjerne ha ___ bøkene. (både/begge?)"
-  answer: "Jeg vil gjerne ha begge bøkene."
-
-- question: "Jeg har ___ en bror og ei søster. (både/begge?)"
-  answer: "Jeg har både en bror og ei søster."
-
-- question: "___ Erik og Jens bor i Bergen. (både/begge?)"
-  answer: "Både Erik og Jens bor i Bergen."
-
-- question: "Hvilken vil du ha? Jeg vil ha ___. (både/begge?)"
-  answer: "Hvilken vil du ha? Jeg vil ha begge."
-
-- question: "Han driver ___ med dans og tennis. (både/begge?)"
-  answer: "Han driver både med dans og tennis."
-
-- question: "___ Ola og Kari leser ___ bøkene. (både/begge?)"
-  answer: "Både Ola og Kari leser begge bøkene."
-
 # Litt eller lite
 - question: "Jeg har ___ tid til å hjelpe deg. (Litt/lite?)"
   answer: "Jeg har litt tid til å hjelpe deg."
@@ -44,31 +22,6 @@
 
 - question: "Jeg må sove ___ før jeg skal reise. (Litt/lite?)"
   answer: "Jeg må sove litt før jeg skal reise."
-
-# Synes eller tror
-- question: "Jeg ___ at han kommer fra Brasil. (tror/synes?)"
-  answer: "Jeg tror at han kommer fra Brasil."
-
-- question: "___ du det er kaldt her? (tror/synes?)"
-  answer: "Synes du det er kaldt her?"
-
-- question: "Den kjolen er fin, ___ jeg. (tror/synes?)"
-  answer: "Den kjolen er fin, synes jeg."
-
-- question: "Hvor gammel er jeg, ___ du? (tror/synes?)"
-  answer: "Hvor gammel er jeg, tror du?"
-
-- question: "Jeg ___ at filmen i går var bra. (tror/synes?)"
-  answer: "Jeg synes at filmen i går var bra."
-
-- question: "Jeg har ikke lest boka, men jeg ___ den er bra. (tror/synes?)"
-  answer: "Jeg har ikke lest boka, men jeg tror den er bra."
-
-- question: "___ du at jeg ___ filmen var bra? (tror/synes?)"
-  answer: "Tror du at jeg synes filmen var bra?"
-
-- question: "Jeg ___ denne oppgaven var lett! (tror/synes?)"
-  answer: "Jeg synes denne oppgaven var lett!"
 
 # Ja, jo eller nei?
 - question: "Kommer du fra Belgia? (Ja/Jo/Nei?)"
@@ -158,9 +111,6 @@
 
 - question: "Hvor gammel er jeg, ___ du? (Tro/synes?)"
   answer: "Hvor gammel er jeg, tror du?"
-
-- question: "Jeg vil gjerne ha ___ bøkene. (Både/begge?)"
-  answer: "Jeg vil gjerne ha begge bøkene."
 
 - question: "Vi har ganske ___ penger nå. (Litt/lite?)"
   answer: "Vi har ganske lite penger nå."
