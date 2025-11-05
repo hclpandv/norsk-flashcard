@@ -53,6 +53,7 @@ footer { font-size:0.85rem; color:#6c757d; margin-top:20px; }
   <button class="btn btn-success" id="knownBtn">Mark Known ✅</button>
   <button class="btn btn-danger" id="unknownBtn">Mark Unknown ❌</button>
   <button class="btn btn-info" id="speakBtn"><i class="bi bi-volume-up-fill"></i> Speak</button>
+  <p id="voiceInfo" class="text-muted small mt-2"></p>
 </div>
 
 <!-- Footer with credit -->
@@ -76,6 +77,10 @@ const knownBtn = document.getElementById('knownBtn');
 const unknownBtn = document.getElementById('unknownBtn');
 const speakBtn = document.getElementById('speakBtn');
 const progressBar = document.getElementById('progressBar');
+const voiceInfo = document.getElementById('voiceInfo');
+
+// loading voices 
+speechSynthesis.onvoiceschanged = () => { speechSynthesis.getVoices(); };
 
 let flashcards = [];
 let currentIndex = 0;
@@ -192,8 +197,20 @@ unknownBtn.addEventListener('click', () => {
 
 speakBtn.addEventListener('click', () => {
   if (!flashcards.length) return;
+
   const utterance = new SpeechSynthesisUtterance(flashcards[currentIndex].answer.replace(/<br>/g,' '));
-  utterance.lang = 'nb-NO'; // Norwegian
+  utterance.lang = 'nb-NO';
+
+  // Pick a Norwegian voice if available
+  const voices = speechSynthesis.getVoices();
+  const voice = voices.find(v => v.lang.startsWith('nb')) || null;
+  if (voice) utterance.voice = voice;
+
+  utterance.onstart = () => {
+    const voiceName = utterance.voice ? `${utterance.voice.name} (${utterance.voice.lang})` : 'unknown';
+    voiceInfo.textContent = `🎤 Using: ${voiceName}`;
+  };
+
   speechSynthesis.speak(utterance);
 });
 
