@@ -353,10 +353,10 @@
     to approve / to authorize (godkjenner-godkjente-har godkjent)
     Kan du godkjenne det → can you approve it
     
-- question: "en opplevelse"
+- question: "å oppleve"
   answer: |
-    an experience (opplevelsen-opplevelser-opplevelsene)
-    to experience (å oppleve-opplever-opplevde-har opplevd)
+    to experience (opplever-opplevde-har opplevd)
+    an experience = en opplevelse
     Erfaring = experience (skills); opplevelse = memorable event
     det ble en av de beste opplevelsene i livet mitt → it became one of the best experiences of my life.
   
@@ -364,3 +364,8 @@
   answer: |
     to explore (utforsker-utforsket-har utforsket)
     I fremtiden vil jeg utforske flere land i Europa → I future I want to explore many countries in europe
+
+- question: "å oppfinne"
+  answer: |
+    to invent (oppfinner-oppfant-har oppfunnet)
+    James Watt oppfant dampmaskinen
