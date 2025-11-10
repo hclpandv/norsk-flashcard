@@ -381,5 +381,9 @@
     to translate (oversetter-oversatte-har oversatt
     boken er oversatt til mange språk
 
-
+- question: "å gjette"
+  answer: |
+    to guess (gjetter-gjettet-har gjettet)
+    Kan du gjette hva som skjedde? → Can you guess what happened?
+    Jeg bare gjetter → I'm just guessing
 
