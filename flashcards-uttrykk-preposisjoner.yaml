@@ -1,0 +1,233 @@
+# Source: grammatikk.com © Kjell H. Ullestad
+- question: "abonnere (subscribe)"
+  answer: "Han abonnerer på ei avis"
+
+- question: "avhengig"
+  answer: "Han er avhengig av alkohol"
+
+- question: "behov"
+  answer: "De har behov for to biler"
+
+- question: "bestemme seg"
+  answer: "Han bestemmer seg for å dra"
+
+- question: "bli"
+  answer: "Han blir med på kino"
+
+- question: "bruk"
+  answer: "Han har bruk for en hammer"
+
+- question: "bruke"
+  answer: "Han bruker pennen til å skrive"
+
+- question: "drive"
+  answer: "Han driver med sport → He is doing sports."
+
+- question: "enig"
+  answer: |
+    Han er enig med henne. → He agrees with her.
+    Han er enig i at det er bra. → He agrees that it is good.
+    Vi er enige om at det er bra. → We agree (with each other) that it is good.
+
+- question: "ferdig"
+  answer: "Han er ferdig med oppgaven"
+
+- question: "ferie"
+  answer: |
+    Han er på ferie. → He is on vacation.
+    Han slapper av i ferien. → He relaxes on his vacation.
+
+- question: "flink"
+  answer: |
+    Han er flink i fysikk. → He is good in physics.
+    Han er flink til å spille gitar. → He is good at playing the guitar.
+
+- question: "forelsket"
+  answer: "Han er forelsket i henne. → He is in love with her."
+
+- question: "foretrekke"
+  answer: "Han foretrekker vin fremfor øl. → He prefers wine to beer."
+
+- question: "fortelle"
+  answer: "Han forteller om familien sin."
+
+- question: "fornøyd"
+  answer: "Han er fornøyd med resultatet"
+
+- question: "frokost"
+  answer: "Hva spiser du til frokost?"
+
+- question: "følge"
+  answer: "Han følger med på nyhetene"
+
+- question: "gang"
+  answer: "Han leser det en gang til"
+
+- question: "gifte seg"
+  answer: "Han skal gifte seg med Lisa"
+
+- question: "gjennomsnitt"
+  answer: "De har 20 venner i gjennomsnitt → They have 20 friends on average"
+
+- question: "glad"
+  answer: |
+    Han er glad i henne. → He loves her.
+    Han er glad for at det er sol → He is happy that the sun is shining
+
+- question: "glede seg"
+  answer: "Han gleder seg til søndag → He looks forward to Sunday"
+
+- question: "gratulere"
+  answer: "Gratulerer med ny jobb"
+
+- question: "grue seg"
+  answer: "Han gruer seg til eksamen → He dreads/worries about the exam."
+
+- question: "hilse"
+  answer: "Han hilser på henne → He greets her"
+
+- question: "interessert"
+  answer: "Han er interessert i fotball"
+
+- question: "høre"
+  answer: "Han vil høre på musikk"
+
+- question: "klage"
+  answer: "Han klager på været → He complains about the weather"
+
+- question: "komme"
+  answer: "Det kommer an på prisen → It depends on the price"
+
+- question: "legge"
+  answer: |
+    Han legger ved et dokument. → He attaches a document.
+    Han legger til en kommentar. → He adds a comment.
+
+- question: "lete"
+  answer: "Han leter etter boka"
+
+- question: "lett"
+  answer: "Det er lett for ham → It is easy for him"
+
+- question: "lure"
+  answer: "Han lurer på hva det koster → He wonders how much it costs"
+
+- question: "lyst"
+  answer: |
+    Han har lyst på sjokolade → He wants chocolate.
+    Han har lyst til å spise sjokolade → He wants to eat chocolate
+
+- question: "mening"
+  answer: "Etter hans mening er det kaldt → In his opinion it is cold"
+
+- question: "opptatt"
+  answer: |
+    Han er opptatt med en oppgave → He is busy with an exercise
+    Han er opptatt av helsa → He takes interest in his health
+
+- question: "passe"
+  answer: |
+    Jakka passer til buksa → The jacket goes well with the trousers
+    Han passer på barna → He looks after the children
+
+- question: "pris"
+  answer: |
+    Hva er prisen på billetten? → What is the price of the ticket?
+    Han setter pris på gaven → He appreciates the gift
+
+- question: "redd"
+  answer: "Han er redd for tigeren → He is afraid of the tiger"
+
+- question: "reise"
+  answer: "Han reiser med tog. → He travels by train."
+
+- question: "rett"
+  answer: "Han har rett i det → He is right about that"
+
+- question: "råd"
+  answer: "Han har råd til bilen → He can afford the car"
+
+- question: "se"
+  answer: |
+    Han ser på TV → He is watching TV
+    Huset ser pent ut → The house looks nice
+
+- question: "sint"
+  answer: "Han er sint på meg → He is angry with me"
+
+- question: "ski"
+  answer: "Han liker å gå på ski → He likes skiing"
+
+- question: "slappe av"
+  answer: "Han slapper av om kvelden → He relaxes in the evening"
+
+- question: "slå"
+  answer: |
+    Han slår på TV-en → He turns on the TV
+    Han slår av TV-en → He turns off the TV
+
+- question: "snakke"
+  answer: |
+    Han snakker med henne → He talks to her
+    De snakker om filmen → They talk about the film
+
+- question: "snill"
+  answer: "Han er snill mot meg → He is kind to me"
+
+- question: "spille"
+  answer: "Liverpool spiller mot Arsenal → Liverpool are playing against Arsenal"
+
+- question: "svare"
+  answer: "Han svarer på spørsmålet → He answers the question"
+
+- question: "søke"
+  answer: |
+    Han søker på en jobb → He applies for a job
+    Han søker etter informasjon → He searches for information
+
+- question: "tall"
+  answer: "Det skjedde på 1920-tallet → It happened in the 1920s"
+
+- question: "tape"
+  answer: "Arsenal taper for Liverpool → Arsenal lose to Liverpool"
+
+- question: "tenke"
+  answer: "Han tenker på en venn → He is thinking about a friend"
+
+- question: "vanskelig"
+  answer: "Det er vanskelig for ham → It is difficult for him"
+
+- question: "vant"
+  answer: "Han er vant til/med dette → He is used to this"
+
+- question: "vente"
+  answer: "Jeg må alltid vente på ham → I always have to wait for him"
+
+- question: "vinne"
+  answer: "Liverpool vinner over Arsenal → Liverpool are beating Arsenal"
+
+- question: "av og til"
+  answer: "Han spiller gitar av og til → He plays the guitar now and then"
+
+- question: "bak frem"
+  answer: "Han har genseren bak frem → His sweater is back to front"
+
+- question: "fra og med"
+  answer: "Han har ferie fra og med fredag → He is on holiday from Friday"
+
+- question: "frem og tilbake"
+  answer: "Han går frem og tilbake → He walks back and forth"
+
+- question: "om igjen"
+  answer: "Han må gjøre det om igjen → He has to do it over again"
+
+- question: "opp ned"
+  answer: "Bildet er opp ned → The picture is upside down"
+
+- question: "til og med"
+  answer: |
+    Han har ferie til og med fredag → He is on holiday until Friday
+    Han har til og med en hund → He even has a dog
+
+
+
