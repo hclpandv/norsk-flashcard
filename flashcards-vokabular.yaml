@@ -1,7 +1,7 @@
 - question: "forskjellig"
   answer: |
     different (Forskjellige typer mat)
-    forskjell (difference): en forskjell - forskjellen - forskjeller - forskjellene
+    forskjell (difference): en forskjell-forskjellen-forskjeller-forskjellene
     Det er en stor forskjell mellom dem.
     
 - question: "forsinket"
@@ -33,7 +33,7 @@
 
 - question: "å redde"
   answer: |
-    to save / rescue
+    to save/rescue
     Brannmannen reddet mange mennesker
 
 - question: "å beskytte"
@@ -42,9 +42,10 @@
 
 - question: "å skyte"
   answer: |
-    to shoot (å skyte seg selv i foten)
-    En profesjonell skytter → a professional shooter
-    Norsk Skytterforbund → The Norwegian Shooting Association
+    to shoot (skyter-skjøt-har skutt)
+    å skyte seg selv i foten
+    En profesjonell skytter
+    Norsk Skytterforbund(The Norwegian Shooting Association)
 
 - question: "skikkelig"
   answer: |
