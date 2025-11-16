@@ -78,7 +78,9 @@
 - question: "Meanwhile"
   answer: "Samtidig"
 - question: "In the end"
-  answer: "Til Slutt (Vi prøvde mange løsninger, og til slutt fungerte det.)"
+  answer: |
+    Til Slutt
+    Vi prøvde mange løsninger, og til slutt fungerte det
 - question: "A couple of times"
   answer: "Han ringte meg et par ganger i går"
 - question: "The only friend I had was Kari"
