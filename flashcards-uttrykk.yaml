@@ -60,7 +60,7 @@
 - question: "At that time"
   answer: "På den siden"
 - question: "Eventually"
-  answer: "Etter Hvert"
+  answer: "Etter hvert ble hun flink til å spille gitar."
 - question: "In the meantim"
   answer: "I mellomtiden"
 - question: "Amidst all this"
@@ -76,16 +76,11 @@
 - question: "On the other hand"
   answer: "På den andre siden"
 - question: "Meanwhile"
-  answer: "Samtidig"
+  answer: "Samtidig (Det er vanskelig, men samtidig veldig interessant)"
 - question: "In the end"
-  answer: |
-    Til Slutt
-    Vi prøvde mange løsninger, og til slutt fungerte det
+  answer: "Til Slutt (Vi prøvde mange løsninger, og til slutt fungerte det.)"
 - question: "A couple of times"
   answer: "Han ringte meg et par ganger i går"
 - question: "The only friend I had was Kari"
   answer: "Den eneste vennen jeg hadde var Kari"
-
-
-
 
