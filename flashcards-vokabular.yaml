@@ -447,9 +447,12 @@
 
 - question: "vant"
   answer: |
-    used to/accustomed to(vant-til/med)
+    used to/accustomed to
+    vant til=used to(habit, action, condition)
+    vant med=familiar with(method, system, people)
     Han er vant til kulda
     Jeg er ikke vant til å stå opp så tidlig
-    Vi er vant med dette systemet → We are familiar with this system
+    Vi er vant med dette systemet
     vant ≠ vant(preteritum av `å vinne=won`)
+
   
