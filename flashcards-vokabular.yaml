@@ -493,3 +493,11 @@
 - question: "idrett"
   answer: |
     sports (feks: idrettsklubb)
+
+- question: "stemmer"
+  answer: |
+    correct/to add up/to match
+    Du bor i Oslo, ikke sant?(Stemmer)
+    Det stemmer → That's correct
+    Tallene stemmer ikke.
+    Navnet ditt stemmer med passet?
