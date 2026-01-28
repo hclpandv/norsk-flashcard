@@ -124,6 +124,10 @@
     seagull (ei måke-måker-måkene)
     Den måka dreit på huet ditt → That seagull pooped on your head
 
+- question: "en råvare"
+  answer: |
+    raw material
+
 - question: "en drit"
   answer: |
     poop/crap (en drit-driter-dritene)
@@ -417,6 +421,10 @@
     det fovirrer mange
     Jeg ble helt forvirret 
     (forvirring=confusion)
+
+- question: "å forvandle"
+  answer: |
+    to transform (forvandler-forvandlet-har forvandlet)
 
 - question: "å overraske"
   answer: |
