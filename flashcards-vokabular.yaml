@@ -168,10 +168,6 @@
   answer: |
     community
 
-- question: "anledning"
-  answer: |
-    occasion
-
 - question: "trygg"
   answer: |
     safe/secure/ confident (trygg-trygt-trygge)
@@ -562,8 +558,22 @@
     Det er ingen grunn til å tvile
     Jeg begynner å tvile
 
+- question: "en anledning"
+  answer: |
+    Occasions (anledningen-anledninger-anledningene)
+    ved spesielle anledninger → on special occasions
+    bryllup og andre anledninger
+
+
 - question: "kommer an på/kommer til å"
   answer: |
     depends on/going to 
-    Det kommer an på været.
-    Det kommer til å regne i morgen.
+    Det kommer an på været
+    Det kommer til å regne i morgen
+
+- question: "passer for/passer på"
+  answer: |
+    suitable for/takeing care of
+    Jeg passer på barna
+    Filmen passer for barn.
+    
