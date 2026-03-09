@@ -120,6 +120,9 @@
     De sa noe rart. Jeg kjøpte noe veldig dyrt.
     Noe veldig billig (does not change)
 - question: "I dont mean to insist, I'm just wondering"
-  answer: "Jeg mener ikke å mase, jeg bare lurer"
+  answer: |
+    Jeg mener ikke å mase, jeg bare lurer
+    Slutt å mase! stop insisting
+
 
 
