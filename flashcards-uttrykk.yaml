@@ -125,5 +125,6 @@
     Slutt å mase! stop insisting
 - question: "Kan ikke du rope på pappa?"
   answer: "Cant you call dad ? (physical call not ringe)"
-
-
+- question: "By the way, how is Christian doing ?"
+  answer: "Hvordan går det forresten med Christian"
+  
