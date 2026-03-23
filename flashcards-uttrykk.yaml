@@ -153,3 +153,5 @@
   answer: "Det er noe galt med lyden, jeg hører deg ikke"
 - question: "We have recieved the application"
   answer: "Vi har mottatt søknaden"
+- question: "speak clearly"
+  answer: "snakke tydelig"
