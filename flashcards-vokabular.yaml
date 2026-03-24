@@ -606,3 +606,24 @@
     Han krevde en forklaring
     krevende situasjon/Situasjonen er krevende
   
+- question: "å legge merke til"
+  answer: |
+    to notice/observe(legger merke til-la merke til-har lagt merke til)
+    Jeg legger merke til detaljer
+    Jeg la merke til det
+    Har du lagt merke til dette?
+
+- question: "en ansatt"
+  answer: |
+    an employee(den ansatte, flere ansatte)
+    Den ansatte jobber hardt (bestempt -e)
+    Alle ansatte må møte opp (plural -e)
+
+- question: "en avdeling"
+  answer: |
+    a department(avdelingen - avdelinger - avdelingene)
+    Samarbeid mellom avdelingene er viktig
+
+- question: "å oppmuntre"
+  answer: |
+    to encourage(oppmuntrer-oppmuntret-har oppmuntret)
