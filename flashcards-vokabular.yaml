@@ -618,6 +618,7 @@
     a company/orgnaization(selskapet-selskaper-selskapene)
     Jeg jobber i et stort IT-selskap
     Selskapet vokser raskt
+    aksjeselskap(AS): aksje=share/stock
 
 - question: "en ansatt"
   answer: |
