@@ -658,3 +658,11 @@
   answer: |
     serious
     Det er en alvorlig situasjon
+
+- question: "å bevege"
+  answer: |
+    to move(beveger-beveget-har beveget)
+    Å bevege noe → vinden beveget bladene
+    Å bevege noen → Filmen beveget henne dypt
+    Å bevege seg → Han beveger seg sakte
+    bevegelse = movement
