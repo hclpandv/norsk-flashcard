@@ -670,3 +670,27 @@
 - question: "mangfold"
   answer: |
     diversity
+
+- question: "å avansere"
+  answer: |
+    to advance (avanserer-avanserte-har avansert)
+    avanserte systemer → advanced systems
+    avanserte ferdigheter → advanced skills
+    avansert teknologi → advanced technology
+
+- question: "en forutsetning"
+  answer: |
+    a prerequisite / assumption
+    En viktig forutsetning → An important prerequisite
+    En grunnleggende forutsetning → A basic assumption
+
+- question: "et tiltak"
+  answer: |
+    a measure
+    (noe man gjør for å løse et problem eller forbedre noe)
+    Flere busser kan være et godt tiltak mot trafikk
+
+- question: "en utfordring"
+  answer: |
+    a challenge
+    Å lære norsk kan være en utfordring for mange voksne
