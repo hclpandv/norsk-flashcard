@@ -704,7 +704,7 @@
 
 - question: "å stenge"
   answer: |
-    to close/shut/block(stenger - stengte - har stengt)   
+    to close/shut/block(stenger-stengte-har stengt)   
     Butikken stenger klokka 18
     stengt = closed
 
@@ -719,3 +719,15 @@
 - question: "regjering"
   answer: |
     Government
+
+- question: "å kjempe"
+  answer: |
+    to fight(kjemper-kjempet-har kjempet)
+    kjemp for deg selv
+    kjempet som et dyr
+    Gandhi kjempet med sannhet og ikke-vold
+
+- question: "en helt"
+  answer: |
+    a hero (helten-helter-heltene)
+    han er en helt
