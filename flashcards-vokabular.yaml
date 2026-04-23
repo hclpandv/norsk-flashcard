@@ -509,6 +509,8 @@
     Uten hensyn til loven → Without regard for the law
 
 # Adjectives and adverbs
+# Adjective = WHAT something is
+# Adverb = HOW something happens
 #
 - question: "forferdelig ↔ fantastisk"
   answer: |
@@ -631,12 +633,42 @@
     felles = shared/common (et felles prosjekt)
     vi har felles mål (no adverb)
 
-### Others
 - question: "nok"
   answer: |
     enough
     MFA er ikke alltid nok for informasjonssikkerhet.
 
+- question: "fort"
+  answer: |
+    fast/quickly (adverb..Ikke brukt som adjective)
+    Han løp fort til butikken. → He ran quickly to the store.  
+    Tiden går fort. → Time goes by fast. 
+    "Han er fort" ❌ = Han er rask ✅
+
+- question: "rask"
+  answer: |
+    fast/quick/rapid (rask-raskere-raskest)
+    Dette er den raskeste bilen. → This is the fastest car.  
+    Jeg må lære raskt (raskt used as adverb here)
+
+- question: "sakte"
+  answer: |
+    slowly / gently (adverb - ikke brukt som adjektiv)
+
+    Kjør saktere → Drive more slowly
+    Barn leker sakte → Children play slowly
+    Gå sakte! → Walk slowly!
+
+- question: "heldigvis"
+  answer: |
+    fortunately
+
+- question: "dessverre"
+  answer: |
+    unfortunately
+
+
+### Others
 - question: "Knask eller knep"
   answer: |
     trick or treat
@@ -662,27 +694,6 @@
     Han løp imot meg. → He ran toward me.
     Jeg har ingenting imot deg. → I have nothing against you.
 
-- question: "fort"
-  answer: |
-    fast/quickly (adverb..Ikke brukt som adjective)
-    Han løp fort til butikken. → He ran quickly to the store.  
-    Tiden går fort. → Time goes by fast. 
-    "Han er fort" ❌ = Han er rask ✅
-
-- question: "rask"
-  answer: |
-    fast/quick/rapid (rask-raskere-raskest)
-    Dette er den raskeste bilen. → This is the fastest car.  
-    Jeg må lære raskt (raskt used as adverb here)
-
-- question: "sakte"
-  answer: |
-    slowly / gently (adverb - ikke brukt som adjektiv)
-
-    Kjør saktere → Drive more slowly
-    Barn leker sakte → Children play slowly
-    Gå sakte! → Walk slowly!
-    
 - question: "annen/annet/andre"
   answer: |
     other/another (annen-annet-andre)
@@ -723,7 +734,6 @@
     the Earths ability to bear/carry us over time
     (A way to remember, not literal)
 
-
 - question: "idrett"
   answer: |
     sports (feks: idrettsklubb)
@@ -746,7 +756,6 @@
     proud of (achievements, actions, results)
     Han er stolt av jobben sin 
     Når er du stolt av deg selv?
-
 
 - question: "en anledning"
   answer: |
@@ -786,11 +795,5 @@
     away
     Butikken ligger langt unna → The store is far away.
     Jeg må gi klærne mine unna → I have to give my cloths away
-
-- question: "heldigvis"
-  answer: |
-    fortunately
-
-- question: "dessverre"
-  answer: |
-    unfortunately
+  
+  
