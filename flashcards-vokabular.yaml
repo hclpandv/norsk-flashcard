@@ -89,7 +89,7 @@
     to crack/to pop 
     Ja, ballonger som sprekker
 
-- question: å jakte på noe/noen"
+- question: "å jakte på noe/noen"
   answer: |
     hunt/chase (jakter-jaktet-har jaktet)
     Jeg jakter på elg → I hunt elk
@@ -116,7 +116,7 @@
     to kick (sparker-sparket-har sparket)
     styret valgte å sparke meg → The board decided to kick(fire) me.
 
-- question: "å tilbringe tid"
+- question: "å tilbringe tid med noen/noe"
   answer: |
     to spend time (tilbringe-tilbrakte-har tilbrakt)
     Jeg liker å tilbringe tid med familien min.
@@ -215,7 +215,7 @@
 - question: "å forvirre"
   answer: |
     to confuse (forvirrer-forvirret-har forvirret)
-    det fovirrer mange
+    det forvirrer mange
     Jeg ble helt forvirret 
     (forvirring=confusion)
 
@@ -237,7 +237,7 @@
     ødelagt=broken (as adjective)
     Jeg ødela mobilen min
     Regnet ødela festen 
-    Maten ble ødelagt fordi kjøleskapet ikke fungert
+    Maten ble ødelagt fordi kjøleskapet ikke fungerte.
 
 - question: "å gjenkjenne"
   answer: |
@@ -449,13 +449,6 @@
     a hero (helten-helter-heltene)
     han er en helt
 
-- question: "en hensyn"
-  answer: |
-    consideration(s) (plural also)
-    Ta hensyn til andre → Take others into consideration
-    Hensynet til sikkerheten → Consideration for safety
-    Uten hensyn til loven → Without regard for the law
-
 - question: "en innvandrer"
   answer: |
     an immigrant (flere innvandrere)
@@ -507,6 +500,13 @@
     Astronauter reiser ut i verdensrommet → .. travel into space
     Det finnes mange planeter i verdensrommet
     en stjerne=star; et solsystem;en galakse; universet
+
+- question: "hensyn"
+  answer: |
+    consideration(s) (plural also)
+    Ta hensyn til andre → Take others into consideration
+    Hensynet til sikkerheten → Consideration for safety
+    Uten hensyn til loven → Without regard for the law
 
 ### Others
 - question: "nok"
