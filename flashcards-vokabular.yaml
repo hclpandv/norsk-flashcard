@@ -1,89 +1,136 @@
-- question: "forskjellig"
+# Verbs (VÆRE / BLI)
+#
+- question: "å være fornøyd med noe"
   answer: |
-    different (Forskjellige typer mat)
-    forskjell (difference): forskjellen-forskjeller-forskjellene
-    Det er en stor forskjell mellom dem.
-    
-- question: "forsinket"
-  answer: |
-    delayed (Toget er forsinket)
-    
-- question: "fornøyd"
-  answer: |
-    satisfied (Jeg er fornøyd med resultatet)
-    
-- question: "fornøyelig"
-  answer: |
-    amusing (En fornøyelig film)
-    
-- question: "farlig"
-  answer: |
-    dangerous 
-    slanger er farlige → snakes are dangerous
+    satisfied
+    Jeg er fornøyd med resultatet
 
-- question: "bekymret"
+- question: "å være bekymret for noen/noe"
   answer: |
-    worried (Jeg er bekymret for deg.)
+    worried
+    Jeg er bekymret for deg
+    Jeg er bekymret for fremtiden
 
-- question: "redd"
+- question: "å være redd for noe/å gjøre noe"
   answer: |
     afraid; redd for=afraid of 
+    Mange innvandrere er redde for norskprøven
     Han er redd for å fly
-
-- question: "å redde"
+  
+- question: "å redde noen"
   answer: |
     to save/rescue
     Brannmannen reddet mange mennesker
     redningsmann = saviour
 
-- question: "å beskytte"
+- question: "å være lei av noe"
   answer: |
-    to protect (Askeladden prøver å beskytte kongeriket)
+    tired of
+    Hun er lei av å jobbe hele tiden → She is tired of working all the time
 
-- question: "å skyte"
+- question: "å være trygg"
+  answer: |
+    be safe
+    Jeg føler meg trygg her → I feel safe here
+    Barna er trygge på skolen
+    Dette er et trygt sted å bo
+
+- question: "å bli forsinket"
+  answer: |
+    delayed
+    Toget er forsinket
+
+# Action verbs
+#
+- question: "å beskytte noen/noe"
+  answer: |
+    Askeladden prøver å beskytte prinsessen (kongeriket)
+    Vi må beskytte naturen
+
+- question: "å skyte noe/noen"
   answer: |
     to shoot (skyter-skjøt-har skutt)
-    å skyte seg selv i foten
+    å skyte seg selv i foten (idiom)
     En profesjonell skytter
     Norsk Skytterforbund(The Norwegian Shooting Association)
 
-- question: "skikkelig"
+- question: "å krangle med noen"
   answer: |
-    really/truly
-    Det er skikkelig bra!
+    to fight(krangler-kranglet-har kranglet)
+    Barn krangler med hverandre
+    Hun krangler med meg
 
-- question: "enda"
+- question: "å trykke på noe"
   answer: |
-    even / still
-    Det er enda kaldere i dag. → It is even colder today.
-    Jeg er enda trøtt. → I am still tired.
-    ikke enda → not yet
+    press/push/click (trykker-trykket-har trykket)
+    Trykk på knappen → Press the button
 
-- question: "unna"
+- question: "å lyve om noe/for noen"
   answer: |
-    away
-    Butikken ligger langt unna → The store is far away.
-    Jeg må gi klærne mine unna → I have to give my cloths away
+    to lie (lyver-løy-har løyet)
+    Han løy om sannheten
+    Vi kan ikke bare fortsette å lyve for ham
+    ikke lyv → dont lie
 
-- question: "å vare"
+- question: "å prate om/med noen"
   answer: |
-    to last/to continue 
-    Hvor lenge varer den? = How long does it last?
+    to talk / to chat (prater-pratet-har pratet)
+    Vi prater om været. → “We are chatting about the weather.”
+    Han liker å prate med folk → He likes to talk with people
 
-- question: "å sprekke"
+- question: "å bry seg om noe/noen"
+  answer: |
+    to care/to mind (bryr-brydde-har brydd)
+    Jeg bryr meg om miljøet → I care about the environment
+    Hun brydde seg om vennene sine
+
+- question: "å sprekke noe"
   answer: |
     to crack/to pop 
     Ja, ballonger som sprekker
 
-- question: "å bestå"
+- question: å jakte på noe/noen"
+  answer: |
+    hunt/chase (jakter-jaktet-har jaktet)
+    Jeg jakter på elg → I hunt elk
+    Politiet jakter på tyven → The police are chasing the thief
+
+- question: "å spore opp noe/noen"
+  answer: |
+    track down/trace (sporer opp-sporet opp-har sporet opp)
+    Politiet sporet opp tyven → The police tracked down the thief
+
+- question: "å fange noe/noen"
+  answer: |
+    catch/capture (fanger-fanget-har fanget)
+    De fanget fisken i elva → They caught the fish in the river
+
+- question: "å forsvinne"
+  answer: |
+    to disappear (forsvinner-forsvant-har forsvunnet)
+    Han forsvant plutselig → He disappeared suddenly
+    Alle andre er forsvunnet → Everyone else has disappeared
+
+- question: "å sparke noe/noen"
+  answer: |
+    to kick (sparker-sparket-har sparket)
+    styret valgte å sparke meg → The board decided to kick(fire) me.
+
+- question: "å tilbringe tid"
+  answer: |
+    to spend time (tilbringe-tilbrakte-har tilbrakt)
+    Jeg liker å tilbringe tid med familien min.
+
+- question: "å bestå (av)"
   answer: |
     to pass(exam)/to consist of (bestå-bestod-har bestått)
     Bestå du første gangen? → did you pass it in first attempt
     Kurset består av fem deler. → The course consists of five parts.
-
-- question: "å krangle"
+    
+- question: "å vare"
   answer: |
-    to fight
+    to last/to continue 
+    Hvor lenge varer den? = How long does it last?
 
 - question: "å foreslå"
   answer: |
@@ -100,171 +147,6 @@
     Hun har anbefalt den restauranten. → She has recommended that restaurant
     Jeg anbefaler på det sterkeste → I strongly recommend
 
-- question: "ei løgn"
-  answer: |
-    lie (en løgn-løgner-løgnene)
-    Det var en løgn. → That was a lie.
-    Han forteller løgner hele tiden
-
-- question: "heldigvis"
-  answer: |
-    fortunately
-
-- question: "dessverre"
-  answer: |
-    unfortunately
-
-- question: "lei av"
-  answer: |
-    tired of
-    Hun er lei av å jobbe hele tiden. → She is tired of working all the time.
-
-- question: "ei måke"
-  answer: |
-    seagull (ei måke-måker-måkene)
-    Den måka dreit på huet ditt → That seagull pooped on your head
-
-- question: "en råvare"
-  answer: |
-    raw material
-
-- question: "en drit"
-  answer: |
-    poop/crap (en drit-driter-dritene)
-    å drite → Han driter=He poops.
-
-- question: "å lyve"
-  answer: |
-    to lie (lyver-løy-har løyet)
-    ikke lyv → dont lie
-    Vi kan ikke bare fortsette å lyve for ham.
-
-- question: "nok"
-  answer: |
-    enough
-    MFA er ikke alltid nok for informasjonssikkerhet.
-
-- question: "en angriper"
-  answer: |
-    an attacker
-    Angriperene har blitt smartere → The attackers have become smarter
-
-- question: "forferdelig"
-  answer: |
-    terrible
-
-- question: "nøyaktig"
-  answer: |
-    exact
-    et nøyaktig tall → an exact number
-
-- question: "skummelt"
-  answer: |
-    scary 
-
-- question: "verdenskrig"
-  answer: |
-    world war (krig=war)
-    Den første verdenskrigen startet i 1914.
-    Den andre verdenskrigen sluttet i 1945.
-
-- question: "felleskap"
-  answer: |
-    community
-
-- question: "trygg"
-  answer: |
-    safe/secure/ confident (trygg-trygt-trygge)
-    Jeg føler meg trygg her. → I feel safe here.
-    Barna er trygge i skolen
-    Dette er et trygt sted å bo
-
-- question: "å trykke"
-  answer: |
-    press/push/click (trykker-trykket-har trykket)
-    Trykk på knappen → Press the button
-      
-
-- question: "Knask eller knep"
-  answer: |
-    trick or treat
-    Knask = candy / treats
-    Knep = trick / prank
-
-
-- question: "å jakte"
-  answer: |
-    hunt/chase (jakter-jaktet-har jaktet)
-    Jeg jakter på elg → I hunt elk
-    Politiet jakter på tyven → The police are chasing the thief
-
-- question: "å spore opp"
-  answer: |
-    track down/trace (sporer opp-sporet opp-har sporet opp)
-    Politiet sporet opp tyven → The police tracked down the thief
-
-- question: "å fange"
-  answer: |
-    catch/capture (fanger-fanget-har fanget)
-    De fanget fisken i elva → They caught the fish in the river
-
-- question: "å forsvinne"
-  answer: |
-    to disappear (forsvinner-forsvant-har forsvunnet)
-    Han forsvant plutselig → He disappeared suddenly
-    Alle andre er forsvunnet → Everyone else has disappeared
-
-- question: "verdensrommet"
-  answer: |
-    the universe/outer space 🚀
-    Astronauter reiser ut i verdensrommet → .. travel into space
-    Det finnes mange planeter i verdensrommet
-    en stjerne=star; et solsystem;en galakse; universet
-
-- question: "tilfeldig"
-  answer: |
-    random
-
-- question: "å tilbringe"
-  answer: |
-    to spend time (tilbringe-tilbrakte-har tilbrakt)
-    Jeg liker å tilbringe tid med familien min.
-    
-- question: "høytider"
-  answer: |
-    holidays
-
-- question: "avgjørelser"
-  answer: |
-    decisions
-
-- question: "lidenskap"
-  answer: |
-    passion
-
-- question: "nødvendighet"
-  answer: |
-    necessity
-
-- question: "En beskjed"
-  answer: |
-    a message
-    Gi meg beskjed om det passer → let me know if it suits you.
-
-- question: "En ulykke"
-  answer: |
-    an accident
-
-- question: "En samling"
-  answer: |
-    a gathering
-
-- question: "rar"
-  answer: |
-    strange/weird/odd (rar-rarere-rarest)
-    Hun er rarere enn broren sin
-    et rart hus → a strange house
-
 - question: "å røre"
   answer: |
     to touch (physically)/to stir/mix (rører-rørte-har rørt)
@@ -272,89 +154,11 @@
     Hun rørte kaffen. → She stirred the coffee.
     Han ble rørt til tårer. → He was moved to tears.
 
-- question: "imot"
-  answer: |
-    against/opposed to/toward (preposition)
-    Jeg er imot krig. → I am against war.
-    Han løp imot meg. → He ran toward me.
-    Jeg har ingenting imot deg. → I have nothing against you.
-
-- question: "sannheten"
-  answer: |
-    The truth
-    (related: ikke sant)
-
-- question: "fort"
-  answer: |
-    fast/quickly (adverb..Ikke brukt som adjective)
-    Han løp fort til butikken. → He ran quickly to the store.  
-    Tiden går fort. → Time goes by fast. 
-    "Han er fort" ❌ = Han er rask ✅
-
-- question: "rask"
-  answer: |
-    fast/quick/rapid (rask-raskere-raskest)
-    Dette er den raskeste bilen. → This is the fastest car.  
-    Jeg må lære raskt (raskt used as adverb here)
-
-- question: "sakt"
-  answer: |
-    slow/gently (adverb..Ikke brukt som adjective)
-    kjør saktere, barn leker  
-    Gå sakt! → Walk slowly!  
-    
-- question: "annen/annet/andre"
-  answer: |
-    other/another (annen-annet-andre)
-    en annen dag → another day
-    et annet sted → another place
-    det andre huset → the other house
-    De andre er allerede her → The others are already here
-
-- question: "gjennom"
-  answer: |
-    through (preposition)
-    Vi kjørte gjennom tunnelen → We drove through the tunnel  
-    Han gikk gjennom hele boka → He went through the whole book  
-    Hun kom seg gjennom en vanskelig tid → She got through a difficult time
-
-- question: "Hemmelig"
-  answer: |
-    secret/hidden
-    Kan du holde det hemmelig? → Can you keep it secret?
-    Et hemmelig sted / hemmelig møte
-    Han gjorde det i hemmelighet. → He did it in secret
-
-- question: "egen"
-  answer: |
-    own (egen-eget-egne)
-    mitt eget hus → my own house  
-    hun har sin egen bedrift → she has her own company  
-    vi har våre egne meninger → we have our own opinions
-
-- question: "å prate"
-  answer: |
-    to talk / to chat (prater-pratet-har pratet)
-    Vi prater om været. → “We are chatting about the weather.”
-    Han liker å prate med folk → He likes to talk with people
-
-- question: "å bry"
-  answer: |
-    to care/to mind (bryr-brydde-har brydd)
-    å bry seg om (to care about)
-    Jeg bryr meg om miljøet → I care about the environment
-    Hun brydde seg om vennene sine
-
-- question: "å sparke"
-  answer: |
-    to kick (sparker-sparket-har sparket)
-    styret valgte å sparke meg → The board decided to kick(fire) me.
-
 - question: "å godkjenne"
   answer: |
     to approve / to authorize (godkjenner-godkjente-har godkjent)
     Kan du godkjenne det → can you approve it
-    
+
 - question: "å oppleve"
   answer: |
     to experience (opplever-opplevde-har opplevd)
@@ -393,13 +197,6 @@
   answer: |
     to prepare (forbereder-forberedte-har forberedt)
     De forbereder maten til festen → They are preparing the food for the party
-
-- question: "virkelig"
-  answer: |
-    really/truly/indeed
-    Det er virkelig sant → It is really true
-    Jeg liker virkelig denne filmen → I really like this movie
-    Virkelig? → Really?
 
 - question: "å tenne"
   answer: |
@@ -442,22 +239,42 @@
     Regnet ødela festen 
     Maten ble ødelagt fordi kjøleskapet ikke fungert
 
-- question: "sliten"
+- question: "å gjenkjenne"
   answer: |
-    tired/exhausted/worn-out (sliten-slitent-slitne)
-    Hun føler seg veldig sliten i dag
-    et slitent hus → a worn-out house
-    slitne sko
+    to recognize (gjenkjenner-gjenkjente-har gjenkjent)
+    Jeg gjenkjenner stemmen din (your voice)
+    The prefix “gjen-” in norsk is like “re-” or again/back.
+    gjenta → repeat (do again)
+    gjenopprette → restore 
+    gjenbruke	→ reuse
 
-- question: "vant"
+- question: "å tvile"
   answer: |
-    used to/accustomed to
-    vant til=used to(habit, action, condition)
-    vant med=familiar with(method, system, people)
-    Han er vant til kulda
-    Jeg er ikke vant til å stå opp så tidlig
-    Vi er vant med dette systemet
-    vant ≠ vant(preteritum av `å vinne=won`)
+    to doubt (tviler-tvilte-har tvilt)
+    Jeg tviler på historien hans
+    Hun tviler på at det vil fungere 
+    Det er ingen grunn til å tvile
+    Jeg begynner å tvile
+
+- question: "å bidra"
+  answer: |
+    to contribute (bidrar-bidro-har bidradd)
+    bidra med penger til en innsamling
+    Jeg bidrar til miljøet
+
+- question: "å kreve"
+  answer: |
+    to demand/require (krever-krevde-har krevd)
+    Jeg krever svar
+    Han krevde en forklaring
+    krevende situasjon/Situasjonen er krevende
+  
+- question: "å legge merke til"
+  answer: |
+    to notice/observe(legger merke til-la merke til-har lagt merke til)
+    Jeg legger merke til detaljer
+    Jeg la merke til det
+    Har du lagt merke til dette?
 
 - question: "å delta"
   answer: |
@@ -482,29 +299,17 @@
     Han klager hele tiden
     Hun klaget på maten
 
-- question: "bærekraft"
+- question: "å oppmuntre"
   answer: |
-    sustainability
-    bære = to carry
-    kraft = power/force
-    the Earths ability to bear/carry us over time
-    (A way to remember, not literal)
+    to encourage(oppmuntrer-oppmuntret-har oppmuntret)
 
-- question: "nødvendig"
+- question: "å lede"
   answer: |
-    necessary (unødvendig ?)
-
-- question: "idrett"
-  answer: |
-    sports (feks: idrettsklubb)
-
-- question: "stemmer"
-  answer: |
-    correct/to add up/to match
-    Du bor i Oslo, ikke sant?(Stemmer)
-    Det stemmer → That's correct
-    Tallene stemmer ikke.
-    Navnet ditt stemmer med passet?
+    to lead/manage(leder-ledet-har ledet)
+    leder=leader
+    ledelse=Management
+    toppledelse → top management
+    prosjektledelse → project management
 
 - question: "å vurdere"
   answer: |
@@ -523,6 +328,338 @@
     to have the energy/to handle (orker-orket-har orket)
     Jeg orker ikke mer → I can't take it anymore
     Hun orker ikke å lage middag i dag
+
+- question: "å være deprimert"
+  answer: |
+    to be depressed
+
+- question: "å lukte"
+  answer: |
+    to smell(lukter-luktet-har luktet)
+
+- question: "å bevege"
+  answer: |
+    to move(beveger-beveget-har beveget)
+    Å bevege noe → vinden beveget bladene
+    Å bevege noen → Filmen beveget henne dypt
+    Å bevege seg → Han beveger seg sakte
+    bevegelse = movement
+
+- question: "å avansere"
+  answer: |
+    to advance (avanserer-avanserte-har avansert)
+    avanserte systemer → advanced systems
+    avanserte ferdigheter → advanced skills
+    avansert teknologi → advanced technology
+
+- question: "å stenge"
+  answer: |
+    to close/shut/block(stenger-stengte-har stengt)   
+    Butikken stenger klokka 18
+    stengt = closed
+
+- question: "å kjempe"
+  answer: |
+    to fight(kjemper-kjempet-har kjempet)
+    kjemp for deg selv
+    kjempet som et dyr
+    Gandhi kjempet med sannhet og ikke-vold
+
+- question: "å tilby"
+  answer: |
+    to offer (tilbyr-tilbød-har tilbudt)
+    Staten må tilby/gi utdanning til alle.
+
+- question: "å handle"
+  answer: |
+    to deal with / be about (handler-handlet-har handlet)
+    Det handler om.. = It is about..
+    Utdanning handler om kunnskap.
+    Det handler om frihet og rettferdighet
+
+# Substantiver
+#
+- question: "ei måke"
+  answer: |
+    seagull (ei måke-måker-måkene)
+    Den måka dreit på huet ditt → That seagull pooped on your head
+
+- question: "En beskjed"
+  answer: |
+    a message
+    Gi meg beskjed om det passer → let me know if it suits you.
+
+- question: "en råvare"
+  answer: |
+    raw material
+
+- question: "en drit"
+  answer: |
+    poop/crap (en drit-driter-dritene)
+    å drite → Han driter=He poops.
+
+- question: "et fellesskap"
+  answer: |
+    community
+
+- question: "ei løgn"
+  answer: |
+    lie (en løgn-løgner-løgnene)
+    Det var en løgn. → That was a lie.
+    Han forteller løgner hele tiden
+
+- question: "en angriper"
+  answer: |
+    an attacker
+    Angriperene har blitt smartere → The attackers have become smarter
+
+- question: "en verdenskrig"
+  answer: |
+    world war (krig=war)
+    Den første verdenskrigen startet i 1914.
+    Den andre verdenskrigen sluttet i 1945.
+
+- question: "En ulykke"
+  answer: |
+    an accident
+
+- question: "En samling"
+  answer: |
+    a gathering
+
+- question: "en forutsetning"
+  answer: |
+    a prerequisite / assumption
+    En viktig forutsetning → An important prerequisite
+    En grunnleggende forutsetning → A basic assumption
+
+- question: "et tiltak"
+  answer: |
+    a measure
+    (noe man gjør for å løse et problem eller forbedre noe)
+    Flere busser kan være et godt tiltak mot trafikk
+
+- question: "en utfordring"
+  answer: |
+    a challenge
+    Å lære norsk kan være en utfordring for mange voksne
+
+- question: "en helt"
+  answer: |
+    a hero (helten-helter-heltene)
+    han er en helt
+
+- question: "en hensyn"
+  answer: |
+    consideration(s) (plural also)
+    Ta hensyn til andre → Take others into consideration
+    Hensynet til sikkerheten → Consideration for safety
+    Uten hensyn til loven → Without regard for the law
+
+- question: "en innvandrer"
+  answer: |
+    an immigrant (flere innvandrere)
+
+- question: "en fordel"
+  answer: |
+    an advantage
+  
+- question: "et selskap"
+  answer: |
+    a company/orgnaization(selskapet-selskaper-selskapene)
+    Jeg jobber i et stort IT-selskap
+    Selskapet vokser raskt
+    aksjeselskap(AS)→aksje=share/stock
+    aksjonær→shareholder
+
+- question: "en ansatt"
+  answer: |
+    an employee(den ansatte, flere ansatte)
+    Den ansatte jobber hardt (bestempt -e)
+    Alle ansatte må møte opp (plural -e)
+
+- question: "en avdeling"
+  answer: |
+    a department(avdelingen - avdelinger - avdelingene)
+    Samarbeid mellom avdelingene er viktig
+
+- question: "en verdi"
+  answer: |
+    a value(verdien-verdier-verdiene)
+    Ærlighet er en viktig verdi
+    Vi deler samme verdier i teamet
+
+- question: "en alvorlig"
+  answer: |
+    serious
+    Det er en alvorlig situasjon
+
+- question: "sannheten"
+  answer: |
+    The truth
+    (related: ikke sant)
+    Sannheten er viktig
+    Jeg vil vite sannheten
+
+- question: "verdensrommet"
+  answer: |
+    the universe/outer space 🚀
+    Astronauter reiser ut i verdensrommet → .. travel into space
+    Det finnes mange planeter i verdensrommet
+    en stjerne=star; et solsystem;en galakse; universet
+
+### Others
+- question: "nok"
+  answer: |
+    enough
+    MFA er ikke alltid nok for informasjonssikkerhet.
+
+- question: "forferdelig"
+  answer: |
+    terrible
+
+- question: "nøyaktig"
+  answer: |
+    exact
+    et nøyaktig tall → an exact number
+
+- question: "skummelt"
+  answer: |
+    scary 
+
+- question: "Knask eller knep"
+  answer: |
+    trick or treat
+    Knask = candy / treats
+    Knep = trick / prank
+
+- question: "tilfeldig"
+  answer: |
+    random
+
+- question: "høytider"
+  answer: |
+    holidays
+
+- question: "avgjørelser"
+  answer: |
+    decisions
+
+- question: "lidenskap"
+  answer: |
+    passion
+
+- question: "rar"
+  answer: |
+    strange/weird/odd (rar-rarere-rarest)
+    Hun er rarere enn broren sin
+    et rart hus → a strange house
+
+- question: "imot"
+  answer: |
+    against/opposed to/toward (preposition)
+    Jeg er imot krig. → I am against war.
+    Han løp imot meg. → He ran toward me.
+    Jeg har ingenting imot deg. → I have nothing against you.
+
+- question: "fort"
+  answer: |
+    fast/quickly (adverb..Ikke brukt som adjective)
+    Han løp fort til butikken. → He ran quickly to the store.  
+    Tiden går fort. → Time goes by fast. 
+    "Han er fort" ❌ = Han er rask ✅
+
+- question: "rask"
+  answer: |
+    fast/quick/rapid (rask-raskere-raskest)
+    Dette er den raskeste bilen. → This is the fastest car.  
+    Jeg må lære raskt (raskt used as adverb here)
+
+- question: "sakte"
+  answer: |
+    slowly / gently (adverb - ikke brukt som adjektiv)
+
+    Kjør saktere → Drive more slowly
+    Barn leker sakte → Children play slowly
+    Gå sakte! → Walk slowly!
+    
+- question: "annen/annet/andre"
+  answer: |
+    other/another (annen-annet-andre)
+    en annen dag → another day
+    et annet sted → another place
+    det andre huset → the other house
+    De andre er allerede her → The others are already here
+
+- question: "gjennom"
+  answer: |
+    through (preposition)
+    Vi kjørte gjennom tunnelen → We drove through the tunnel  
+    Han gikk gjennom hele boka → He went through the whole book  
+    Hun kom seg gjennom en vanskelig tid → She got through a difficult time
+
+- question: "Hemmelig"
+  answer: |
+    secret/hidden
+    Kan du holde det hemmelig? → Can you keep it secret?
+    Et hemmelig sted / hemmelig møte
+    Han gjorde det i hemmelighet. → He did it in secret
+
+- question: "egen"
+  answer: |
+    own (egen-eget-egne)
+    mitt eget hus → my own house  
+    hun har sin egen bedrift → she has her own company  
+    vi har våre egne meninger → we have our own opinions
+
+- question: "virkelig"
+  answer: |
+    really/truly/indeed
+    Det er virkelig sant → It is really true
+    Jeg liker virkelig denne filmen → I really like this movie
+    Virkelig? → Really?
+
+- question: "sliten"
+  answer: |
+    tired/exhausted/worn-out (sliten-slitent-slitne)
+    Hun føler seg veldig sliten i dag
+    et slitent hus → a worn-out house
+    slitne sko
+
+- question: "vant"
+  answer: |
+    used to/accustomed to
+    vant til=used to(habit, action, condition)
+    vant med=familiar with(method, system, people)
+    Han er vant til kulda
+    Jeg er ikke vant til å stå opp så tidlig
+    Vi er vant med dette systemet
+    vant ≠ vant(preteritum av `å vinne=won`)
+
+- question: "bærekraft"
+  answer: |
+    sustainability
+    bære = to carry
+    kraft = power/force
+    the Earths ability to bear/carry us over time
+    (A way to remember, not literal)
+
+- question: "nødvendig"
+  answer: |
+    necessary (unødvendig ?)
+    nødvendighet (necessocity)
+
+- question: "idrett"
+  answer: |
+    sports (feks: idrettsklubb)
+
+- question: "stemmer"
+  answer: |
+    correct/to add up/to match
+    Du bor i Oslo, ikke sant?(Stemmer)
+    Det stemmer → That's correct
+    Tallene stemmer ikke.
+    Navnet ditt stemmer med passet?
 
 - question: "rett og slett"
   answer: |
@@ -549,29 +686,11 @@
     Hun ble sjalu da hun så dem sammen
     sjalusi (noun) → jealousy
 
-- question: "å gjenkjenne"
-  answer: |
-    to recognize (gjenkjenner-gjenkjente-har gjenkjent)
-    Jeg gjenkjenner stemmen din (your voice)
-    The prefix “gjen-” in norsk is like “re-” or again/back.
-    gjenta → repeat (do again)
-    gjenopprette → restore 
-    gjenbruke	→ reuse
-
-- question: "å tvile"
-  answer: |
-    to doubt (tviler-tvilte-har tvilt)
-    Jeg tviler på historien hans
-    Hun tviler på at det vil fungere 
-    Det er ingen grunn til å tvile
-    Jeg begynner å tvile
-
 - question: "en anledning"
   answer: |
     Occasions (anledningen-anledninger-anledningene)
     ved spesielle anledninger → on special occasions
     bryllup og andre anledninger
-
 
 - question: "kommer an på/kommer til å"
   answer: |
@@ -585,156 +704,55 @@
     Jeg passer på barna
     Filmen passer for barn.
 
-- question: "en innvandrer"
-  answer: |
-    an immigrant (flere innvandrere)
-
-- question: "en fordel"
-  answer: |
-    an advantage
-
-- question: "å bidra"
-  answer: |
-    to contribute (bidrar-bidro-har bidradd)
-    bidra med penger til en innsamling
-    Jeg bidrar til miljøet
-
-- question: "å kreve"
-  answer: |
-    to demand/require (krever-krevde-har krevd)
-    Jeg krever svar
-    Han krevde en forklaring
-    krevende situasjon/Situasjonen er krevende
-  
-- question: "å legge merke til"
-  answer: |
-    to notice/observe(legger merke til-la merke til-har lagt merke til)
-    Jeg legger merke til detaljer
-    Jeg la merke til det
-    Har du lagt merke til dette?
-  
-- question: "et selskap"
-  answer: |
-    a company/orgnaization(selskapet-selskaper-selskapene)
-    Jeg jobber i et stort IT-selskap
-    Selskapet vokser raskt
-    aksjeselskap(AS)→aksje=share/stock
-    aksjonær→shareholder
-
-- question: "en ansatt"
-  answer: |
-    an employee(den ansatte, flere ansatte)
-    Den ansatte jobber hardt (bestempt -e)
-    Alle ansatte må møte opp (plural -e)
-
-- question: "en avdeling"
-  answer: |
-    a department(avdelingen - avdelinger - avdelingene)
-    Samarbeid mellom avdelingene er viktig
-
-- question: "å oppmuntre"
-  answer: |
-    to encourage(oppmuntrer-oppmuntret-har oppmuntret)
-
-- question: "å lede"
-  answer: |
-    to lead/manage(leder-ledet-har ledet)
-    leder=leader
-    ledelse=Management
-    toppledelse → top management
-    prosjektledelse → project management
-
-- question: "en verdi"
-  answer: |
-    a value(verdien-verdier-verdiene)
-    Ærlighet er en viktig verdi
-    Vi deler samme verdier i teamet
-
-- question: "å lukte"
-  answer: |
-    to smell(lukter-luktet-har luktet)
-
-- question: "en alvorlig"
-  answer: |
-    serious
-    Det er en alvorlig situasjon
-
-- question: "å bevege"
-  answer: |
-    to move(beveger-beveget-har beveget)
-    Å bevege noe → vinden beveget bladene
-    Å bevege noen → Filmen beveget henne dypt
-    Å bevege seg → Han beveger seg sakte
-    bevegelse = movement
-
 - question: "mangfold"
   answer: |
     diversity
-
-- question: "å avansere"
-  answer: |
-    to advance (avanserer-avanserte-har avansert)
-    avanserte systemer → advanced systems
-    avanserte ferdigheter → advanced skills
-    avansert teknologi → advanced technology
-
-- question: "en forutsetning"
-  answer: |
-    a prerequisite / assumption
-    En viktig forutsetning → An important prerequisite
-    En grunnleggende forutsetning → A basic assumption
-
-- question: "et tiltak"
-  answer: |
-    a measure
-    (noe man gjør for å løse et problem eller forbedre noe)
-    Flere busser kan være et godt tiltak mot trafikk
-
-- question: "en utfordring"
-  answer: |
-    a challenge
-    Å lære norsk kan være en utfordring for mange voksne
-
-- question: "en hensyn"
-  answer: |
-    consideration(s) (plural also)
-    Ta hensyn til andre → Take others into consideration
-    Hensynet til sikkerheten → Consideration for safety
-    Uten hensyn til loven → Without regard for the law
-
-- question: "å stenge"
-  answer: |
-    to close/shut/block(stenger-stengte-har stengt)   
-    Butikken stenger klokka 18
-    stengt = closed
 
 - question: "rimelig"
   answer: |
     reasonable(ikke så dyrt)
 
-- question: "å være deprimert"
-  answer: |
-    to be depressed
-
 - question: "regjering"
   answer: |
     Government
 
-- question: "å kjempe"
+- question: "forskjellig"
   answer: |
-    to fight(kjemper-kjempet-har kjempet)
-    kjemp for deg selv
-    kjempet som et dyr
-    Gandhi kjempet med sannhet og ikke-vold
+    different (Forskjellige typer mat)
+    forskjell (difference): forskjellen-forskjeller-forskjellene
+    Det er en stor forskjell mellom dem.
 
-- question: "en helt"
+- question: "fornøyelig"
   answer: |
-    a hero (helten-helter-heltene)
-    han er en helt
+    amusing (En fornøyelig film)
+    
+- question: "farlig"
+  answer: |
+    dangerous 
+    slanger er farlige → snakes are dangerous   
 
-- question: "å handle"
+- question: "skikkelig"
   answer: |
-    to deal with / be about (handler-handlet-har handlet)
-    Det handler om.. = It is about..
-    Utdanning handler om kunnskap.
-    Det handler om frihet og rettferdighet
+    really/truly
+    Det er skikkelig bra!
+
+- question: "enda"
+  answer: |
+    even / still
+    Det er enda kaldere i dag. → It is even colder today.
+    Jeg er enda trøtt. → I am still tired.
+    ikke enda → not yet
+
+- question: "unna"
+  answer: |
+    away
+    Butikken ligger langt unna → The store is far away.
+    Jeg må gi klærne mine unna → I have to give my cloths away
+
+- question: "heldigvis"
+  answer: |
+    fortunately
+
+- question: "dessverre"
+  answer: |
+    unfortunately
