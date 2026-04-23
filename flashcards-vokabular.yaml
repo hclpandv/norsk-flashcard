@@ -508,34 +508,167 @@
     Hensynet til sikkerheten → Consideration for safety
     Uten hensyn til loven → Without regard for the law
 
+# Adjectives and adverbs
+#
+- question: "forferdelig ↔ fantastisk"
+  answer: |
+    forferdelig = terrible
+    en forferdelig opplevelse
+    adverb: forferdelig → Han oppførte seg forferdelig
+
+    fantastisk = fantastic
+    en fantastisk dag
+    adverb: fantastisk → Det var fantastisk bra
+
+- question: "nøyaktig ↔ unøyaktig"
+  answer: |
+    nøyaktig = exact/precise
+    et nøyaktig tall
+    adverb: nøyaktig → Han kom nøyaktig klokka 10
+
+- question: "skummelt ↔ trygt"
+  answer: |
+    skummelt = scary
+    et skummelt sted
+    adverb: skummelt → Det føltes skummelt
+
+    trygt = safe
+    et trygt sted
+    adverb: trygt → Barna leker trygt
+
+- question: "tilfeldig ↔ bevisst"
+  answer: |
+    tilfeldig = random
+    et tilfeldig valg
+    adverb: tilfeldig → Han valgte tilfeldig
+
+    bevisst = intentional
+    et bevisst valg
+    adverb: bevisst → Han handlet bevisst
+
+- question: "rar ↔ normal"
+  answer: |
+    rar = strange/weird
+    et rart hus
+    adverb: rart → Det føltes rart
+
+    normal = normal
+    et normalt hus
+    adverb: normalt → Han oppførte seg normalt
+
+- question: "virkelig ↔ uvirkelig"
+  answer: |
+    virkelig = real/really
+    det er virkelig sant
+    adverb: virkelig → Jeg liker virkelig dette
+
+- question: "sliten ↔ uthvilt"
+  answer: |
+    sliten = tired/exhausted
+    jeg er sliten
+    adverb: ❗no standard adverb form (do not use "slitent")
+
+- question: "nødvendig ↔ unødvendig"
+  answer: |
+    nødvendig = necessary
+    det er nødvendig å lære norsk
+    adverb: nødvendig → Det er nødvendig viktig (formal usage: nødvendigvis)
+
+- question: "forskjellig ↔ lik"
+  answer: |
+    forskjellig = different
+    forskjellige typer mat
+    adverb: forskjellig → De reagerer forskjellig
+
+    lik = similar/same
+    like meninger
+    adverb: likt → De tenker likt
+
+- question: "fornøyelig ↔ kjedelig"
+  answer: |
+    fornøyelig = amusing
+    en fornøyelig film
+    adverb: ❗rare usage (not common in speech)
+
+    kjedelig = boring
+    en kjedelig film
+    adverb: kjedelig → Det var kjedelig gjort
+
+- question: "farlig ↔ trygg"
+  answer: |
+    farlig = dangerous
+    slanger er farlige
+    adverb: ❗no standard adverb form (use "på en farlig måte")
+
+    trygg = safe
+    et trygt sted
+    adverb: trygt → Hun kjører trygt
+
+- question: "skikkelig ↔ dårlig"
+  answer: |
+    skikkelig = really/properly
+    det er skikkelig bra
+    adverb: skikkelig → Det er skikkelig bra
+
+    dårlig = bad
+    dårlig vær
+    adverb: dårlig → Han spilte dårlig
+
+- question: "rimelig ↔ dyr"
+  answer: |
+    rimelig = reasonable/affordable
+    en rimelig pris
+    adverb: rimelig → Det er rimelig bra
+
+    dyr = expensive
+    en dyr bil
+    adverb: dyrt → Det er dyrt å bo her
+
+- question: "nysgjerrig ↔ likegyldig"
+  answer: |
+    nysgjerrig = curious
+    barn er nysgjerrige
+    adverb: ❗no natural adverb usage (use "nysgjerrig på")
+
+    likegyldig = indifferent
+    han er likegyldig
+    adverb: likegyldig → Han reagerte likegyldig
+
+- question: "sjalu ↔ trygg"
+  answer: |
+    sjalu = jealous
+    han er sjalu
+    sjalusi (noun) → jealousy
+    adverb: ❗no real adverb usage
+
+    trygg = secure/confident
+    hun er trygg
+    adverb: trygt → Hun snakker trygt
+
+- question: "egen ↔ felles"
+  answer: |
+    egen/eget/egne=own
+    mitt eget hus
+    hun har sin egen bil
+    vi har våre egne meninger
+    adverb: ❗no adverb form (not used as adverb in Norwegian)
+
+    felles = shared/common
+    et felles prosjekt
+    vi har felles mål
+    adverb: ❗no standard adverb form
+
 ### Others
 - question: "nok"
   answer: |
     enough
     MFA er ikke alltid nok for informasjonssikkerhet.
 
-- question: "forferdelig"
-  answer: |
-    terrible
-
-- question: "nøyaktig"
-  answer: |
-    exact
-    et nøyaktig tall → an exact number
-
-- question: "skummelt"
-  answer: |
-    scary 
-
 - question: "Knask eller knep"
   answer: |
     trick or treat
     Knask = candy / treats
     Knep = trick / prank
-
-- question: "tilfeldig"
-  answer: |
-    random
 
 - question: "høytider"
   answer: |
@@ -548,12 +681,6 @@
 - question: "lidenskap"
   answer: |
     passion
-
-- question: "rar"
-  answer: |
-    strange/weird/odd (rar-rarere-rarest)
-    Hun er rarere enn broren sin
-    et rart hus → a strange house
 
 - question: "imot"
   answer: |
@@ -605,27 +732,6 @@
     Et hemmelig sted / hemmelig møte
     Han gjorde det i hemmelighet. → He did it in secret
 
-- question: "egen"
-  answer: |
-    own (egen-eget-egne)
-    mitt eget hus → my own house  
-    hun har sin egen bedrift → she has her own company  
-    vi har våre egne meninger → we have our own opinions
-
-- question: "virkelig"
-  answer: |
-    really/truly/indeed
-    Det er virkelig sant → It is really true
-    Jeg liker virkelig denne filmen → I really like this movie
-    Virkelig? → Really?
-
-- question: "sliten"
-  answer: |
-    tired/exhausted/worn-out (sliten-slitent-slitne)
-    Hun føler seg veldig sliten i dag
-    et slitent hus → a worn-out house
-    slitne sko
-
 - question: "vant"
   answer: |
     used to/accustomed to
@@ -644,10 +750,6 @@
     the Earths ability to bear/carry us over time
     (A way to remember, not literal)
 
-- question: "nødvendig"
-  answer: |
-    necessary (unødvendig ?)
-    nødvendighet (necessocity)
 
 - question: "idrett"
   answer: |
@@ -672,19 +774,6 @@
     Han er stolt av jobben sin 
     Når er du stolt av deg selv?
 
-- question: "nysgjerrig"
-  answer: |
-    curious/inquisitive (adjective)
-    Hun er nysgjerrig på nye ting (curious about)
-    Barn er ofte veldig nysgjerrige
-    nysgjerrighet (noun) → curiosity
-
-- question: "sjalu"
-  answer: |
-    jealous (adjective)
-    Han er sjalu på broren sin
-    Hun ble sjalu da hun så dem sammen
-    sjalusi (noun) → jealousy
 
 - question: "en anledning"
   answer: |
@@ -708,33 +797,9 @@
   answer: |
     diversity
 
-- question: "rimelig"
-  answer: |
-    reasonable(ikke så dyrt)
-
 - question: "regjering"
   answer: |
     Government
-
-- question: "forskjellig"
-  answer: |
-    different (Forskjellige typer mat)
-    forskjell (difference): forskjellen-forskjeller-forskjellene
-    Det er en stor forskjell mellom dem.
-
-- question: "fornøyelig"
-  answer: |
-    amusing (En fornøyelig film)
-    
-- question: "farlig"
-  answer: |
-    dangerous 
-    slanger er farlige → snakes are dangerous   
-
-- question: "skikkelig"
-  answer: |
-    really/truly
-    Det er skikkelig bra!
 
 - question: "enda"
   answer: |
