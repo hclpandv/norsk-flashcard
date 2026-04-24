@@ -1,0 +1,386 @@
+# Verbs (VÆRE / BLI)
+#
+- question: "å være fornøyd med noe"
+  answer: |
+    satisfied
+    Jeg er fornøyd med resultatet
+
+- question: "å være bekymret for noen/noe"
+  answer: |
+    worried
+    Jeg er bekymret for deg
+    Jeg er bekymret for fremtiden
+
+- question: "å være redd for noe/å gjøre noe"
+  answer: |
+    afraid; redd for=afraid of 
+    Mange innvandrere er redde for norskprøven
+    Han er redd for å fly
+  
+- question: "å redde noen"
+  answer: |
+    to save/rescue
+    Brannmannen reddet mange mennesker
+    redningsmann = saviour
+
+- question: "å være lei av noe"
+  answer: |
+    tired of
+    Hun er lei av å jobbe hele tiden → She is tired of working all the time
+
+- question: "å være trygg"
+  answer: |
+    be safe
+    Jeg føler meg trygg her → I feel safe here
+    Barna er trygge på skolen
+    Dette er et trygt sted å bo
+
+- question: "å bli forsinket"
+  answer: |
+    delayed
+    Toget er forsinket
+
+# Action verbs
+#
+- question: "å støtte noen/noe"
+  answer: |
+    to support (støtter-støttet-har støttet)
+    Jeg støtter deg, Vi må støtte hverandre
+    Hun støtter prosjektet
+    Opplæring i norsk for voksne innvandrere skal støtte integrering og deltakelse i samfunnet
+    
+- question: "å beskytte noen/noe"
+  answer: |
+    Askeladden prøver å beskytte prinsessen (kongeriket)
+    Vi må beskytte naturen
+
+- question: "å skyte noe/noen"
+  answer: |
+    to shoot (skyter-skjøt-har skutt)
+    å skyte seg selv i foten (idiom)
+    En profesjonell skytter
+    Norsk Skytterforbund(The Norwegian Shooting Association)
+
+- question: "å krangle med noen"
+  answer: |
+    to fight(krangler-kranglet-har kranglet)
+    Barn krangler med hverandre
+    Hun krangler med meg
+
+- question: "å trykke på noe"
+  answer: |
+    press/push/click (trykker-trykket-har trykket)
+    Trykk på knappen → Press the button
+
+- question: "å lyve om noe/for noen"
+  answer: |
+    to lie (lyver-løy-har løyet)
+    Han løy om sannheten
+    Vi kan ikke bare fortsette å lyve for ham
+    ikke lyv → dont lie
+
+- question: "å prate om/med noen"
+  answer: |
+    to talk / to chat (prater-pratet-har pratet)
+    Vi prater om været. → “We are chatting about the weather.”
+    Han liker å prate med folk → He likes to talk with people
+
+- question: "å bry seg om noe/noen"
+  answer: |
+    to care/to mind (bryr-brydde-har brydd)
+    Jeg bryr meg om miljøet → I care about the environment
+    Hun brydde seg om vennene sine
+
+- question: "å sprekke noe"
+  answer: |
+    to crack/to pop 
+    Ja, ballonger som sprekker
+
+- question: "å jakte på noe/noen"
+  answer: |
+    hunt/chase (jakter-jaktet-har jaktet)
+    Jeg jakter på elg → I hunt elk
+    Politiet jakter på tyven → The police are chasing the thief
+
+- question: "å spore opp noe/noen"
+  answer: |
+    track down/trace (sporer opp-sporet opp-har sporet opp)
+    Politiet sporet opp tyven → The police tracked down the thief
+
+- question: "å fange noe/noen"
+  answer: |
+    catch/capture (fanger-fanget-har fanget)
+    De fanget fisken i elva → They caught the fish in the river
+
+- question: "å forsvinne"
+  answer: |
+    to disappear (forsvinner-forsvant-har forsvunnet)
+    Han forsvant plutselig → He disappeared suddenly
+    Alle andre er forsvunnet → Everyone else has disappeared
+
+- question: "å sparke noe/noen"
+  answer: |
+    to kick (sparker-sparket-har sparket)
+    styret valgte å sparke meg → The board decided to kick(fire) me.
+
+- question: "å tilbringe tid med noen/noe"
+  answer: |
+    to spend time (tilbringe-tilbrakte-har tilbrakt)
+    Jeg liker å tilbringe tid med familien min.
+
+- question: "å bestå (av)"
+  answer: |
+    to pass(exam)/to consist of (bestå-bestod-har bestått)
+    Bestå du første gangen? → did you pass it in first attempt
+    Kurset består av fem deler. → The course consists of five parts.
+    
+- question: "å vare"
+  answer: |
+    to last/to continue 
+    Hvor lenge varer den? = How long does it last?
+
+- question: "å foreslå"
+  answer: |
+    to suggest/propose (foreslår-foreslo-har foreslått)
+    et forslag=a suggestion/a proposal
+    Han foreslår at vi drar tidlig. 
+    Jeg foreslår noe annet → I suggest something else
+    Jeg har et forslag
+
+- question: "å anbefale"
+  answer: |
+    to recommend (anbefaler-anbefalte-har anbefalt)
+    Jeg anbefaler denne filmen. → I recommend this movie
+    Hun har anbefalt den restauranten. → She has recommended that restaurant
+    Jeg anbefaler på det sterkeste → I strongly recommend
+
+- question: "å røre"
+  answer: |
+    to touch (physically)/to stir/mix (rører-rørte-har rørt)
+    Ikke rør! → Don't touch!
+    Hun rørte kaffen. → She stirred the coffee.
+    Han ble rørt til tårer. → He was moved to tears.
+
+- question: "å godkjenne"
+  answer: |
+    to approve / to authorize (godkjenner-godkjente-har godkjent)
+    Kan du godkjenne det → can you approve it
+
+- question: "å oppleve"
+  answer: |
+    to experience (opplever-opplevde-har opplevd)
+    an experience = en opplevelse
+    Erfaring = experience (skills); opplevelse = memorable event
+    det ble en av de beste opplevelsene i livet mitt → it became one of the best experiences of my life.
+  
+- question: "å utforske"
+  answer: |
+    to explore (utforsker-utforsket-har utforsket)
+    I fremtiden vil jeg utforske flere land i Europa → I future I want to explore many countries in europe
+
+- question: "å oppfinne"
+  answer: |
+    to invent (oppfinner-oppfant-har oppfunnet)
+    James Watt oppfant dampmaskinen
+
+- question: "å utvide"
+  answer: |
+    to expand / extend / widen (utvider-utvidet-har utvidet)
+    å utvide en åpning → to widen an opening
+    Vi må utvide virksomheten → We need to expand the business
+
+- question: "å oversette"
+  answer: |
+    to translate (oversetter-oversatte-har oversatt)
+    boken er oversatt til mange språk
+
+- question: "å gjette"
+  answer: |
+    to guess (gjetter-gjettet-har gjettet)
+    Kan du gjette hva som skjedde? → Can you guess what happened?
+    Jeg bare gjetter → I'm just guessing
+
+- question: "å forberede"
+  answer: |
+    to prepare (forbereder-forberedte-har forberedt)
+    De forbereder maten til festen → They are preparing the food for the party
+
+- question: "å tenne"
+  answer: |
+    to light/ignite/turn on (tenner-tente-har tent)
+    å tenne på bålet → to light the /bonfire
+    å tenne opp i peisen/ovnen
+    Læreren tente gnisten hos elevene
+
+- question: "å tjene"
+  answer: |
+    to serve/to earn(tjener-tjente-har tjent)
+    Han tjener mye penger → He earns a lot of money
+    Jeg vil tjene samfunnet → I want to serve society
+    tjeneste=service (Han gjør en god tjeneste for samfunnet)
+
+- question: "å forvirre"
+  answer: |
+    to confuse (forvirrer-forvirret-har forvirret)
+    det forvirrer mange
+    Jeg ble helt forvirret 
+    (forvirring=confusion)
+
+- question: "å forvandle"
+  answer: |
+    to transform (forvandler-forvandlet-har forvandlet)
+
+- question: "å overraske"
+  answer: |
+    to surprise (overrasker-overrasket-har overrasket)
+    Han overrasket henne med blomster
+    Jeg ble overrasket over resultatet
+    gaven skal være en overraskelse
+    (en overraskelse=a surprise)
+
+- question: "å ødelegge"
+  answer: |
+    to destroy/ruin/break (ødelegger-ødela-har ødelagt)
+    ødelagt=broken (as adjective)
+    Jeg ødela mobilen min
+    Regnet ødela festen 
+    Maten ble ødelagt fordi kjøleskapet ikke fungerte.
+
+- question: "å gjenkjenne"
+  answer: |
+    to recognize (gjenkjenner-gjenkjente-har gjenkjent)
+    Jeg gjenkjenner stemmen din (your voice)
+    The prefix “gjen-” in norsk is like “re-” or again/back.
+    gjenta → repeat (do again)
+    gjenopprette → restore 
+    gjenbruke	→ reuse
+
+- question: "å tvile"
+  answer: |
+    to doubt (tviler-tvilte-har tvilt)
+    Jeg tviler på historien hans
+    Hun tviler på at det vil fungere 
+    Det er ingen grunn til å tvile
+    Jeg begynner å tvile
+
+- question: "å bidra"
+  answer: |
+    to contribute (bidrar-bidro-har bidradd)
+    bidra med penger til en innsamling
+    Jeg bidrar til miljøet
+
+- question: "å kreve"
+  answer: |
+    to demand/require (krever-krevde-har krevd)
+    Jeg krever svar
+    Han krevde en forklaring
+    krevende situasjon/Situasjonen er krevende
+  
+- question: "å legge merke til"
+  answer: |
+    to notice/observe(legger merke til-la merke til-har lagt merke til)
+    Jeg legger merke til detaljer
+    Jeg la merke til det
+    Har du lagt merke til dette?
+
+- question: "å delta"
+  answer: |
+    to participate (deltar-deltok-har deltatt)
+    del+ta=take part
+    Norge har ikke deltatt i VM på 28 år
+    men neste år skal de det.
+    VM=verdensmesterskap=World Cup
+
+- question: "å dele"
+  answer: |
+    to share/divide/split(deler-delte-har delt)
+    Jeg deler maten med deg (deler med)
+    Vi deler på ansvaret (share responsibility)
+    De delte på oppgaven (split the task)
+    Læreren deler opp klassen i grupper
+    Veien deler seg her → The road splits here
+
+- question: "å klage"
+  answer: |
+    to complain (klager-klaget-har klaget)
+    Han klager hele tiden
+    Hun klaget på maten
+
+- question: "å oppmuntre"
+  answer: |
+    to encourage(oppmuntrer-oppmuntret-har oppmuntret)
+
+- question: "å lede"
+  answer: |
+    to lead/manage(leder-ledet-har ledet)
+    leder=leader
+    ledelse=Management
+    toppledelse → top management
+    prosjektledelse → project management
+
+- question: "å vurdere"
+  answer: |
+    to consider/assess/evaluate(vurderer-vurderte-har vurdert)
+    Jeg vurderer tilbudet(considering)
+    Vi må vurdere situasjonen(assess)
+    Jeg tar forslaget videre internt for vurdering
+
+- question: "å tilhøre"
+  answer: |
+    to belong(tilhører-tilhørte-har tilhørt)
+    skogen tilhører kommunen
+
+- question: "å orke"
+  answer: |
+    to have the energy/to handle (orker-orket-har orket)
+    Jeg orker ikke mer → I can't take it anymore
+    Hun orker ikke å lage middag i dag
+
+- question: "å være deprimert"
+  answer: |
+    to be depressed
+
+- question: "å lukte"
+  answer: |
+    to smell(lukter-luktet-har luktet)
+
+- question: "å bevege"
+  answer: |
+    to move(beveger-beveget-har beveget)
+    Å bevege noe → vinden beveget bladene
+    Å bevege noen → Filmen beveget henne dypt
+    Å bevege seg → Han beveger seg sakte
+    bevegelse = movement
+
+- question: "å avansere"
+  answer: |
+    to advance (avanserer-avanserte-har avansert)
+    avanserte systemer → advanced systems
+    avanserte ferdigheter → advanced skills
+    avansert teknologi → advanced technology
+
+- question: "å stenge"
+  answer: |
+    to close/shut/block(stenger-stengte-har stengt)   
+    Butikken stenger klokka 18
+    stengt = closed
+
+- question: "å kjempe"
+  answer: |
+    to fight(kjemper-kjempet-har kjempet)
+    kjemp for deg selv
+    kjempet som et dyr
+    Gandhi kjempet med sannhet og ikke-vold
+
+- question: "å tilby"
+  answer: |
+    to offer (tilbyr-tilbød-har tilbudt)
+    Staten må tilby/gi utdanning til alle.
+
+- question: "å handle"
+  answer: |
+    to deal with / be about (handler-handlet-har handlet)
+    Det handler om.. = It is about..
+    Utdanning handler om kunnskap.
+    Det handler om frihet og rettferdighet
+

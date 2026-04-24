@@ -1,0 +1,159 @@
+# Adjectives and adverbs
+# Adjective = WHAT something is
+# Adverb = HOW something happens
+#
+- question: "forferdelig ↔ fantastisk"
+  answer: |
+    forferdelig=terrible (en forferdelig opplevelse)
+    adverb: forferdelig → Han oppførte seg forferdelig 
+    ↔
+    fantastisk = fantastic (en fantastisk dag)
+    adverb: fantastisk → Det var fantastisk bra
+
+- question: "nøyaktig ↔ unøyaktig"
+  answer: |
+    nøyaktig=exact/precise (et nøyaktig tall)
+    adverb: nøyaktig → Han kom nøyaktig klokka 10
+
+- question: "skummelt ↔ trygt"
+  answer: |
+    skummelt = scary (et skummelt sted)
+    adverb: skummelt → Det føltes skummelt 
+    ↔
+    trygt = safe (et trygt sted)
+    adverb: trygt → Barna leker trygt
+
+- question: "tilfeldig ↔ bevisst"
+  answer: |
+    tilfeldig=random (et tilfeldig valg)
+    adverb: tilfeldig → Han valgte tilfeldig 
+    ↔
+    bevisst=intentional (et bevisst valg)
+    adverb: bevisst → Han handlet bevisst
+
+- question: "rar ↔ normal"
+  answer: |
+    rar = strange/weird(et rart hus)
+    adverb: rart → Det føltes rart 
+    ↔
+    normal = normal(et normalt hus)
+    adverb: normalt → Han oppførte seg normalt
+
+- question: "virkelig ↔ uvirkelig"
+  answer: |
+    virkelig = real/really
+    det er virkelig sant
+    adverb: virkelig → Jeg liker virkelig dette
+
+- question: "sliten ↔ uthvilt"
+  answer: |
+    sliten = tired/exhausted
+    jeg er sliten
+    adverb: ❗no standard adverb form (do not use "slitent")
+
+- question: "nødvendig ↔ unødvendig"
+  answer: |
+    nødvendig = necessary
+    det er nødvendig å lære norsk
+    adverb: nødvendig → Det er nødvendig viktig (formal usage: nødvendigvis)
+
+- question: "forskjellig ↔ lik"
+  answer: |
+    forskjellig = different (forskjellige typer mat)
+    adverb: forskjellig → De reagerer forskjellig 
+    ↔
+    lik = similar/same (like meninger)
+    adverb: likt → De tenker likt
+
+- question: "fornøyelig ↔ kjedelig"
+  answer: |
+    fornøyelig=amusing (en fornøyelig film)
+    adverb: ❗rare usage (not common in speech)
+    ↔
+    kjedelig = boring(en kjedelig film)
+    adverb: kjedelig → Det var kjedelig gjort
+
+- question: "farlig ↔ trygg"
+  answer: |
+    farlig = dangerous (slanger er farlige)
+    adverb: ❗no standard adverb (use "på en farlig måte") 
+    ↔
+    trygg = safe (et trygt sted)
+    adverb: trygt → Hun kjører trygt
+
+- question: "skikkelig ↔ dårlig"
+  answer: |
+    skikkelig = really/properly (det er skikkelig bra)
+    adverb: skikkelig → Det er skikkelig bra
+    ↔
+    dårlig = bad (dårlig vær)
+    adverb: dårlig → Han spilte dårlig
+
+- question: "rimelig ↔ dyr"
+  answer: |
+    rimelig = reasonable/affordable (en rimelig pris)
+    adverb: rimelig → Det er rimelig bra
+    ↔
+    dyr = expensive (en dyr bil)
+    adverb: dyrt → Det er dyrt å bo her
+
+- question: "nysgjerrig ↔ likegyldig"
+  answer: |
+    nysgjerrig = curious (barn er nysgjerrige)
+    adverb: ❗no natural adverb usage (use "nysgjerrig på")
+    ↔
+    likegyldig = indifferent (han er likegyldig)
+    adverb: likegyldig → Han reagerte likegyldig
+
+- question: "sjalu ↔ trygg"
+  answer: |
+    sjalu = jealous (han er sjalu)
+    sjalusi (noun) → jealousy
+    adverb: ❗no real adverb usage
+    ↔
+    trygg = secure/confident (hun er trygg)
+    adverb: trygt → Hun snakker trygt
+
+- question: "egen ↔ felles"
+  answer: |
+    egen/eget/egne=own (mitt eget liv)
+    hun har sin egen bil
+    vi har våre egne meninger (no adverb)
+    ↔
+    felles = shared/common (et felles prosjekt)
+    vi har felles mål (no adverb)
+
+- question: "nok"
+  answer: |
+    enough
+    MFA er ikke alltid nok for informasjonssikkerhet.
+
+- question: "fort"
+  answer: |
+    fast/quickly (adverb..Ikke brukt som adjective)
+    Han løp fort til butikken. → He ran quickly to the store.  
+    Tiden går fort. → Time goes by fast. 
+    "Han er fort" ❌ = Han er rask ✅
+
+- question: "rask"
+  answer: |
+    fast/quick/rapid (rask-raskere-raskest)
+    Dette er den raskeste bilen. → This is the fastest car.  
+    Jeg må lære raskt (raskt used as adverb here)
+
+- question: "sakte"
+  answer: |
+    slowly / gently (adverb - ikke brukt som adjektiv)
+
+    Kjør saktere → Drive more slowly
+    Barn leker sakte → Children play slowly
+    Gå sakte! → Walk slowly!
+
+- question: "heldigvis"
+  answer: |
+    fortunately
+
+- question: "dessverre"
+  answer: |
+    unfortunately
+
