@@ -7,6 +7,8 @@
   answer: "Jeg kan mer nosk enn jeg tror"
 - question: "This is just human"
   answer: "Det er bare menneskelig"
+- question: "Which apphabet it starts with ?"
+  answer: "Hva begynner det med? Hvilken bokstav begynner det med?"
 - question: "To be able to calculate"
   answer: |
     å kunne regne (regner-regnet-har regnet)
@@ -196,8 +198,8 @@
   answer: "Prisen er 2000 kroner per kvadratmeter"
 - question: "In my entire life"
   answer: "I hele mitt liv"
-- question: "There's a limit to what I can tolerate"
-  answer: "Det går en grense for hva jeg tåler"
+- question: "There's a limit to what one can tolerate"
+  answer: "Det går en grense for hva man tåler"
 - question: "And everything we have believed about democracy"
   answer: "Og alt vi har trodd om det demokratiet"
 - question: "around the world"
