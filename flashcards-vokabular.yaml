@@ -783,6 +783,13 @@
     Det kommer an på været
     Det kommer til å regne i morgen
 
+- question: "å legge seg/å legge til noe"
+  answer: |
+    to go to bed / to add (something)
+    Jeg legger meg klokka ti. 
+    Kan du legge til navnet mitt?
+    Hun la til en kommentar.
+
 - question: "passer for/passer på"
   answer: |
     suitable for/takeing care of
