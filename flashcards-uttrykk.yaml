@@ -8,7 +8,10 @@
 - question: "This is just human"
   answer: "Det er bare menneskelig"
 - question: "To be able to calculate"
-  answer: "å kunne regne"
+  answer: |
+    å kunne regne (regner-regnet-har regnet)
+    ⚠️ regning = calculation / bill (depending on context)
+    Jeg betalte regningen → I paid the bill
 - question: "We wish our customers a very happy new year"
   answer: "Vi ønsker våre kunder et riktig godt nytt år"
 - question: "I am not able to come up with something"
