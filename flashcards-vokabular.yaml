@@ -42,6 +42,13 @@
 
 # Action verbs
 #
+- question: "å støtte noen/noe"
+  answer: |
+    to support (støtter-støttet-har støttet)
+    Jeg støtter deg, Vi må støtte hverandre
+    Hun støtter prosjektet
+    Opplæring i norsk for voksne innvandrere skal støtte integrering og deltakelse i samfunnet
+    
 - question: "å beskytte noen/noe"
   answer: |
     Askeladden prøver å beskytte prinsessen (kongeriket)
