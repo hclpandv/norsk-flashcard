@@ -5,6 +5,15 @@
   answer: "Det er bra nok!"
 - question: "I know more norwegain than I think"
   answer: "Jeg kan mer nosk enn jeg tror"
+
+- question: "All filler words for sentence flow"
+  answer: |
+    La meg tenke litt...
+    Nå skal vi se...hmm skal vi se..
+    Det kan være sånn ... og ... eller ..., kansje ....
+    hmm.. jeg tror...
+    Kan du repetere en gang til? Ehm, for jeg forsto ikke helt hva du sa...
+
 - question: "This is just human"
   answer: "Det er bare menneskelig"
 - question: "In the world we are living now"
@@ -13,8 +22,6 @@
   answer: "i moderne tider..i nyere tider ↔ i gamle dager"
 - question: "Women and men has same rights"
   answer: "kvinner og menn har samme rettigheter"
-- question: "My best friend.. the best friend, I have"
-  answer: "min beste venn.. den beste vennen ,jeg her"
 - question: "Which apphabet it starts with ?"
   answer: "Hva begynner det med? Hvilken bokstav begynner det med?"
 - question: "To be able to calculate"
@@ -34,8 +41,6 @@
   answer: "i midten av ingenssted"
 - question: "to keep what you promise"
   answer: "Å holde hva man lover"
-- question: "to appreciate"
-  answer: "å sette pris på"
 - question: "and vice versa"
   answer: "og motsatt"
 - question: "I have no idea (I am clueless)"
@@ -44,6 +49,7 @@
   answer: "For det meste lager jeg mat hjemme"
 - question: "at least"
   answer: "I det minste prøvde jeg"
+
 - question: "As fast as (any adjective)"
   answer: |
     Han er så rask som broren sin
@@ -51,6 +57,7 @@
     Huset er så stort som jeg trodde
     Hun løper så fort som hun kan (kunne)
     Barna leker så stille som de kan
+    
 - question: "Do you want another one?"
   answer: "Vil du ha en til?"
 - question: "both A and B"
@@ -212,10 +219,4 @@
   answer: "Og alt vi har trodd om det demokratiet"
 - question: "around the world"
   answer: "rundt om i verden"
-- question: "All filler words for sentence flow"
-  answer: |
-    La meg tenke litt...
-    Nå skal vi se...hmm skal vi se..
-    Det kan være sånn ... og ... eller ..., kansje ....
-    hmm.. jeg tror...
-    Kan du repetere en gang til? Ehm, for jeg forsto ikke helt hva du sa...
+
