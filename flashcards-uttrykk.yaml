@@ -14,6 +14,13 @@
     hmm.. jeg tror...
     Kan du repetere en gang til? Ehm, for jeg forsto ikke helt hva du sa...
 
+- question: "He will probably come tomorrow"
+  answer: |
+    Han kommer nok i morgen.
+    Han kommer mest sannsynlig i morgen.. 
+    sannsynlig(adj)=likely, sannsynligvis(adv)=likely
+    sannsynlighet = likelihood/probability (noun)
+
 - question: "This is just human"
   answer: "Det er bare menneskelig"
 - question: "If we think logically, it's not correct"
