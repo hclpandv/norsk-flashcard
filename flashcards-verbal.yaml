@@ -30,6 +30,11 @@
     å handle = to shop
     Nordmenn drar ofte til Sverige for å handle billig
 
+- question: "å være lei av noe"
+  answer: |
+    tired of
+    Hun er lei av å jobbe hele tiden → She is tired of working all the time
+
 - question: "å være fornøyd med noe"
   answer: |
     satisfied
@@ -52,11 +57,6 @@
     to save/rescue
     Brannmannen reddet mange mennesker
     redningsmann = saviour
-
-- question: "å være lei av noe"
-  answer: |
-    tired of
-    Hun er lei av å jobbe hele tiden → She is tired of working all the time
 
 - question: "å være trygg"
   answer: |
@@ -308,7 +308,7 @@
   
 - question: "å legge merke til"
   answer: |
-    to notice/observe(legger merke til-la merke til-har lagt merke til)
+    to notice/observe (legger merke til-la merke til-har lagt merke til)
     Jeg legger merke til detaljer
     Jeg la merke til det
     Har du lagt merke til dette?
@@ -391,7 +391,8 @@
 
 - question: "å stenge"
   answer: |
-    to close/shut/block(stenger-stengte-har stengt)   
+    to close/shut/block(stenger-stengte-har stengt)  
+    (Something which closes NOT by you)
     Butikken stenger klokka 18
     stengt = closed
 
