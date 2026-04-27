@@ -23,6 +23,16 @@
     trygt = safe (et trygt sted)
     adverb: trygt → Barna leker trygt
 
+- question: "glad ↔ trist"
+  answer: |
+    glad = happy, Jeg er glad i dag.
+    trist = sad, Hun er trist.
+
+- question: "sint ↔ rolig"
+  answer: |
+    sint = angry, Han er sint.
+    rolig = calm, Hun er rolig.
+    
 - question: "tilfeldig ↔ bevisst"
   answer: |
     tilfeldig=random (et tilfeldig valg)
