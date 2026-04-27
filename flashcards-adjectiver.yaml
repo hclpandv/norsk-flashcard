@@ -73,6 +73,12 @@
     kjedelig = boring(en kjedelig film)
     adverb: kjedelig → Det var kjedelig gjort
 
+- question: "interessant ↔ kjedelig"
+  answer: |
+    en interessant bok
+    den interessante boken
+    de interessante bøkene
+
 - question: "farlig ↔ trygg"
   answer: |
     farlig = dangerous (slanger er farlige)
