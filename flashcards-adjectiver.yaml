@@ -128,6 +128,13 @@
     enough
     MFA er ikke alltid nok for informasjonssikkerhet.
 
+- question: "tom"
+  answer: |
+    empty (adjective)
+    Koppen er tom.
+    Kjøleskapet er tomt.
+    Flaskene er tomme.
+
 - question: "fort"
   answer: |
     fast/quickly (adverb..Ikke brukt som adjective)
