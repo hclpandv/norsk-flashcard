@@ -35,6 +35,28 @@
     tired of
     Hun er lei av å jobbe hele tiden → She is tired of working all the time
 
+- question: "å være ferdig med noe"
+  answer: |
+    to be finished with something
+    Jeg er ferdig med oppgaven.
+    Hun er ferdig med jobben for i dag.
+
+- question: "å være vant til noe"
+  answer: |
+    to be used to / accustomed to something
+    Jeg er vant til kulda.
+    Han er vant til å jobbe mye.
+    
+- question: "å være flink til noe"
+  answer: |
+    to be good at something
+    Hun er flink til å lage mat.
+
+- question: "å være interessert i noe"
+  answer: |
+    to be interested in something
+    Jeg er interessert i teknologi
+
 - question: "å sette pris på noe"
   answer: |
     to appreciate something
