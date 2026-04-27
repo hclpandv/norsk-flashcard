@@ -45,7 +45,16 @@
     freedom of speech / freedom of expression
     Ytringsfrihet er en viktig verdi i et demokrati
     Alle har rett til ytringsfrihet
-    å ytre seg = to express, en ytring = an expression, 
+    å ytre seg = to express, en ytring = an expression
+
+- question: "likestilling"
+  answer: |
+    equality / gender equality
+    Norge er kjent for likestilling.
+    Likestilling mellom menn og kvinner er viktig.
+    Vi jobber for mer likestilling i samfunnet.
+    like = equal
+    stilling = position/status
 
 - question: "En ulykke"
   answer: |
@@ -230,25 +239,6 @@
     Occasions (anledningen-anledninger-anledningene)
     ved spesielle anledninger → on special occasions
     bryllup og andre anledninger
-
-- question: "kommer an på/kommer til å"
-  answer: |
-    depends on/going to 
-    Det kommer an på været
-    Det kommer til å regne i morgen
-
-- question: "å legge seg/å legge til noe"
-  answer: |
-    to go to bed / to add (something)
-    Jeg legger meg klokka ti. 
-    Kan du legge til navnet mitt?
-    Hun la til en kommentar.
-
-- question: "passer for/passer på"
-  answer: |
-    suitable for/takeing care of
-    Jeg passer på barna
-    Filmen passer for barn.
 
 - question: "mangfold"
   answer: |
