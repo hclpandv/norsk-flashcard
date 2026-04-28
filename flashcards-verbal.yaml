@@ -137,6 +137,20 @@
     delayed
     Toget er forsinket
 
+- question: "å ta verbal familie"
+  answer: |
+    å ta på seg noe → to put on (Jeg tar på meg jakken)
+    å ta av noe → to take off/remove (Han tar av jakken)
+    å ta med noe → to bring / take with you(Kan du ta med boken?)
+    å ta opp noe → to bring up (Vi må ta opp dette problemet)
+ 
+- question: "verb som slutter på -tatt"
+  answer: |
+    å ta → tatt (Pakken er tatt) → opptatt
+    å motta →	mottatt (Jeg har mottatt pakken)
+    å avta → avtatt (Smerten har avtatt, pain has decreased)
+    å innta →	inntatt (Tyske styrker inntok Oslo i 1940) 
+
 # Action verbs
 #
 - question: "å støtte noen/noe"
