@@ -489,4 +489,10 @@
     to offer (tilbyr-tilbød-har tilbudt)
     Staten må tilby/gi utdanning til alle.
 
+- question: "å undervise"
+  answer: |
+    to teach (underviser-underviste-har undervist)
 
+- question: "å undersøke"
+  answer: |
+    to investigate/examine/check (undersøker-undersøkte-har undersøkt)
