@@ -246,6 +246,10 @@
     Feilene dine er læringsmuligheter.
 
 - question: "The person is charged with murder"
-  answer: "Personen er siktet for drap."
+  answer: 
+    Personen er siktet for drap.
+    tiltalt for = formally indicted
+    dømt for = convicted
+
 
 
