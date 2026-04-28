@@ -247,6 +247,9 @@
     Ikke vær redd for å gjøre feil!
     Feilene dine er læringsmuligheter.
 
+- question: "But this is not true"
+  answer: "men det er ikke sant"
+
 - question: "The person is charged with murder"
   answer: 
     Personen er siktet for drap.
