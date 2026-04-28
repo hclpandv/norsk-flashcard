@@ -27,6 +27,14 @@
   answer: |
     at least / in any case / anyway
     Jeg kommer i hvert fall → I will come anyway / at least I will come.
+
+- question: "i forhold til"
+  answer: |
+    compared to/in relation to/with regard to
+    I forhold til i fjor er det bedre.
+    I forhold til pris er dette billigere. (In terms of price, this is cheaper)
+    I forhold til dette problemet må vi finne en løsning. (With regard to this problem, we must find a solution)
+
 - question: "This is just human"
   answer: "Det er bare menneskelig"
 - question: "If we think logically, it's not correct"
