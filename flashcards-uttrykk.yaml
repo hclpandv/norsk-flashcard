@@ -23,16 +23,18 @@
     sannsynlig(adj)=likely, sannsynligvis(adv)=likely
     sannsynlighet = likelihood/probability (noun)
 
+- question: "i hvert fall"
+  answer: |
+    at least / in any case / anyway
+    Jeg kommer i hvert fall → I will come anyway / at least I will come.
 - question: "This is just human"
   answer: "Det er bare menneskelig"
 - question: "If we think logically, it's not correct"
   answer: "Hvis vi tenker logisk, er det ikke riktig"
 - question: "Norway is generally calm, but 17 May is incredibly exciting"
   answer: "Norge er generelt rolig, men 17. mai er utrolig spennende"
-
 - question: "some time we must do something which we usualy dont.."
   answer: "Av og til må vi gjøre noe som vi vanligvis ikke.."
-
 - question: "In the world we are living now"
   answer: "I den verden vi lever i nå så er det jo veldig internasjonalt.."
 - question: "in modern times"
