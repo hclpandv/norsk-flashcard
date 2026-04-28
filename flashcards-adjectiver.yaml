@@ -15,6 +15,11 @@
     nøyaktig=exact/precise (et nøyaktig tall)
     adverb: nøyaktig → Han kom nøyaktig klokka 10
 
+- question: "sent ↔ tidlig"
+  answer: |
+    sent = late, Vi kom sent til møtet
+    tidlig = early, Vi sto opp tidlig i dag.
+
 - question: "skummelt ↔ trygt"
   answer: |
     skummelt = scary (et skummelt sted)
