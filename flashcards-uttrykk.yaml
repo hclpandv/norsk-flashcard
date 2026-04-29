@@ -274,3 +274,13 @@
     Uansett hva som skjer, er jeg her.,
     Du (det) betyr mye for meg.,
     Jeg bryr meg om deg.
+
+- question: "It does not matter"
+  answer: 
+    Det spiller ingen rolle.
+
+- question: "Honestly"
+  answer: 
+    Ærlig talt, jeg er sliten.
+    talt = past participle of å tale (to speak)
+    NOTE - å tale is NOT commonly used in everyday speech. talt survived :)
