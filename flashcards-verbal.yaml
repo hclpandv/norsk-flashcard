@@ -64,6 +64,14 @@
     to be interested in something
     Jeg er interessert i teknologi
 
+- question: "å tvile på noe"
+  answer: |
+    to doubt on something (tviler-tvilte-har tvilt)
+    Jeg tviler på historien hans
+    Hun tviler på at det vil fungere 
+    Det er ingen grunn til å tvile
+    Jeg begynner å tvile
+
 - question: "å være eksponert for noe"
   answer: |
     to be exposed to something
@@ -365,14 +373,6 @@
     gjenta → repeat (do again)
     gjenopprette → restore 
     gjenbruke	→ reuse
-
-- question: "å tvile"
-  answer: |
-    to doubt (tviler-tvilte-har tvilt)
-    Jeg tviler på historien hans
-    Hun tviler på at det vil fungere 
-    Det er ingen grunn til å tvile
-    Jeg begynner å tvile
 
 - question: "å bidra"
   answer: |
