@@ -54,12 +54,19 @@
   answer: |
     å mene → en mening, å forklare → en forklaring, å forbedre → en forbedring, å bygge → en bygning, å søke → en søknad (application), å endre → en endring, å løse → en løsning, å avslutte→ en avslutning(ending), å starte → en start, å arbeide → et arbeid (work), å svare → et svar, å velge → et valg (choice), å møte → et møte (meeting)
 
+- question: "adjective vs adverb"
+  answer: |
+    1) Adj= describes a noun (what something IS)
+    2) Adv = describes a verb (how something is done)
+    Det er en fin dag fordi alt går fint.
+    Han er en god lærer fordi han forklarer godt.
+    Resultatet av kampen var dårlig fordi hun spilte dårlig. (same words for both)
+    Hun er rask fordi hun løper fort. (different words)
+
 - question: "adjective → adverb patterns"
   answer: |
-    Jeg er klar for sommerfesten. Han snakker klart (defines action)
-    Hun er rask fordi hun løper fort. (different words for Adj and Adv)
-    klar → klart, fin → fint, god → godt, dårlig → dårlig (Resultatet av kampen var dårlig fordi hun spilte dårlig.)
-    vanligvis → vanligvis, heldig → heldigvis, nødvendigvis, delvis (Jeg er delvis enig.)
+    klar → klart, fin → fint, god → godt, dårlig → dårlig
+    vanlig → vanligvis, heldig → heldigvis, nødvendigvis, delvis (Jeg er delvis enig.)
 
 - question: "kunne, ville, skulle"
   answer: |
