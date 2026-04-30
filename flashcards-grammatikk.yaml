@@ -54,6 +54,13 @@
   answer: |
     å mene → en mening, å forklare → en forklaring, å forbedre → en forbedring, å bygge → en bygning, å søke → en søknad (application), å endre → en endring, å løse → en løsning, å avslutte→ en avslutning(ending), å starte → en start, å arbeide → et arbeid (work), å svare → et svar, å velge → et valg (choice), å møte → et møte (meeting)
 
+- question: "adjective → adverb patterns"
+  answer: |
+    Jeg er klar for sommerfesten. Han snakker klart (defines action)
+    Hun er rask fordi hun løper fort. (different words for Adj and Adv)
+    klar → klart, fin → fint, god → godt, dårlig → dårlig (Resultatet av kampen var dårlig fordi hun spilte dårlig.)
+    vanligvis → vanligvis, heldig → heldigvis, nødvendigvis, delvis (Jeg er delvis enig.)
+
 - question: "kunne, ville, skulle"
   answer: |
     å kunne gjøre noe = Jeg kunne svømme
