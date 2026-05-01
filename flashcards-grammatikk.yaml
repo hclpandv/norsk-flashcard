@@ -59,10 +59,6 @@
     Jeg vil egentlig ikke gå. Hva gjør du egentlig?
     mange spesielle retter (adjective form)
 
-- question: "verb → noun patterns"
-  answer: |
-    å mene → en mening, å forklare → en forklaring, å forbedre → en forbedring, å bygge → en bygning, å søke → en søknad (application), å endre → en endring, å løse → en løsning, å avslutte→ en avslutning(ending), å starte → en start, å arbeide → et arbeid (work), å svare → et svar, å velge → et valg (choice), å møte → et møte (meeting)
-
 - question: "adjective vs adverb"
   answer: |
     Adj=describes noun/Adv=describes verb
@@ -75,6 +71,20 @@
   answer: |
     klar → klart, fin → fint, god → godt, dårlig → dårlig
     vanlig → vanligvis, heldig → heldigvis, nødvendigvis, delvis (Jeg er delvis enig.)
+
+- question: "verb → noun patterns"
+  answer: |
+    å mene → en mening, å forklare → en forklaring, å forbedre → en forbedring, å bygge → en bygning, å søke → en søknad (application), å endre → en endring, å løse → en løsning, å avslutte→ en avslutning(ending), å starte → en start, å arbeide → et arbeid (work), å svare → et svar, å velge → et valg (choice), å møte → et møte (meeting)
+
+- question: "for- verbs patterns"
+  answer: |
+    å gjøre noe mer X (forenkle, forbedre)
+    forenkle→simplify (gjøre enklere), forbedre→improve (gjøre bedre), forklare→explain (gjøre klart), forlenge→extend (gjøre lengre)
+    forberede→prepare, forkorte→shorten, forsterke→strengthen,forsikre→assure, forhandle→negotiate
+    fordele→distribute, forbruke→consume
+    forenkle seg → become simpler
+    forbedre seg → improve (oneself)
+    forandre seg → change (oneself)
 
 - question: "kunne, ville, skulle"
   answer: |
