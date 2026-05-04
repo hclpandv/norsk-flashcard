@@ -27,6 +27,15 @@ footer a:hover { color: #000; }
 <!-- Set Selector -->
 <select id="category" class="form-select mb-3" style="width: 350px;"></select>
 
+<!-- Search box -->
+<input 
+  type="text" 
+  id="searchInput" 
+  class="form-control mb-3" 
+  style="width: 350px;" 
+  placeholder="Search in current set..."
+>
+
 <!-- Progress -->
 <div class="progress-container">
   <div class="progress">
@@ -56,10 +65,8 @@ footer a:hover { color: #000; }
   <button class="btn btn-info" id="speakBtn"><i class="bi bi-volume-up-fill"></i> Speak</button>
 </div>
 
-<!-- info on speech voice -->
 <p id="voiceInfo" class="text-muted small mt-2"></p>
 
-<!-- Footer with credit -->
 <footer class="text-center">
   Content courtesy of <a href="https://grammatikk.com/" target="_blank">grammatikk.com</a>.<br>
   This app and its flashcards are free to use for any purpose.<br>
@@ -68,7 +75,6 @@ footer a:hover { color: #000; }
   </a>
 </footer>
 
-<!-- JS libraries -->
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
 <script>
 const baseURL = 'https://raw.githubusercontent.com/hclpandv/norsk-flashcard/main/';
@@ -84,11 +90,13 @@ const unknownBtn = document.getElementById('unknownBtn');
 const speakBtn = document.getElementById('speakBtn');
 const progressBar = document.getElementById('progressBar');
 const voiceInfo = document.getElementById('voiceInfo');
+const searchInput = document.getElementById('searchInput');
 
 // loading voices 
 speechSynthesis.onvoiceschanged = () => { speechSynthesis.getVoices(); };
 
 let flashcards = [];
+let allFlashcards = [];
 let currentIndex = 0;
 let showingAnswer = false;
 let progress = {};
@@ -99,7 +107,7 @@ async function populateDropdown() {
   const files = await response.json();
 
   const yamlFiles = files.filter(f => f.name.endsWith('.yaml'));
-  selector.innerHTML = ''; // clear
+  selector.innerHTML = '';
 
   yamlFiles.forEach(file => {
     const option = document.createElement('option');
@@ -117,13 +125,16 @@ async function populateDropdown() {
 
 populateDropdown();
 
-// Load flashcards from GitHub
+// Load flashcards
 async function loadFlashcards(fileName) {
   try {
     const url = `${baseURL}${fileName}?${new Date().getTime()}`;
     const response = await fetch(url);
     const yamlText = await response.text();
-    flashcards = jsyaml.load(yamlText);
+
+    allFlashcards = jsyaml.load(yamlText);
+    flashcards = [...allFlashcards];
+
     currentIndex = 0;
     loadProgress(fileName);
     showCard();
@@ -133,6 +144,19 @@ async function loadFlashcards(fileName) {
     cardBack.textContent = "";
   }
 }
+
+// Search filter
+searchInput.addEventListener('input', () => {
+  const query = searchInput.value.toLowerCase();
+
+  flashcards = allFlashcards.filter(card =>
+    card.question.toLowerCase().includes(query) ||
+    card.answer.toLowerCase().includes(query)
+  );
+
+  currentIndex = 0;
+  showCard();
+});
 
 // Load progress
 function loadProgress(fileName) {
@@ -146,9 +170,14 @@ function saveProgress(fileName) {
   localStorage.setItem('progress-' + fileName, JSON.stringify(progress));
 }
 
-// Show current card
+// Show card
 function showCard() {
-  if (!flashcards.length) return;
+  if (!flashcards.length) {
+    cardFront.textContent = "No results found";
+    cardBack.textContent = "";
+    return;
+  }
+
   showingAnswer = false;
   card.classList.remove('flipped');
   const cardData = flashcards[currentIndex];
@@ -157,7 +186,7 @@ function showCard() {
   updateProgressBar();
 }
 
-// Update progress bar
+// Progress
 function updateProgressBar() {
   if (!flashcards.length) return;
   const knownCount = Object.values(progress).filter(v=>v==='known').length;
@@ -166,7 +195,7 @@ function updateProgressBar() {
   progressBar.textContent = percent + '%';
 }
 
-// Event listeners
+// Controls
 card.addEventListener('click', () => {
   showingAnswer = !showingAnswer;
   card.classList.toggle('flipped');
@@ -201,13 +230,15 @@ unknownBtn.addEventListener('click', () => {
   nextBtn.click();
 });
 
+// Speak
 speakBtn.addEventListener('click', () => {
   if (!flashcards.length) return;
 
-  const utterance = new SpeechSynthesisUtterance(flashcards[currentIndex].answer.replace(/<br>/g,' '));
+  const utterance = new SpeechSynthesisUtterance(
+    flashcards[currentIndex].answer.replace(/<br>/g,' ')
+  );
   utterance.lang = 'nb-NO';
 
-  // Pick a Norwegian voice if available
   const voices = speechSynthesis.getVoices();
   const voice = voices.find(v => v.lang.startsWith('nb')) || null;
   if (voice) utterance.voice = voice;
@@ -226,7 +257,7 @@ selector.addEventListener('change', () => {
   loadFlashcards(selectedFile);
   localStorage.setItem('lastSet', selectedFile);
 });
-
 </script>
+
 </body>
 </html>
