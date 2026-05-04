@@ -7,10 +7,8 @@
   answer: "Det er bra nok!"
 - question: "I know more norwegain than I think"
   answer: "Jeg kan mer nosk enn jeg tror"
-
 - question: "The one I'm appearing for is an intermediate level. Not an advanced level.."
   answer: "Den jeg søker på er et mellomnivå. Ikke et avansert nivå.."
-
 - question: "This is one of the most common and confusing points for all who learn Norwegian."
   answer: |
     Dette er et av de mest vanlige og mest forvirrende punktene for alle som lærer norsk.
@@ -215,8 +213,6 @@
   answer: "Det er altfor dyrt"
 - question: "I woke up early, so I arrived on time for the meeting. Now it's time to start"
   answer: "Jeg sto opp tidlig, så jeg kom i tide til møtet. Nå er det på tide å begynne"
-- question: "Hvor blir det av Ingrid, da?"
-  answer: "What happened to Ingrid"
 - question: "Yes, It happens.."
   answer: "Ja, Det hender.."
 - question: "Det er virkelig imponerende"
@@ -247,8 +243,6 @@
   answer: "Ut på tur, aldri sur"
 - question: "it appears/it turns out"
   answer: "Det viser seg at Norway East bare har en type GPU vi kan bruke, NVv3, og den utgår allerede i september"
-- question: "Take care"
-  answer: "Ta vare/Ta vare på deg selv"
 - question: "The ruter app makes it easier to travel"
   answer: "Ruter-appen gjør det enklere å reise"
 - question: "As long as I live, you also live in my heart"
