@@ -162,6 +162,12 @@
     Brannmannen reddet mange mennesker
     redningsmann = saviour
 
+- question: "å slette noe"
+  answer: |
+    to delete something (sletter-slettet-har slettet)
+    Jeg slettet meldingen.
+    Kan du slette denne filen?
+
 - question: "å være trygg"
   answer: |
     be safe
