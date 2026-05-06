@@ -9,13 +9,16 @@
   answer: "Jeg kan mer nosk enn jeg tror"
 - question: "Your mistakes are proof that you are learning!"
   answer: "Feilene dine er bevis på at du lærer!"
-
+- question: "Many services has become digital today"
+  answer: 
+    Mange tjenester har blitt digitale i dag.
+    I dag er mange tjenester digitale.
 - question: "The one I'm appearing for is an intermediate level. Not an advanced level.."
   answer: "Den jeg søker på er et mellomnivå. Ikke et avansert nivå.."
 - question: "This is one of the most common and confusing points for all who learn Norwegian."
   answer: |
     Dette er et av de mest vanlige og mest forvirrende punktene for alle som lærer norsk.
-
+    
 - question: "You can come anytime, anywhere, and tell me anything you want."
   answer: |
     Du kan komme når som helst, hvor som helst, og fortelle meg hva som helst du vil.
