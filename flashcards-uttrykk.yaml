@@ -214,7 +214,11 @@
 - question: "Kan ikke du rope på pappa?"
   answer: "Cant you call dad ? (physical call not ringe)"
 - question: "By the way, how is Christian doing?"
-  answer: "Hvordan går det forresten med Christian?"
+  answer: | 
+    Hvordan går det forresten med Christian?
+    Forresten, hva skjer?
+    Forresten, har du sett det nye stedet?
+
 - question: "I dont really know"
   answer: "Jeg vet ikke helt"
 - question: "The thing is that.. I have been through a lot of things last year"
