@@ -168,6 +168,13 @@
     Jeg slettet meldingen.
     Kan du slette denne filen?
 
+- question: "å korrigere noe"
+  answer: |
+    to correct the mistake → å rette feil (korrigerer-Korrigert-har Korrigert)
+    læreren korrigerer teksten din
+    Jeg korrigerte svaret mitt
+    korreksjon (substantiv) = en retting, korrekt (adjektiv) = riktig
+
 - question: "å være trygg"
   answer: |
     be safe
