@@ -29,6 +29,9 @@
 - question: "I am available and can join."
   answer: "Jeg er tilgjengelig og kan bli med."
 
+- question: "Are you serious?"
+  answer: "Er du seriøs?"
+
 - question: "Først og fremst"
   answer: |
     Først og fremst må vi forstå problemet.
