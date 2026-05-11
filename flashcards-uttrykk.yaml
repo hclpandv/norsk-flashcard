@@ -32,6 +32,9 @@
 - question: "Are you serious?"
   answer: "Er du seriøs?"
 
+- question: "Just take your own time"
+  answer: "Bare ta den tida du trenger."
+
 - question: "Først og fremst"
   answer: |
     Først og fremst må vi forstå problemet.
