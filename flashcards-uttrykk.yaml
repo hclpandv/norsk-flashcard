@@ -35,6 +35,9 @@
 - question: "Just take your own time"
   answer: "Bare ta den tida du trenger."
 
+- question: "Yes, I understand"
+  answer: "Ja, det skjønner jeg."
+
 - question: "Først og fremst"
   answer: |
     Først og fremst må vi forstå problemet.
