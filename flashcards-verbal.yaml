@@ -203,6 +203,13 @@
 
 # Action verbs
 #
+- question: "å lære av noe"
+  answer: |
+    to learn from something
+    Barna lærer mye av å delta i husarbeidet.
+    Jeg lærer av erfaring.
+    Vi lærer av feilene våre.
+
 - question: "å forenkle noe"
   answer: |
     to simplify something (å gjøre noe enklere)
