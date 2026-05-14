@@ -68,6 +68,11 @@
     Hvordan reagerte du på nyheten?
     reaksjon = reaction
 
+- question: "å angre på noe"
+  answer: |
+    to regret something (angrer-angret-har angret)
+    Jeg angrer på at jeg ikke begynte tidligere.
+
 - question: "å være ferdig med noe"
   answer: |
     to be finished with something
