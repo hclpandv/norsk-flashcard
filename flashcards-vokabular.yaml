@@ -10,7 +10,17 @@
     an income → penger man tjener (lønn eller annen betaling)
     Jeg har fast inntekt fra jobben min. (fast=regular/permanent)
     Mange familier har lav inntekt.  
-    Inntekten min kommer fra lønn hver måned.  
+    Inntekten min kommer fra lønn hver måned.
+
+- question: "en avtale"
+  answer: |
+    agreement/deal/agreement 
+    Jeg har en avtale med legen.  
+    Vi gjorde en avtale.  
+    Det er viktig å holde avtaler.  
+    gjøre en avtale = make an agreement  
+    inngå en avtale = enter into an agreement  
+    bryte en avtale = break an agreement  
 
 - question: "ei måke"
   answer: |
