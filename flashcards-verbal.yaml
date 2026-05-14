@@ -189,6 +189,14 @@
     Brannmannen reddet mange mennesker
     redningsmann = saviour
 
+- question: "å skade noe ellet noen / å skade seg"
+  answer: |
+    to hurt/damage/injure (skader-skadet-har skadet)
+    Han skadet kneet sitt.  
+    Hun skadet seg i ulykken.  
+    Stormen skadet huset.  
+    Jeg trodde at han skulle skade deg (fra ragnarok) 
+
 - question: "å slette noe"
   answer: |
     to delete something (sletter-slettet-har slettet)
