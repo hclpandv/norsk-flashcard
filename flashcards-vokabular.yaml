@@ -148,6 +148,16 @@
     Sannheten er viktig
     Jeg vil vite sannheten
 
+- question: "skyld / unnskyld(sorry)"
+  answer: |
+    fault/blame/responsibility for something bad
+    Hvem sin skyld er det?  
+    skyldig = guilty  
+    å skylde på noen = to blame someone  
+    Han skylder på læreren.  
+    Jeg føler meg skyldig.  
+    Jeg mener at det er viktig å ta ansvar i stedet for å skylde på andre.
+
 - question: "verdensrommet"
   answer: |
     the universe/outer space 🚀
