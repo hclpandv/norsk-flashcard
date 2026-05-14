@@ -31,24 +31,10 @@
     inngå en avtale = enter into an agreement  
     bryte en avtale = break an agreement  
 
-- question: "ei måke"
-  answer: |
-    seagull (ei måke-måker-måkene)
-    Den måka dreit på huet ditt → That seagull pooped on your head
-
 - question: "en beskjed"
   answer: |
     a message
     Gi meg beskjed om det passer → let me know if it suits you.
-
-- question: "en råvare"
-  answer: |
-    raw material
-
-- question: "en drit"
-  answer: |
-    poop/crap (en drit-driter-dritene)
-    å drite → Han driter=He poops.
 
 - question: "et fellesskap"
   answer: |
@@ -302,6 +288,20 @@
 - question: "regjering"
   answer: |
     Government
+
+- question: "ei måke"
+  answer: |
+    seagull (ei måke-måker-måkene)
+    Den måka dreit på huet ditt → That seagull pooped on your head
+
+- question: "en råvare"
+  answer: |
+    raw material
+
+- question: "en drit"
+  answer: |
+    poop/crap (en drit-driter-dritene)
+    å drite → Han driter=He poops.
 
 - question: "enda"
   answer: |
