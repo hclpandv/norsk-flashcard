@@ -228,6 +228,16 @@
     å avta → avtatt (Smerten har avtatt, pain has decreased)
     å innta →	inntatt (Tyske styrker inntok Oslo i 1940) 
 
+- question: "å trykke/å trekke/å skyve noe"
+  answer: |
+    trykke=to press/click(trykker/trykket/har trykket)
+    Trykk på knappen. Jeg trykket feil.  
+    å trekke=to pull/withdraw/draw (trekker-trakk-har trukket)
+    Jeg trakk stolen nærmere. Jeg har trukket penger fra banken.
+    å skyve = to push (skyver-skjøv-har skjøvet)
+    Skyv døren igjen.  
+    Jeg har skjøvet stolen frem.
+
 # Action verbs
 #
 - question: "å lære av noe"
