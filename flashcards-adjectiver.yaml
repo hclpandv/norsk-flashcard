@@ -2,6 +2,15 @@
 # Adjective = WHAT something is
 # Adverb = HOW something happens
 #
+- question: "sterk ↔ svak"
+  answer: |
+    strong ↔ weak (adv: sterkt, svakt)
+    et svakt signal  
+    Jeg føler meg svak.  
+    svak økonomi ↔ sterk økonomi
+    svakt argument ↔ sterkt argument
+    svakhet = weakness
+
 - question: "forferdelig ↔ fantastisk"
   answer: |
     forferdelig=terrible (en forferdelig opplevelse)
