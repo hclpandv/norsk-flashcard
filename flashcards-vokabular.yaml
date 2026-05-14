@@ -79,6 +79,11 @@
     like = equal
     stilling = position/status
 
+- question: "et tiltak"
+  answer: |
+    a measure → noe man gjør for å løse et problem eller forbedre noe
+    Flere busser kan være et godt tiltak mot trafikk
+
 - question: "en ulykke"
   answer: |
     an accident
@@ -92,11 +97,6 @@
     a prerequisite / assumption
     En viktig forutsetning → An important prerequisite
     En grunnleggende forutsetning → A basic assumption
-
-- question: "et tiltak"
-  answer: |
-    a measure → noe man gjør for å løse et problem eller forbedre noe
-    Flere busser kan være et godt tiltak mot trafikk
 
 - question: "en utfordring"
   answer: |
@@ -178,6 +178,9 @@
     klode = often used for Earth in a global/world context
     planet = planet (in norsk)
 
+
+
+### Others
 - question: "hensyn"
   answer: |
     consideration(s) (plural also)
@@ -185,7 +188,6 @@
     Hensynet til sikkerheten → Consideration for safety
     Uten hensyn til loven → Without regard for the law
 
-### Others
 - question: "Knask eller knep"
   answer: |
     trick or treat
