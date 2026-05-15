@@ -242,6 +242,14 @@
     å avta → avtatt (Smerten har avtatt, pain has decreased)
     å innta →	inntatt (Tyske styrker inntok Oslo i 1940) 
 
+- question: "verb som slutter på -gå"
+  answer: |
+    å unngå noe = to avoid → Vi må unngå konflikter.
+    å inngå noe = to enter → inngå en avtale
+    å pågå = to continue → Krigen pågår fortsatt (pågående)
+    å gjennomgå = to review → Vi må gjennomgå dokumentene.
+    å begå = to commit → begå en feil, begå kriminalitet
+    
 - question: "å trykke/å trekke/å skyve noe"
   answer: |
     trykke=to press/click(trykker/trykket/har trykket)
