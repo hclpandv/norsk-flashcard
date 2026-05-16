@@ -211,6 +211,24 @@
     Jeg slettet meldingen.
     Kan du slette denne filen?
 
+- question: "å forby noe"
+  answer: |
+    to forbid/ban something (forbyr-forbød-har forbudt)
+    Skolen forbød mobiltelefoner i timen.  
+    Regjeringen vil forby sexleketøy.  
+    Det er forbudt å røyke her.  
+    Mange land har forbudt dette stoffet.  
+
+- question: "å tilby noe"
+  answer: |
+    to offer/provide something (tilbyr-tilbød-har tilbudt )
+    Selskapet tilbyr gratis frakt.  
+    Hun tilbød meg hjelp.  
+    Restauranten tilbyr vegetarisk mat.  
+    Skolen tilbyr norskundervisning.  
+    De tilbyr gode priser på produktene.  
+    (et tilbud = an offer/discount)
+
 - question: "å korrigere noe"
   answer: |
     to correct the mistake → å rette feil (korrigerer-Korrigert-har Korrigert)
