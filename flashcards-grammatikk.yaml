@@ -165,3 +165,11 @@
     Han er borte. (he is gone)
     Er du helt borte eller? 
 
+- question: "Passive setninger"
+  answer: |
+    (gjør noe + s) form and (bli + gjort noe) form
+    Det snakkes mye om dette → Det blir snakket mye om dette
+    Norsk snakkes i Norge → Norsk blir snakket i Norge
+    Døren åpnes automatisk → Døren blir åpnet automatisk
+    Mobilbruk forbys i klasserommet → Mobilbruk blir forbudt i klasserommet
+    Huset selges i fjor → Huset ble solgt i fjor
