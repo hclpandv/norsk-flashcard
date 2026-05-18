@@ -95,6 +95,14 @@ const searchInput = document.getElementById('searchInput');
 // loading voices 
 speechSynthesis.onvoiceschanged = () => { speechSynthesis.getVoices(); };
 
+// Save current index
+function saveCurrentIndex() {
+  localStorage.setItem(
+    'currentIndex-' + selector.value,
+    currentIndex
+  );
+}
+
 let flashcards = [];
 let allFlashcards = [];
 let currentIndex = 0;
@@ -135,7 +143,14 @@ async function loadFlashcards(fileName) {
     allFlashcards = jsyaml.load(yamlText);
     flashcards = [...allFlashcards];
 
-    currentIndex = 0;
+    // Restore saved index
+    const savedIndex = localStorage.getItem('currentIndex-' + fileName);
+    currentIndex = savedIndex ? parseInt(savedIndex) : 0;
+
+    // Safety check
+    if (currentIndex >= flashcards.length) {
+      currentIndex = 0;
+    }
     loadProgress(fileName);
     showCard();
   } catch (err) {
@@ -177,6 +192,8 @@ function showCard() {
     cardBack.textContent = "";
     return;
   }
+
+  saveCurrentIndex();
 
   showingAnswer = false;
   card.classList.remove('flipped');
