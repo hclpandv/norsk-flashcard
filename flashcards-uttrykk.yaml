@@ -29,6 +29,11 @@
 - question: "I am available and can join."
   answer: "Jeg er tilgjengelig og kan bli med."
 
+
+- question: "The server is publicly available"
+  answer: |
+    Serveren er offentlig tilgjengelig.
+
 - question: "When such situations arises I will be the first one to raise my voice."
   answer: "Når slike situasjoner oppstår, vil jeg være den første til å si ifra."
 
