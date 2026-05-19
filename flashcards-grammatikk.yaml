@@ -36,6 +36,7 @@
   answer: |
     Jeg *spiller ikke* cricket [fordi jeg *ikke er* fra India.]
     Jeg føler meg ikke så ensom, [selv om jeg ikke har mange venner]
+    - V2 inversion bare på Helsetning, aldri i Laddsetning.
 
 - question: "nær - i nærheten av"
   answer: |
@@ -172,3 +173,14 @@
     Norsk snakkes i Norge → Norsk blir snakket i Norge
     Døren åpnes automatisk → Døren blir åpnet automatisk
     Mobilbruk forbys i klasserommet → Mobilbruk blir forbudt i klasserommet
+
+- question: "skulle være noe"
+  answer: |
+    skulle være → was supposed to be, but not necessarily happened
+    Det skulle være fest på lørdag, men festen er avlyst. 
+    Møtet skulle være på rom 302, men vi tar det på rom 201. 
+    På fredag skulle det være seminar, tror jeg. 
+    Det skulle være en demonstrasjon i sentrum, men det kom for få folk. 
+    Bilen skulle være fulladet, men batteriet viser 50%. 
+ 
+
