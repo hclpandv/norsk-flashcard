@@ -11,6 +11,15 @@
     svakt argument ↔ sterkt argument
     svakhet = weakness
 
+- question: "nyttig ↔ unyttig"
+  answer: |
+    nyttig = useful
+    Trening er nyttig for helsa.
+    Denne appen er nyttig for studenter.
+    Det er nyttig å lære norsk.
+    Teknologi kan være nyttig i hverdagen.
+    Dette rådet er nyttig.
+
 - question: "forferdelig ↔ fantastisk"
   answer: |
     forferdelig=terrible (en forferdelig opplevelse)
