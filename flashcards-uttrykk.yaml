@@ -9,6 +9,10 @@
   answer: "Jeg kan mer nosk enn jeg tror"
 - question: "Your mistakes are proof that you are learning!"
   answer: "Feilene dine er bevis på at du lærer!"
+
+- question: "India is the most populous country with over 1.4 billion people."
+  answer: "India er det mest folkerike landet med over 1,4 milliarder mennesker."
+
 - question: "Many services has become digital today"
   answer: 
     Mange tjenester har blitt digitale i dag.
@@ -33,6 +37,9 @@
 - question: "The server is publicly available"
   answer: |
     Serveren er offentlig tilgjengelig.
+
+
+    
 
 - question: "When such situations arises I will be the first one to raise my voice."
   answer: "Når slike situasjoner oppstår, vil jeg være den første til å si ifra."
