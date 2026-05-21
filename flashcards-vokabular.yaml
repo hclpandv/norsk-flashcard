@@ -12,6 +12,14 @@
     Mange familier har lav inntekt.  
     Inntekten min kommer fra lønn hver måned.
 
+- question: "et bråk"
+  answer: |
+    bråk = noise / trouble
+    bråkete = noisy
+    å bråke = to make noise
+    Det er mye bråk her. Barna er veldig bråkete i dag.
+    Naboene bråker om natta. Sentrum kan være ganske bråkete.
+
 - question: "en innsats"
   answer: |
     effort/contribution(innsatsen-innsatser-innsatsene)
