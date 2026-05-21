@@ -12,6 +12,14 @@
     Mange familier har lav inntekt.  
     Inntekten min kommer fra lønn hver måned.
 
+- question: "et innhold"
+  answer: |
+    content
+    Jeg liker innholdet på denne nettsiden.
+    Sosiale medier har mye forskjellig innhold.
+    Det er viktig å lage godt innhold.
+    Barna ser mye digitalt innhold på nettet.
+
 - question: "et bråk"
   answer: |
     bråk = noise / trouble
