@@ -7,6 +7,8 @@
   answer: "Det er bra nok!"
 - question: "I know more norwegain than I think"
   answer: "Jeg kan mer nosk enn jeg tror"
+- question: "The one I'm appearing for is an intermediate level. Not an advanced level.."
+  answer: "Den jeg søker på er et mellomnivå. Ikke et avansert nivå.."
 - question: "Your mistakes are proof that you are learning!"
   answer: "Feilene dine er bevis på at du lærer!"
 
@@ -17,8 +19,7 @@
   answer: 
     Mange tjenester har blitt digitale i dag.
     I dag er mange tjenester digitale.
-- question: "The one I'm appearing for is an intermediate level. Not an advanced level.."
-  answer: "Den jeg søker på er et mellomnivå. Ikke et avansert nivå.."
+
 - question: "This is one of the most common and confusing points for all who learn Norwegian."
   answer: |
     Dette er et av de mest vanlige og mest forvirrende punktene for alle som lærer norsk.
@@ -33,13 +34,9 @@
 - question: "I am available and can join."
   answer: "Jeg er tilgjengelig og kan bli med."
 
-
 - question: "The server is publicly available"
   answer: |
-    Serveren er offentlig tilgjengelig.
-
-
-    
+    Serveren er offentlig tilgjengelig.    
 
 - question: "When such situations arises I will be the first one to raise my voice."
   answer: "Når slike situasjoner oppstår, vil jeg være den første til å si ifra."
