@@ -11,6 +11,13 @@
     svakt argument ↔ sterkt argument
     svakhet = weakness
 
+- question: "takknemlig ↔ utakknemlig"
+  answer: |
+    grateful/thankful
+    Vi er takknemlige for støtten.
+    Vi er takknemlige for denne muligheten.
+    Jeg er takknemlig for å ha en jobb.
+
 - question: "nyttig ↔ unyttig"
   answer: |
     nyttig = useful
