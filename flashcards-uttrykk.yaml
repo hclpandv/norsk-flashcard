@@ -24,7 +24,9 @@
   answer: "Diskriminering hører ikke hjemme i samfunnet."
 
 - question: "A lie that is closer to the truth is the most dangerous"
-  answer: "En løgn som er nærmere sannheten er den farligste"
+  answer: |
+    En løgn som er nærmere sannheten er den farligste
+    Løgner som er nær sannheten, er afte de farligste
 
 - question: "This is one of the most common and confusing points for all who learn Norwegian."
   answer: |
