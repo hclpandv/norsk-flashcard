@@ -65,11 +65,14 @@
   answer: |
     community
 
-- question: "ei løgn"
+- question: "en dom"
   answer: |
-    lie (en løgn-løgner-løgnene)
-    Det var en løgn. → That was a lie.
-    Han forteller løgner hele tiden
+    a judgment/verdict
+    en dommer = judge, å dømme = to judge
+    fordom/fordommer = prejudice
+    Han fikk en dom i retten.
+    Mange mener at dommen var streng.
+    Han har fordommer mot andre kulturer.
 
 - question: "en angriper"
   answer: |
