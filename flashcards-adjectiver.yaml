@@ -18,6 +18,14 @@
     Vi er takknemlige for denne muligheten.
     Jeg er takknemlig for å ha en jobb.
 
+- question: "forsiktig ↔ uforsiktig"
+  answer: |
+    forsiktig = careful / cautious
+    Vær forsiktig når du krysser veien.
+    Han kjører veldig forsiktig.
+    Hun var uforsiktig og gjorde en feil.
+    Man må være forsiktig med nye systemer.
+    
 - question: "selvsikker"
   answer: |
     selvsikker = confident / self-confident
