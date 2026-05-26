@@ -18,6 +18,15 @@
     Vi er takknemlige for denne muligheten.
     Jeg er takknemlig for å ha en jobb.
 
+- question: "selvsikker"
+  answer: |
+    selvsikker = confident / self-confident
+    Hun er veldig selvsikker.
+    Jeg prøver å bli mer selvsikker.
+    Det er viktig å være selvsikker når man snakker norsk.
+    Relaterte ord:
+    - selvtillit = self-confidence
+
 - question: "nyttig ↔ unyttig"
   answer: |
     nyttig = useful
