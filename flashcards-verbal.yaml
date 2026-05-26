@@ -236,6 +236,13 @@
     De tilbyr gode priser på produktene.  
     (et tilbud = an offer/discount)
 
+- question: "å skuffe noen / å være skuffet over noe/noen"
+  answer: |
+    to disappoint someone (skuffer-skuffet-har skuffet)
+    Jeg vil ikke skuffe deg.
+    Han skuffet familien sin.
+    Hun er skuffet over læreren sin.
+    
 - question: "å fortjene noe"
   answer: |
     to deserve (fortjener-fortjente-har fortjent)
