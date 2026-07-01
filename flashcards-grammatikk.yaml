@@ -91,6 +91,16 @@
     forbedre seg → improve (oneself)
     forandre seg → change (oneself)
 
+- question: "-stilling noun pattern (from verb 'å stille' = to place/set)"
+  answer: |
+    å bestille→order/book → bestilling (order, booking)
+    å forestille (seg)→imagine → forestilling (performance; idea/notion)
+    å fremstille→present/produce → fremstilling (presentation, account)
+    å innstille→set/adjust → innstilling (setting, attitude, recommendation)
+    å utstille→exhibit → utstilling (exhibition)
+    å likestille→equalize → likestilling (equality)
+    å tilbakestille→reset → tilbakestilling (reset)
+
 - question: "kunne, ville, skulle"
   answer: |
     å kunne gjøre noe = Jeg kunne svømme
