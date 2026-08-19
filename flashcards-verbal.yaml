@@ -97,6 +97,21 @@
     Jeg angrer på at jeg ikke begynte tidligere.
     Hun angrer skikkelig på det som har skedd.
 
+- question: "å avhenge av noe"
+  answer: |
+    to depend on something (avhenger-avhang-har avhengt)
+    Det avhenger av situasjonen.
+    Alt avhenger av været.
+    Resultatet avhenger av hvor godt du forbereder deg.
+    
+- question: "å tolke noe"
+  answer: |
+    to interpret something (tolker-tolket-har tolket)
+    Hvordan tolker du dette?
+    Jeg tolket meldingen som en spøk.
+    Hun tolket stillheten som et nei.
+    En tolk tolker mellom to språk.
+
 - question: "å være ferdig med noe"
   answer: |
     to be finished with something
