@@ -1,5 +1,107 @@
 # Verbs (VÆRE / BLI)
 #
+- question: "å være trygg"
+  answer: |
+    be safe
+    Jeg føler meg trygg her → I feel safe here
+    Barna er trygge på skolen
+    Dette er et trygt sted å bo
+
+- question: "å være ferdig med noe"
+  answer: |
+    to be finished with something
+    Jeg er ferdig med oppgaven.
+    Hun er ferdig med jobben for i dag.
+
+- question: "å være ærlig med noen"
+  answer: |
+    to be honest with someone
+    Jeg er bare ærlig med deg.
+    Du må være ærlig med foreldrene dine. 
+    Kan jeg være helt ærlig med deg? 
+
+- question: "å være flink til noe"
+  answer: |
+    to be good at something
+    Hun er flink til å lage mat.
+
+- question: "å være lei av noe"
+  answer: |
+    tired of
+    Hun er lei av å jobbe hele tiden → She is tired of working all the time
+
+- question: "å være vant til noe"
+  answer: |
+    to be used to / accustomed to something
+    Jeg er vant til kulda.
+    Han er vant til å jobbe mye.
+
+- question: "å være medlem av noe"
+  answer: |
+    to be a member of something
+    Jeg er medlem av en klubb.
+    Han er medlem av et politisk parti.
+    (Mange stemmer på et politisk parti.)
+
+- question: "å være interessert i noe"
+  answer: |
+    to be interested in something
+    Jeg er interessert i teknologi
+
+- question: "å være eksponert for noe"
+  answer: |
+    to be exposed to something
+    Barn er eksponert for mye skjermtid.
+    Arbeidere kan være eksponert for farlige kjemikalier (chemicals)
+
+- question: "å være imponert over noe/noen"
+  answer: |
+    to be impressed by something/someone
+    Jeg er imponert over arbeidet ditt.
+    Hun ble imponert over resultatet.
+    Vi var imponert over hvor raskt han lærte norsk.
+
+- question: "å være fornøyd med noe"
+  answer: |
+    satisfied
+    Jeg er fornøyd med resultatet
+
+- question: "å være bekymret for noen/noe"
+  answer: |
+    worried
+    Jeg er bekymret for deg
+    Jeg er bekymret for fremtiden
+
+- question: "å være redd for [noe/å gjøre noe]"
+  answer: |
+    afraid; redd for=afraid of 
+    Mange innvandrere er redde for norskprøven
+    Han er redd for å fly
+
+- question: "å være i ferd med å gjøre noe"
+  answer: |
+    to be in the process of doing something
+    Jeg er i ferd med å lære norsk.
+    Hun var i ferd med å gå ut da telefonen ringte.
+
+- question: "å være nødt til å gjøre noe"
+  answer: |
+    å være nødt til å gjøre noe = å måtte gjøre noe / å ikke ha noe valg
+    Jeg er nødt til å jobbe i dag.  
+    Vi var nødt til å vente lenge.  
+    Hun blir nødt til å flytte.  
+    Betydning:
+    Når du ikke har noe valg og må gjøre noe på grunn av en situasjon eller et krav.
+
+- question: "å være deprimert"
+  answer: |
+    to be depressed
+
+- question: "å bli forsinket"
+  answer: |
+    delayed
+    Toget er forsinket
+
 - question: "å gjøre seg klar for noe"
   answer: |
     to get ready for something
@@ -72,19 +174,6 @@
     Det førte til en stor diskusjon.  
     Det kan føre til mange problemer.
 
-- question: "å være lei av noe"
-  answer: |
-    tired of
-    Hun er lei av å jobbe hele tiden → She is tired of working all the time
-
-    
-- question: "å være ærlig med noen"
-  answer: |
-    to be honest with someone
-    Jeg er bare ærlig med deg.
-    Du må være ærlig med foreldrene dine. 
-    Kan jeg være helt ærlig med deg? 
-
 - question: "å skylde på noen"
   answer: |
     to blame someone
@@ -118,39 +207,6 @@
     Hun tolket stillheten som et nei.
     En tolk tolker mellom to språk.
 
-- question: "å være ferdig med noe"
-  answer: |
-    to be finished with something
-    Jeg er ferdig med oppgaven.
-    Hun er ferdig med jobben for i dag.
-
-- question: "å være nødt til å gjøre noe"
-  answer: |
-    å være nødt til å gjøre noe = å måtte gjøre noe / å ikke ha noe valg
-    Jeg er nødt til å jobbe i dag.  
-    Vi var nødt til å vente lenge.  
-    Hun blir nødt til å flytte.  
-    Betydning:
-    Når du ikke har noe valg og må gjøre noe på grunn av en situasjon eller et krav.
-
-- question: "å være vant til noe"
-  answer: |
-    to be used to / accustomed to something
-    Jeg er vant til kulda.
-    Han er vant til å jobbe mye.
-    
-- question: "å være flink til noe"
-  answer: |
-    to be good at something
-    Hun er flink til å lage mat.
-
-- question: "å være medlem av noe"
-  answer: |
-    to be a member of something
-    Jeg er medlem av en klubb.
-    Han er medlem av et politisk parti.
-    (Mange stemmer på et politisk parti.)
-
 - question: "å fange opp noe (Idéer/Temaer/Poenget)"
   answer: |
     to grasp something / to pick up something
@@ -159,11 +215,6 @@
     Det er vanskelig å fange opp subtile forskjeller i kulturen.
     Jeg fikk ikke fange opp signalet.
 
-- question: "å være interessert i noe"
-  answer: |
-    to be interested in something
-    Jeg er interessert i teknologi
-
 - question: "å tvile på noe"
   answer: |
     to doubt on something (tviler-tvilte-har tvilt)
@@ -171,19 +222,6 @@
     Hun tviler på at det vil fungere 
     Det er ingen grunn til å tvile
     Jeg begynner å tvile
-
-- question: "å være eksponert for noe"
-  answer: |
-    to be exposed to something
-    Barn er eksponert for mye skjermtid.
-    Arbeidere kan være eksponert for farlige kjemikalier (chemicals)
-
-- question: "å være imponert over noe/noen"
-  answer: |
-    to be impressed by something/someone
-    Jeg er imponert over arbeidet ditt.
-    Hun ble imponert over resultatet.
-    Vi var imponert over hvor raskt han lærte norsk.
     
 - question: "å sette pris på noe"
   answer: |
@@ -210,12 +248,6 @@
     Denne informasjonen kommer til nytte senere.
     Erfaringen min kom virkelig til nytte i jobben.
 
-- question: "å være i ferd med å gjøre noe"
-  answer: |
-    to be in the process of doing something
-    Jeg er i ferd med å lære norsk.
-    Hun var i ferd med å gå ut da telefonen ringte.
-
 - question: "å forestille seg noe"
   answer: |
     to imagine something
@@ -229,23 +261,6 @@
     Jeg passer på barna
     Filmen passer for barn.
 
-- question: "å være fornøyd med noe"
-  answer: |
-    satisfied
-    Jeg er fornøyd med resultatet
-
-- question: "å være bekymret for noen/noe"
-  answer: |
-    worried
-    Jeg er bekymret for deg
-    Jeg er bekymret for fremtiden
-
-- question: "å være redd for [noe/å gjøre noe]"
-  answer: |
-    afraid; redd for=afraid of 
-    Mange innvandrere er redde for norskprøven
-    Han er redd for å fly
-  
 - question: "å redde noen"
   answer: |
     to save/rescue
@@ -315,18 +330,6 @@
     læreren korrigerer teksten din
     Jeg korrigerte svaret mitt
     korreksjon (substantiv) = en retting, korrekt (adjektiv) = riktig
-
-- question: "å være trygg"
-  answer: |
-    be safe
-    Jeg føler meg trygg her → I feel safe here
-    Barna er trygge på skolen
-    Dette er et trygt sted å bo
-
-- question: "å bli forsinket"
-  answer: |
-    delayed
-    Toget er forsinket
 
 - question: "å ta ansvar for noe"
   answer: |
@@ -732,10 +735,6 @@
     to have the energy/to handle (orker-orket-har orket)
     Jeg orker ikke mer → I can't take it anymore
     Hun orker ikke å lage middag i dag
-
-- question: "å være deprimert"
-  answer: |
-    to be depressed
 
 - question: "å lukte"
   answer: |
