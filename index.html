@@ -68,8 +68,10 @@ button:disabled{opacity:.45;cursor:default}
 .mark button{padding:13px;font-weight:600;border-width:1.5px}
 .unknown{color:var(--red);border-color:var(--red)} .known{background:var(--green);border-color:var(--green);color:#fff}
 .tools{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-.tools button{background:none;border-color:transparent;color:var(--muted);padding:6px 10px;font-size:.88rem}
-.tools button:hover:not(:disabled){color:var(--ink);border-color:var(--line)}
+.tools button{background:var(--surface);border-color:var(--line);color:var(--ink);padding:8px 14px;font-size:.9rem}
+.tools button:hover:not(:disabled){border-color:var(--muted)}
+.tools #speak{background:var(--brand);border-color:var(--brand);color:var(--brand-ink);font-weight:600}
+.tools #speak:hover:not(:disabled){border-color:var(--brand);opacity:.9}
 .tools [aria-pressed=true]{color:var(--brand);border-color:var(--brand)}
 .hint,.voice{text-align:center;color:var(--muted);font-size:.8rem;margin:0}
 @media (hover:none){.hint{display:none}}
@@ -124,8 +126,9 @@ footer a{color:inherit}
   </div>
 
   <div class="tools">
-    <button id="speak">Speak</button>
-    <button id="shuffle" aria-pressed="false">Shuffle</button>
+    <button id="speak">🔊 Speak</button>
+    <button id="shuffle" aria-pressed="false">🔀 Shuffle</button>
+    <button id="ordered" hidden>In order</button>
     <button id="reset">Reset progress</button>
   </div>
   <p class="voice" id="voice"></p>
@@ -262,10 +265,20 @@ el.next.onclick = () => go(idx + 1);
 el.known.onclick = () => mark('known');
 el.unknown.onclick = () => mark('unknown');
 el.speak.onclick = speak;
+// Every press reshuffles and starts from the first card of the new order.
 el.shuffle.onclick = () => {
-  shuffled = !shuffled; el.shuffle.setAttribute('aria-pressed', shuffled);
+  shuffled = true; syncShuffleUI();
+  applyView(null);
+};
+$('ordered').onclick = () => {
+  shuffled = false; syncShuffleUI();
   applyView(view[idx] && view[idx].q);
 };
+function syncShuffleUI(){
+  el.shuffle.setAttribute('aria-pressed', shuffled);
+  el.shuffle.textContent = shuffled ? '🔀 Reshuffle' : '🔀 Shuffle';
+  $('ordered').hidden = !shuffled;
+}
 el.reset.onclick = () => {
   if (!all.length || !confirm('Reset all progress for this set?')) return;
   progress = {}; store.set('nf2-progress-' + file, '{}');
