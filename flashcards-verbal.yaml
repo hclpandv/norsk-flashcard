@@ -179,6 +179,14 @@
     to blame someone
     Jeg mener at det er viktig å ta ansvar i stedet for å skylde på andre.
 
+- question: "å rekke noe"
+  answer: |
+    to have time for something; to manage to do something; to reach something
+    rekker-rakk-har rukket
+    Jeg rekker ikke bussen.
+    Rekker vi å spise før filmen begynner?
+    Jeg rakk ikke å ringe deg.
+
 - question: "å reagere på noe"
   answer: |
     to react on something
@@ -190,7 +198,7 @@
   answer: |
     to regret something (angrer-angret-har angret)
     Jeg angrer på at jeg ikke begynte tidligere.
-    Hun angrer skikkelig på det som har skedd.
+    Hun angrer skikkelig på det som har skjedd.
 
 - question: "å avhenge av noe"
   answer: |
