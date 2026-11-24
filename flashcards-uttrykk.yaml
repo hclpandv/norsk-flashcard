@@ -381,3 +381,33 @@
 
 - question: "Just like you"
   answer: "akkurat som deg"
+
+- question: "When it comes to"
+  answer: |
+    Når det gjelder (Når det kommer til)
+    Når det gjelder mat, er jeg kresen.
+    Når det kommer til sport, er jeg ikke så interessert.
+
+- question: "Among other things"
+  answer: |
+    Blant annet
+    Barn trenger blant annet søvn, sunn mat og trygghet.
+    Folk flytter til Norge av mange grunner, blant annet jobb og utdanning.
+
+- question: "Not least"
+  answer: |
+    ikke minst
+    Det er viktig å sove godt, spise sunt og trene regelmessig, ikke minst være sosial med venner og familie.
+  
+- question: "In other words"
+  answer: |
+    med andre ord
+    Med andre ord, vi må finne en løsning på problemet.
+
+- question: "Thanks to"
+  answer: |
+    Takket være
+    Takket være deg, klarte jeg å fullføre prosjektet.
+    Vi har klart å redusere kostnadene, takket være effektiv planlegging.
+    
+  
